@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "สวัสดีชาวโลก"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "โตโต้, ฉันได้ความรู้สึกที่เราไม่ได้อีกต่อไปในรัฐแคนซัส"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "มีสถานที่ที่ไม่เหมือนบ้านของ"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "สิ่งที่เราได้รับนี่คือความล้มเหลวในการสื่อสาร"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "ฮุสตันเรามีปัญหา"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "ให้ปิดหญ้า"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "ทุกฐานของคุณจะเป็นของเรา"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "ในความฝันคุณสามารถเห็นตัวเองโดยไม่ต้องใช้กระจก"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "กรุณาฉันอาจมีบางมะนาว?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "ช่วยฉัน!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "ไม่ได้คุณจะไม่มา!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "เปรียบเทียบ"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "สนับสนุน"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google แปลภาษา? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "สถิติของผู้เข้าชม Locale"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "ไม่ SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "ที่เกี่ยวข้อง Locales ไอซียู"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "บิดามารดา :"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "พี่น้อง :"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "เด็ก :"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Locales"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "ชื่อ"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java Locales {1}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "ชื่อพื้นเมือง"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "เปรียบเทียบสองแหล่งข้อมูลและดูว่าสถานที่ที่อยู่ในหนึ่ง แต่ไม่ได้อื่น ๆ"
+
+#, fuzzy
+msgid "Languages"
+msgstr "Languages"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "ภาษากับประเทศ"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "ที่แปล?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "ชื่อที่ไม่ใช่ของ Google"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google แปลภาษา"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "คุณต้องเลือกสองแหล่งข้อมูลที่แตกต่างกันเพื่อเปรียบเทียบ"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "สถานที่ในการตรวจสอบ :"
+
+#, fuzzy
+msgid "In both"
+msgstr "ขึ้นทั้งในด้าน"
+
+#, fuzzy
+msgid "Options:"
+msgstr "ตัวเลือก :"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "แหล่งข้อมูล {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "Options"
+
+#, fuzzy
+msgid "All"
+msgstr "ทั้งหมด"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "สถานที่แสดงเหมือนกัน"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "สถานที่ที่ขาดหายไป"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "เปรียบเทียบอีกครั้ง"
+
+#, fuzzy
+msgid "compare"
+msgstr "เปรียบเทียบ"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "ข้อมูลพื้นฐาน"
+
+#, fuzzy
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+#, fuzzy
+msgid "Code"
+msgstr "รหัส"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "ตัวอย่างการแปล"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "แหล่งข้อมูลอื่น ๆ"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "ชื่อ Google"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "สนับสนุน?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "ชื่อในแหล่งข้อมูล"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "การวางแนวตัวอักษร"
+
+#, fuzzy
+msgid "Display name"
+msgstr "ชื่อที่แสดง"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "การวางแนวเส้น"
+
+#, fuzzy
+msgid "Data source"
+msgstr "แหล่งข้อมูล"
+
+#, fuzzy
+msgid "Value"
+msgstr "มูลค่า"
+
+#, fuzzy
+msgid "No"
+msgstr "ไม่มี"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "สถานที่ Base ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "คุณสมบัติ"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "ชื่อที่แสดงด้วยภาษาถิ่น"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "เปรียบเทียบแหล่งข้อมูลสำหรับ {0}"
+
+#, fuzzy
+msgid "Yes"
+msgstr "ใช่"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "เปลี่ยนภาษา"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(ไม่มีการจับคู่ที่ตรงกัน)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "ข้อมูลทั่วไป"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "ภาษาที่สนับสนุน"
+
+#, fuzzy
+msgid "Dates"
+msgstr "วันที่"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "รูปแบบตัวเลข"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "มูลค่า (s)"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(ไม่พบ)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "ภาษาสวิทช์"
+
+#, fuzzy
+msgid "all"
+msgstr "ทั้งหมด"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "หน้าแรก LocalePlanet"
+
+#, fuzzy
+msgid "languages"
+msgstr "ภาษา"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "สถานที่ที่ซับซ้อน"
+
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "รายการ :"
+
+#, fuzzy
+msgid "Select"
+msgstr "เลือก"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "แหล่งที่มาของข้อมูลเปรียบเทียบ Locale"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "หมายเลข"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Locale Java? {0}? ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google แปลภาษา"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. CultureInfo NET? {0}? ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "เปลี่ยนภาษา"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "ข้อมูลเพิ่มเติมเป็นภาษาท้องถิ่นกว่าที่คุณสามารถสั่นติดที่และ API เกินไป!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "สถานที่เรียบง่าย"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "Sitemap LocalePlanet"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "เปลี่ยนภาษา"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "แผนผังเว็ปไซต์นี้มีความหมายสำหรับหุ่นยนต์ไม่มนุษย์ แต่คุณสามารถเรียกดูต่อไป! หรือลองดู XML {0} ดิบ {1}"
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "เปรียบเทียบสองแหล่งข้อมูลเพื่อดูสถานที่ที่หายไป"
+
+#, fuzzy
+msgid "Missing"
+msgstr "หายไป"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(ไม่ได้กำหนด)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(ปัจจุบัน)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# ภาษา : {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "ยินดีต้อนรับสู่ LocalePlanet!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "ข้อความ :"
+
+#, fuzzy
+msgid "Local name"
+msgstr "ชื่อท้องถิ่น"
+
+#, fuzzy
+msgid "Digit"
+msgstr "เลข"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / Strings PM"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google แปลภาษา {1}"
+
+#, fuzzy
+msgid "Standards"
+msgstr "มาตรฐานการ"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "ที่สำคัญหลัก"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "รายชื่อทั้งหมด"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "ลวดลาย"
+
+#, fuzzy
+msgid "Percent"
+msgstr "เปอร์เซ็นต์"
+
+#, fuzzy
+msgid "Short months"
+msgstr "เดือนสั้น"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Locales Extended"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "คั่นเลขชี้กำลัง"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "สัญลักษณ์สกุลเงิน"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "เครื่องหมายแสดงทศนิยม"
+
+#, fuzzy
+msgid "Contact"
+msgstr "ติดต่อ"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "การจัดกลุ่มแยก"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "Pad หลบหนี"
+
+#, fuzzy
+msgid "Eras"
+msgstr "ยุค"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "สัญลักษณ์สกุลเงินต่างประเทศ"
+
+#, fuzzy
+msgid "Website:"
+msgstr "Website :"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "Zero หลัก"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "อินฟินิตี้"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Talk มีราคาถูก ขอดูรหัส"
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "การเงินทศนิยม"
+
+#, fuzzy
+msgid "Total:"
+msgstr "Total :"
+
+#, fuzzy
+msgid "Months"
+msgstr "เดือน"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Simple (XX - XX) Locales"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "วันธรรมดา"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "แกรนด์ทั้งหมด : {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "ชื่อยุค"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "เฉพาะใน {0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy
+msgid "Name:"
+msgstr "ชื่อ :"
+
+#, fuzzy
+msgid "Continue"
+msgstr "ต่อเนื่อง"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 รายชื่อประเทศ"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "เครื่องหมายบวก"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "สถานที่แผนกผู้ป่วยหนักในประเทศนี้"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "วันธรรมดาสั้น"
+
+#, fuzzy
+msgid "File name"
+msgstr "ชื่อไฟล์"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "มาตรฐาน :"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "ชื่อท้องถิ่น"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "องค์ประกอบระหว่างประเทศเพื่อการ Unicode (ICU {0} {1}) Data"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "โรงสีต่อ"
+
+#, fuzzy
+msgid "Message"
+msgstr "ข้อความ"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "ลบ"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "เลิกใช้ :"
+
+#, fuzzy
+msgid "Field"
+msgstr "เขตข้อมูล"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "ขอบคุณสำหรับความคิดเห็นของคุณ"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "สถานที่ห้องไอซียูโดยใช้ภาษานี้"
+
+#, fuzzy
+msgid "Format"
+msgstr "รูปแบบ"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "นี้ผ่านทางรายการของ ISO 639 ภาษา <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "ประเทศ"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "นี่คือรายชื่อของ ISO 3166 ประเทศผ่านทาง <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 รายการภาษา"
+
+#, fuzzy
+msgid "Description"
+msgstr "ลักษณะ"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "เขตเวลา"
+
+#, fuzzy
+msgid "Today"
+msgstr "ในวันนี้"
+
+#, fuzzy
+msgid "Translation"
+msgstr "การแปล"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "เปรียบเทียบรูปแบบวันที่"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "แปลโหลด!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "ประเทศที่มีภาษา {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "รูปแบบวันที่"
+
+#, fuzzy
+msgid "Result"
+msgstr "ผล"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "ทศนิยม? คั่น"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "เปรียบเทียบรูปแบบวันที่"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "สัญลักษณ์ทศนิยม"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "ตัวแปรแสดง"
+
+#, fuzzy
+msgid "Call"
+msgstr "โทรศัพท์"
+
+#, fuzzy
+msgid "Details"
+msgstr "รายละเอียด"
+
+#, fuzzy
+msgid "Function"
+msgstr "ฟังก์ชัน"
+
+#, fuzzy
+msgid "Email:"
+msgstr "อีเมล์ :"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Demo"
+msgstr "การสาธิต"
+
+#, fuzzy
+msgid "Sample"
+msgstr "กลุ่มตัวอย่าง"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "การล้อม"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "เปรียบเทียบรูปแบบสกุลเงิน"
+
+#, fuzzy
+msgid "Plural"
+msgstr "พหูพจน์"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(ไม่มี)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "วันที่สั่งซื้อ"
+
+#, fuzzy
+msgid "Overview"
+msgstr "ภาพรวมของ"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "รูปแบบวันที่"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "มาตรฐานที่เกี่ยวข้องเพิ่มเติม"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "ข้อสอบถามของท่านตรงกับ {0} แฟ้มในไดเรกทอรี {1}"
+
+#, fuzzy
+msgid "File name"
+msgstr "ไฟล์? ชื่อ"
+
+#, fuzzy
+msgid "Input"
+msgstr "อินพุต"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "เครื่องหมาย"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "วันนี้เป็นวัน {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "เปรียบเทียบ :"
+
+#, fuzzy
+msgid "Library"
+msgstr "ห้องสมุด"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "การจัดกลุ่ม? คั่น"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "เปรียบเทียบรูปแบบเวลา"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "รูปแบบสกุลเงิน"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "รูปแบบเวลา"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "และรองรับหลายภาษาสากลสำหรับ JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "ลบ? เข้าสู่ระบบ"
+
+#, fuzzy
+msgid "Output"
+msgstr "Output"
+
+#, fuzzy
+msgid "Examples"
+msgstr "ตัวอย่างเช่น"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "แบ่งรูปแบบ"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "รูปแบบเวลา"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Now ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "ภาษา"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "อาร์กิวเมนต์"
+
+#, fuzzy
+msgid "Country"
+msgstr "ประเทศ"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet : L10N และ I18n สำหรับ JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "ชื่อที่ปรากฏ"
+
+#, fuzzy
+msgid "Usage"
+msgstr "การใช้"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "ชื่อยาว"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "คุณมี {0} ชีวิตที่เหลืออยู่"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "เอามือของคุณที่ฉันสามารถดูได้!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "ข้อมูล"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "สั้นมาตรฐาน"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Long / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "สั้น / Daylight"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "ชื่อสั้น"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "ยาว / Daylight"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "ทศนิยม? หลัก"
+
+#, fuzzy
+msgid "Home"
+msgstr "หน้าแรก"
+
+#, fuzzy
+msgid "unknown"
+msgstr "ไม่ทราบ"

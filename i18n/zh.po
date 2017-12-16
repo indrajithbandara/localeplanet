@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "世界您好！"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "托托，我感觉我们再也回不去堪萨斯了"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "有没有地方像家一样"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "现在我们得到的只是沟通上的失败"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "休斯敦，我们有一个问题"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "请勿践踏草坪"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "您所有的基础，是属于我们"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "在梦中，你可以看到自己不使用镜子"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "请给我一点柠檬？"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "救救我！"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "不，你不来！"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "空气污染指数"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "比较"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "支持"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "谷歌翻译语言？{0}？"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "观众区域设置统计"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "不是的SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "重症监护病房相关语言环境"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "家长："
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "兄弟姐妹："
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "儿童："
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "爪哇语言环境"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "名称"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "身份证"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1}的Java语言环境"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "当地的名称"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "比较两个数据源，看看哪些是在一个语言环境，但不是其他。"
+
+#, fuzzy
+msgid "Languages"
+msgstr "语言"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "语言与各国"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "翻译？"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "非谷歌的名字"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "谷歌翻译的语言"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "你必须选择两个来源不同的数据进行比较"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "语言环境进行检查："
+
+#, fuzzy
+msgid "In both"
+msgstr "在这两种"
+
+#, fuzzy
+msgid "Options:"
+msgstr "选项："
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "资料来源{0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "选项"
+
+#, fuzzy
+msgid "All"
+msgstr "所有"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "共同的语言环境中显示"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "缺少语言环境"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "再比较"
+
+#, fuzzy
+msgid "compare"
+msgstr "比较"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "基本信息"
+
+#, fuzzy
+msgid "English"
+msgstr "英语"
+
+#, fuzzy
+msgid "Code"
+msgstr "守则"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "翻译范例"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "其他资料来源"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "谷歌名称"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "支持吗？"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "在数据源名称"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "性质定位"
+
+#, fuzzy
+msgid "Display name"
+msgstr "显示名称"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "线方向"
+
+#, fuzzy
+msgid "Data source"
+msgstr "资料来源"
+
+#, fuzzy
+msgid "Value"
+msgstr "价值"
+
+#, fuzzy
+msgid "No"
+msgstr "无"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "相应的区域设置ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "物业"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "显示名称与方言"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "{0}数据源对比"
+
+#, fuzzy
+msgid "Yes"
+msgstr "是的"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "切换语言"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "（不完全匹配）"
+
+#, fuzzy
+msgid "General Information"
+msgstr "一般资料"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "支持的语言"
+
+#, fuzzy
+msgid "Dates"
+msgstr "日期"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "数字格式"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "值（S）"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "（未找到）"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "转换语言"
+
+#, fuzzy
+msgid "all"
+msgstr "所有"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet首页"
+
+#, fuzzy
+msgid "languages"
+msgstr "语言"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "复杂的语言环境"
+
+#, fuzzy
+msgid "URL"
+msgstr "网址"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "列表："
+
+#, fuzzy
+msgid "Select"
+msgstr "选择"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "比较本地化数据源"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "号码"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Java语言环境？{0}？ （{1}）"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "谷歌翻译的语言"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "微软的。NET的CultureInfo？{0}？ （{1}）"
+
+#, fuzzy
+msgid "Change language"
+msgstr "更改语言"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "比你更本地化的数据都不能动摇一个棒，和API呢！"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "简单的语言环境"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet地图"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "更改语言"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "此Sitemap的意思是机器人，不是人类，而是随意浏览反正！您还可以尝试在{0}原始XML视图{1}。"
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "比较两个数据源的locales人失踪。"
+
+#, fuzzy
+msgid "Missing"
+msgstr "失踪"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "（未设置）"
+
+#, fuzzy
+msgid "(current)"
+msgstr "（当前）"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "＃语言：{0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "欢迎来到LocalePlanet！"
+
+#, fuzzy
+msgid "Message:"
+msgstr "消息："
+
+#, fuzzy
+msgid "Local name"
+msgstr "本地名称"
+
+#, fuzzy
+msgid "Digit"
+msgstr "数字"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "上午/下午弦"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} {1}谷歌翻译的语言"
+
+#, fuzzy
+msgid "Standards"
+msgstr "标准"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "有效数字"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "总目录"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "模式"
+
+#, fuzzy
+msgid "Percent"
+msgstr "百分之"
+
+#, fuzzy
+msgid "Short months"
+msgstr "短短几个月内"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "扩展语言环境"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "指数分离器"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "货币符号"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "小数分隔符"
+
+#, fuzzy
+msgid "Contact"
+msgstr "联系"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "分组分隔"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "垫逃生"
+
+#, fuzzy
+msgid "Eras"
+msgstr "时代"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "国际货币符号"
+
+#, fuzzy
+msgid "Website:"
+msgstr "网址："
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "零位"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "无穷大"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "谈话是便宜。给我的代码。"
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "货币小数分隔符"
+
+#, fuzzy
+msgid "Total:"
+msgstr "总计："
+
+#, fuzzy
+msgid "Months"
+msgstr "个月"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "简单（第XX - XX）号语言环境"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "平日"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "总计：{0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "年号"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "只有在{0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN的"
+
+#, fuzzy
+msgid "Name:"
+msgstr "产品名称："
+
+#, fuzzy
+msgid "Continue"
+msgstr "继续"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "3166国家名单"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "加号"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "在这个国家的语言环境重症监护病房"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "平日短"
+
+#, fuzzy
+msgid "File name"
+msgstr "文件名"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "标准："
+
+#, fuzzy
+msgid "Local Name"
+msgstr "本地名称"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "对于Unicode国际组件（{0} {1}加护病房）数据"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "每磨"
+
+#, fuzzy
+msgid "Message"
+msgstr "消息"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "减号"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "过时："
+
+#, fuzzy
+msgid "Field"
+msgstr "场"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "感谢您的反馈！"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "加护病房使用这种语言的语言环境"
+
+#, fuzzy
+msgid "Format"
+msgstr "格式"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "通过名录，这是语言的ISO 639 <code>ULocale.getISOLanguages()</code>"
+
+#, fuzzy
+msgid "Countries"
+msgstr "国家"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "这是通过了ISO 3166的国家名单<code>ULocale.getISOCountries()</code>"
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639语言名单"
+
+#, fuzzy
+msgid "Description"
+msgstr "说明"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "时区"
+
+#, fuzzy
+msgid "Today"
+msgstr "今天"
+
+#, fuzzy
+msgid "Translation"
+msgstr "翻译"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "日期模式比较"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "翻译加载！"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "与语言的国家{0}（{1}）"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "日期模式"
+
+#, fuzzy
+msgid "Result"
+msgstr "结果"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "十进制？分隔"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "日期模式比较"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "十进制符号"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "显示变种"
+
+#, fuzzy
+msgid "Call"
+msgstr "呼叫"
+
+#, fuzzy
+msgid "Details"
+msgstr "详情"
+
+#, fuzzy
+msgid "Function"
+msgstr "功能"
+
+#, fuzzy
+msgid "Email:"
+msgstr "电子邮箱："
+
+#, fuzzy
+msgid "Locale"
+msgstr "语言环境"
+
+#, fuzzy
+msgid "Demo"
+msgstr "演示"
+
+#, fuzzy
+msgid "Sample"
+msgstr "样本"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "四舍五入"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "比较货币格局"
+
+#, fuzzy
+msgid "Plural"
+msgstr "复数"
+
+#, fuzzy
+msgid "(none)"
+msgstr "（无）"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "订购日期"
+
+#, fuzzy
+msgid "Overview"
+msgstr "概述"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "日期模式"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "更多的相关标准"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "您的查询匹配的{0} {1}目录中的文件。"
+
+#, fuzzy
+msgid "File name"
+msgstr "文件？名称"
+
+#, fuzzy
+msgid "Input"
+msgstr "输入"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "符号"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "今天是{0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "比较："
+
+#, fuzzy
+msgid "Library"
+msgstr "图书馆"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "分组？分离"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "时间模式比较"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "货币格局"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "时间模式"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "本地化和国际化的JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "减？赶快"
+
+#, fuzzy
+msgid "Output"
+msgstr "输出"
+
+#, fuzzy
+msgid "Examples"
+msgstr "范例"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "分离模式"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "时间模式"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "现在（{0}）"
+
+#, fuzzy
+msgid "Language"
+msgstr "语言"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "参数"
+
+#, fuzzy
+msgid "Country"
+msgstr "国家"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet：本地化和国际化的JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "显示名称"
+
+#, fuzzy
+msgid "Usage"
+msgstr "用法"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "长的名字"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "您有{0}余下的生命"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "把你的手，我可以看到他们！"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "典型的ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "数据"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "短/标准"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "长/标准"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "短/日光"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "短名称"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "长/日光"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "十进制？位数"
+
+#, fuzzy
+msgid "Home"
+msgstr "首页"
+
+#, fuzzy
+msgid "unknown"
+msgstr "未知"

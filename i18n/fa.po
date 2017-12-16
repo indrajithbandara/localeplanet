@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "سلام جهان!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "هم رفته ، من احساس ما در کانزاس در حال ندارم"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "هیچ جایی مثل خانه وجود دارد"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "چیزی که ما داریم در اینجا عدم ارتباط است"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, tenemos un problema"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "حفظ کردن چمن"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "همه از پایگاه خود را متعلق به ما هستند"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "در رویا می توانید خود را بدون استفاده از آینه را ببینید"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "لطفا ممکن است برخی از لیمو به من بدهید؟"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "به من کمک کنید!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "نه ، تو نمیاد!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "مقایسه"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Apoyo"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "گوگل ترجمه زبان؟ {0}؟"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "آمار بازدید کنندگان محلی"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "نمی SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Relacionado Locales UCI"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "مرجع :"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "خواهر و برادر :"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "کودکان :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "منطقه های جاوا"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "نام"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "شناسایی"
+
+#, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} Java Locales"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "مقایسه دو منبع داده ها و ببینید که در منطقه های که در یکی هستند اما نه دیگر."
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Languages"
+msgstr "زبان ها"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "زبان با کشورها"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Traducible?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "No pertenecen a Google el nombre"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "گوگل ترجمه زبان"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "شما باید دو منبع داده های مختلفی را برای مقایسه انتخاب"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "منطقه های برای بررسی :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "In both"
+msgstr "در هر دو"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Opciones:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "منبع داده {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Options"
+msgstr "گزینه ها"
+
+#, fuzzy
+msgid "All"
+msgstr "Todos los"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "منطقه های نمایش مشترک"
+
+#, fuzzy
+msgid "Native name"
+msgstr "nombre nativo"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "منطقه های گمشده"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "مقایسه دوباره"
+
+#, fuzzy
+msgid "compare"
+msgstr "comparar"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "اطلاعات پایه"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "English"
+msgstr "انگلیسی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Code"
+msgstr "کد"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "نمونه ترجمه های درخواست شده"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "سایر منابع داده ها"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Google Nombre"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "پشتیبانی؟"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Nombre de origen de datos"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "علامت جهت گیری"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Display name"
+msgstr "نام نمایش"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "جهت خط"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Data source"
+msgstr "منبع اطلاعاتی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Value"
+msgstr "ارزش"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "No"
+msgstr "بدون"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "مکان پایه شناسه"
+
+#, fuzzy
+msgid "Property"
+msgstr "Propiedad"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "نام صفحه نمایش با لهجه"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "اطلاعات مقایسه منبع برای {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Yes"
+msgstr "بله"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "El cambio de lengua"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(بدون جواب دقیق)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "General Information"
+msgstr "اطلاعات عمومی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "زبان های پشتیبان"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Dates"
+msgstr "خرما"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Formatos de número"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Valor (s)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(یافت نشد)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Cambiar el idioma"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "all"
+msgstr "همه"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet صفحه اصلی"
+
+#, fuzzy
+msgid "languages"
+msgstr "idiomas"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "منطقه های پیچیده"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "URL"
+msgstr "آدرس"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "فهرست :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Select"
+msgstr "انتخاب"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "مقایسه داده های محلی منابع"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "تعداد"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Configuración regional de Java? {0}? ({1})"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "گوگل زبان ترجمه"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. CultureInfo NET? {0}? ({1})"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Change language"
+msgstr "تغییر زبان"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Más datos de localización que usted puede sacudir un palo, y una API también!"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "منطقه های ساده"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet نقشه سایت"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Cambiar idioma"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "این نقشه برای روبات ها ، انسان ها نه به معنای ، اما احساس رایگان به فهرست به هر حال! یا سعی کنید {0} مشاهده کاپرفیلد خام {1}."
+
+#, fuzzy, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "مقایسه دو منبع داده ها را ببینید که در منطقه های گم شده است."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Falta"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(تنظیم شده باشد)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(فعلی)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "# از زبان ها : {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "خوش آمدید به LocalePlanet!"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Message:"
+msgstr "پیام :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Local name"
+msgstr "نام محلی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Digit"
+msgstr "رقم"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "هستم / رشته ظهر"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Traductor Idiomas {1}"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Normas"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "رقم معنیدار"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "لیست کامل"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "الگو"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Percent"
+msgstr "درصد"
+
+#, fuzzy
+msgid "Short months"
+msgstr "cortos meses"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "منطقه های تمدید شده"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "جدا نما"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Símbolo de moneda"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "جدا دهدهی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Contact"
+msgstr "تماس با ما"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "گروه بندی جدا"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "پد فرار"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Eras"
+msgstr "دوره ها"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "نماد بین المللی ارز"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Website:"
+msgstr "وب سایت :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "صفر رقمی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "ابدیت"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "بحث ارزان است. به من نشان بده کد."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Monetario separador decimal"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Total:"
+msgstr "مجموعا :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Months"
+msgstr "ماه"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "ساده (خیلی خیلی خیلی خیلی -) منطقه های"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "روزهای هفته تا کی"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Total: {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Era names"
+msgstr "نام دوره"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "فقط در {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "NaN"
+msgstr "نان"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Name:"
+msgstr "نام و نام خانوادگی :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Continue"
+msgstr "ادامه"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 País Lista"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "علامت بعلاوه"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "منطقه های آی سی یو در این کشور"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "روزهای هفته تا کی کوتاه"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "File name"
+msgstr "نام پرونده"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Normas:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "نام محلی"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "قطعات بین المللی از یونیکد ({0} {1} بخش مراقبتهای ویژه) داده ها"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "molino por"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Message"
+msgstr "پیام"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "علامت منها"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "منسوخ :"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Field"
+msgstr "رشته"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "با تشکر از نظرات شما!"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "منطقه های آی سی یو با استفاده از این زبان"
+
+#, fuzzy
+msgid "Format"
+msgstr "Formato"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "این از طریق این لیست از ایزو 639 زبان <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Countries"
+msgstr "کشورها"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "این است از طریق لیست ایزو 3166 کشور <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ایزو 639 زبان فهرست"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Description"
+msgstr "شرح"
+
+#, fuzzy, fuzzy
+msgid "Email:"
+msgstr "پست الکترونیکی :"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "محدوده های زمانی"
+
+#, fuzzy
+msgid "Today"
+msgstr "امروز"
+
+#, fuzzy
+msgid "Translation"
+msgstr "ترجمه"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "مقایسه الگوهای تاریخ"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "ترجمه های درخواست شده لود!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "کشورهای با زبان {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "الگوی تاریخ"
+
+#, fuzzy
+msgid "Result"
+msgstr "نتیجه"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "دهدهی؟ جداساز"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "مقایسه الگوهای تاریخ"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "دهدهی نمادها"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "نوع صفحه نمایش"
+
+#, fuzzy
+msgid "Call"
+msgstr "صدا"
+
+#, fuzzy
+msgid "Details"
+msgstr "جزئیات"
+
+#, fuzzy
+msgid "Function"
+msgstr "تابع"
+
+#, fuzzy
+msgid "Output"
+msgstr "تولید"
+
+#, fuzzy
+msgid "Demo"
+msgstr "نسخه ی نمایشی"
+
+#, fuzzy
+msgid "Sample"
+msgstr "نمونه"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "گرد کردن"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "مقایسه الگوی نرخ ارز"
+
+#, fuzzy
+msgid "Plural"
+msgstr "جمع"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(خالی)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "تاریخ سفارش"
+
+#, fuzzy
+msgid "Overview"
+msgstr "بررسی اجمالی"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "الگوهای تاریخ"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "اضافی مربوط به استاندارد"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "پیامی با درخواست شما مطابقت {0} فایل در دایرکتوری ها {1}."
+
+#, fuzzy
+msgid "File name"
+msgstr "پرونده؟ نام"
+
+#, fuzzy
+msgid "Input"
+msgstr "ورودی"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "نماد"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "امروز برابر است با {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "مقایسه کنید :"
+
+#, fuzzy
+msgid "Library"
+msgstr "کتابخانه"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "گروه بندی؟ جداساز"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "مقایسه الگوی زمان"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "الگوهای ارز"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "الگوهای زمان"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "محلی سازی و بین المللی برای جاوا اسکریپت"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "منهای؟ ثبت نام"
+
+#, fuzzy
+msgid "Locale"
+msgstr "محل"
+
+#, fuzzy
+msgid "Examples"
+msgstr "نمونه"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "الگوی جداساز"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "زمان الگو"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "در حال حاضر ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "زبان"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "استدلال"
+
+#, fuzzy
+msgid "Country"
+msgstr "کشور"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet : l10n و i18n برای جاوا اسکریپت"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#, fuzzy
+msgid "Usage"
+msgstr "استفاده"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "نام بلند"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "شما {0} زندگی باقی مانده"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "دستا جایی که من می توانید آنها را ببینید!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "کنونیکال شناسه"
+
+#, fuzzy
+msgid "Data"
+msgstr "اطلاعات"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "کوتاه / استاندارد"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "لانگ / استاندارد"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "کوتاه / نور روز"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "نام کوتاه"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "لانگ / نور روز"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "دهدهی؟ شماره"
+
+#, fuzzy
+msgid "Home"
+msgstr "خانه"
+
+#, fuzzy
+msgid "unknown"
+msgstr "ناشناخته"

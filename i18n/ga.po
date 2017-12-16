@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Domhan Dia duit!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, tá mé ag mothú nach mbeimid i gKansas níos mó"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Níl aon tinteán mar do thinteán"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Cad é atá againn fuair anseo teip chun cumarsáid a dhéanamh"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, nous avons un problème"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Coinnigh as an féar"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Gach do bonn a bhaineann le linn"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "I aisling is féidir leat tú féin a fheiceáil gan úsáid a bhaint as scátháin"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Cuir féidir liom a bheith roinnt líomóidí?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Cuidigh liom!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Níl, ní bhíonn tú ag teacht!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Déan comparáid idir"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Support"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate Teanga? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Staitisticí Locale Cuairteoirí"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "nach SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Locales ICU connexes"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Tuismitheoir:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Deartháireacha / deirfiúracha:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Páistí:"
+
+#, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java locales"
+
+#, fuzzy, fuzzy
+msgid "Name"
+msgstr "Ainm"
+
+#, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} Java Locales"
+
+#, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Déan comparáid idir dhá fhoinse sonraí a fheiceáil agus a locales atá i gceann amháin ach nach bhfuil an duine eile."
+
+#, fuzzy, fuzzy
+msgid "Languages"
+msgstr "Teangacha"
+
+#, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "Teangacha le Tíortha"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Traduisible?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "nom non-Google"
+
+#, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "Teangacha Google Translate"
+
+#, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Ní mór duit Pioc dhá fhoinse sonraí éagsúla a chur i gcomparáid"
+
+#, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "Locales a sheiceáil:"
+
+#, fuzzy, fuzzy
+msgid "In both"
+msgstr "Sa dá"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Options:"
+
+#, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "Sonraí Foinse {0}"
+
+#, fuzzy, fuzzy
+msgid "Options"
+msgstr "Roghanna"
+
+#, fuzzy
+msgid "All"
+msgstr "Tous les"
+
+#, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "locales Taispeáin i gcoiteann"
+
+#, fuzzy
+msgid "Native name"
+msgstr "nom amérindien"
+
+#, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "Iarraidh locales"
+
+#, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "Déan comparáid arís"
+
+#, fuzzy
+msgid "compare"
+msgstr "comparer"
+
+#, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "Eolas Bunúsach"
+
+#, fuzzy, fuzzy
+msgid "English"
+msgstr "Béarla"
+
+#, fuzzy, fuzzy
+msgid "Code"
+msgstr "Cód"
+
+#, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "Sampla Aistriúcháin"
+
+#, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "foinsí eile sonraí chun"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Nom Google"
+
+#, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "Tacaithe?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Nom de source de données"
+
+#, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "Carachtar treoshuíomh"
+
+#, fuzzy, fuzzy
+msgid "Display name"
+msgstr "Taispeáin ainm"
+
+#, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "Líne treoshuíomh"
+
+#, fuzzy, fuzzy
+msgid "Data source"
+msgstr "Sonraí fhoinse"
+
+#, fuzzy, fuzzy
+msgid "Value"
+msgstr "Luach"
+
+#, fuzzy, fuzzy
+msgid "No"
+msgstr "Uimh"
+
+#, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "Base logchaighdeán ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "Propriété"
+
+#, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "Taispeáin ainm le canúint"
+
+#, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Comparáid idir Foinse sonraí le haghaidh {0}"
+
+#, fuzzy, fuzzy
+msgid "Yes"
+msgstr "Is ea"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Changer de langue"
+
+#, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(Ní bhfuair cruinn)"
+
+#, fuzzy, fuzzy
+msgid "General Information"
+msgstr "Eolas Ginearálta"
+
+#, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "Teangacha Tacaithe"
+
+#, fuzzy, fuzzy
+msgid "Dates"
+msgstr "Dátaí"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Formats Nombre"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Valeur (s)"
+
+#, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(Ní bhfuarthas)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Changer de langue"
+
+#, fuzzy, fuzzy
+msgid "all"
+msgstr "ar fad"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "Leathanach Baile LocalePlanet"
+
+#, fuzzy
+msgid "languages"
+msgstr "langues"
+
+#, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "locales casta"
+
+#, fuzzy, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "Liostaí:"
+
+#, fuzzy, fuzzy
+msgid "Select"
+msgstr "Roghnaigh"
+
+#, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Déan comparáid idir Locale Foinsí Sonraí"
+
+#, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "Uimhreacha"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Locale Java? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "Teangacha Google Translate"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. CultureInfo NET? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Change language"
+msgstr "Athraigh an teanga"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "données de localisation plus que vous pouvez secouer un bâton à, et une API trop!"
+
+#, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "locales simplí"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Mapa an tSuímh"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Changer la langue"
+
+#, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Tá sé seo i gceist do léarscáil an tSuímh nach robots, daoine, ach glaoch a brabhsáil ar aon nós! Nó bain triail an dearcadh {0} {1} XML amh."
+
+#, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "comparáid a dhéanamh idir dhá fhoinse sonraí a fheiceáil atá ar iarraidh locales."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Manquant"
+
+#, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(Gan a bheith suite)"
+
+#, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(Reatha)"
+
+#, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Teangacha: {0}"
+
+#, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Fáilte go dtí LocalePlanet!"
+
+#, fuzzy, fuzzy
+msgid "Message:"
+msgstr "Teachtaireacht:"
+
+#, fuzzy, fuzzy
+msgid "Local name"
+msgstr "Ainm Áitiúil"
+
+#, fuzzy, fuzzy
+msgid "Digit"
+msgstr "Dhigit"
+
+#, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "Teaghráin AM PM /"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate langues {1}"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Normes"
+
+#, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "Suntasacha dhigit"
+
+#, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "Liosta iomlán"
+
+#, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "Patrún"
+
+#, fuzzy, fuzzy
+msgid "Percent"
+msgstr "Céatadán"
+
+#, fuzzy
+msgid "Short months"
+msgstr "mois court"
+
+#, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "Locales Breisithe"
+
+#, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "Easpónant deighilteoir"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Symbole monétaire"
+
+#, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "Deachúil deighilteoir"
+
+#, fuzzy, fuzzy
+msgid "Contact"
+msgstr "Teagmháil"
+
+#, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "Grúpáil deighilteoir"
+
+#, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "Pad éalaithe"
+
+#, fuzzy, fuzzy
+msgid "Eras"
+msgstr "Tréimhsí"
+
+#, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "siombail airgeadra Idirnáisiúnta"
+
+#, fuzzy, fuzzy
+msgid "Website:"
+msgstr "Láithreán Gréasáin:"
+
+#, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "Nialais dhigit"
+
+#, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "Infinity"
+
+#, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Plé é saor. Taispeáin dom an cód."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Séparateur décimal monétaire"
+
+#, fuzzy, fuzzy
+msgid "Total:"
+msgstr "Iomlán:"
+
+#, fuzzy, fuzzy
+msgid "Months"
+msgstr "Míonna"
+
+#, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Simplí (xx-XX) locales"
+
+#, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "I rith na seachtaine"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Grand total: {0}"
+
+#, fuzzy, fuzzy
+msgid "Era names"
+msgstr "ainmneacha Ré"
+
+#, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "Ach i {0}"
+
+#, fuzzy, fuzzy
+msgid "NaN"
+msgstr "Nan"
+
+#, fuzzy, fuzzy
+msgid "Name:"
+msgstr "Ainm:"
+
+#, fuzzy, fuzzy
+msgid "Continue"
+msgstr "Leanúint ar aghaidh"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "Liste de pays ISO 3166"
+
+#, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "Plus shíniú"
+
+#, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "locales ICU sa tír seo"
+
+#, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "Gearr i rith na seachtaine"
+
+#, fuzzy, fuzzy
+msgid "File name"
+msgstr "File name"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Normes:"
+
+#, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "Ainm Áitiúil"
+
+#, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Comhpháirteanna Idirnáisiúnta le haghaidh Unicode ({0} {1} ICU) Sonraí"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "Par moulin"
+
+#, fuzzy, fuzzy
+msgid "Message"
+msgstr "Teachtaireacht"
+
+#, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "Lúide shíniú"
+
+#, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "Léig:"
+
+#, fuzzy, fuzzy
+msgid "Field"
+msgstr "Réimse"
+
+#, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Go raibh maith agat as do chuid aiseolais!"
+
+#, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "locales ICU baint úsáide as an teanga"
+
+#, fuzzy
+msgid "Format"
+msgstr "Format"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Is é seo an liosta de na teangacha ISO 639 via <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy, fuzzy
+msgid "Countries"
+msgstr "Tíortha"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Seo liosta na n ISO 3166 tíortha trí <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Liosta Teanga"
+
+#, fuzzy, fuzzy
+msgid "Description"
+msgstr "Cur Síos"
+
+#, fuzzy
+msgid "Email:"
+msgstr "Ríomhphost:"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Am Criosanna"
+
+#, fuzzy
+msgid "Today"
+msgstr "Today"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Aistriúchán"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Déan comparáid idir patrúin Dáta"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Aistriúcháin luchtaithe!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Tíortha le teanga {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Dáta Patrún"
+
+#, fuzzy
+msgid "Result"
+msgstr "Toradh"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Deachúil? Deighilteoir"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Déan comparáid idir Patrúin Dáta"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Deachúil Siombailí"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Taispeáin athraitheach"
+
+#, fuzzy
+msgid "Call"
+msgstr "Cuir glaoch ar an"
+
+#, fuzzy
+msgid "Details"
+msgstr "Sonraí"
+
+#, fuzzy
+msgid "Function"
+msgstr "Feidhm"
+
+#, fuzzy
+msgid "Output"
+msgstr "Aschur"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Sampla"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Slánú"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Déan comparáid idir Patrúin Airgeadra"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Iolra"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(None)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Dáta Ordú"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Forbhreathnú"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "patrúin Dáta"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "caighdeáin ábhartha breise"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Do cheist a mhacasamhail {0} comhaid i eolairí {1}."
+
+#, fuzzy
+msgid "File name"
+msgstr "File? Ainm"
+
+#, fuzzy
+msgid "Input"
+msgstr "Ionchur"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Siombail"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Inniu, tá {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Déan comparáid idir:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Leabharlann"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Grúpáil? Deighilteoir"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Déan comparáid idir Am Patrúin"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "patrúin reatha"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "patrúin am"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Logánú agus Internationalization do JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Lúide? Cláraigh"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Samplaí"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Patrún Deighilteoir"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Am Patrún"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Anois ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Teanga"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Argóintí"
+
+#, fuzzy
+msgid "Country"
+msgstr "Tír"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: l10n agus I18N do JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Taispeáin Ainm"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Úsáid"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Ainmneacha Fada"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Tá tú {0} saol atá fágtha"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Cuir do chuid lámha áit is féidir liom iad a fheiceáil!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Sonraí"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Gearr / Simplí"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Long / Simplí"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Gearr / Solas lae"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Ainmneacha Gearr"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Long / Solas lae"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Deachúil? Digití"
+
+#, fuzzy
+msgid "Home"
+msgstr "Baile"
+
+#, fuzzy
+msgid "unknown"
+msgstr "anaithnid"

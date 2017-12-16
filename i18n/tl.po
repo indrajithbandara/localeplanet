@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Hello mundo!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, na ko ng isang pakiramdam kami ay hindi sa Kansas anymore"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Walang lugar tulad ng bahay"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Ano ang mayroon kami dito ay kabiguan upang makipag-"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "ฮุสตันเรามีปัญหา"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Panatilihin off ang mga damo"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Lahat ng base ng iyong mga nabibilang sa amin"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "Sa pangarap na maaari mong makita ang iyong sarili nang hindi gumagamit ng salamin"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Mangyaring maaaring ako ay may ilang mga lemons?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Tulong sa akin!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Hindi, hindi ka na darating!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Ihambing"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "สนับสนุน"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Isalin ang Wika? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Bisita Locale Statistics"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "hindi isang SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "ที่เกี่ยวข้อง Locales ไอซียู"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Magulang:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Magkakapatid:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Mga anak:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java locales"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Pangalan"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java Locales {1}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "ชื่อพื้นเมือง"
+
+#, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Ihambing ang dalawang mga pinagmumulan ng data at makita kung aling mga locale na sa isa ngunit hindi sa iba."
+
+#, fuzzy, fuzzy
+msgid "Languages"
+msgstr "Wika"
+
+#, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "Wika na may mga Bansa"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "ที่แปล?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "ชื่อที่ไม่ใช่ของ Google"
+
+#, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Isalin ang Wika"
+
+#, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Dapat kang pumili ng dalawang magkaibang data sources upang ihambing"
+
+#, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "Locales to check:"
+
+#, fuzzy, fuzzy
+msgid "In both"
+msgstr "Sa parehong mga"
+
+#, fuzzy
+msgid "Options:"
+msgstr "ตัวเลือก :"
+
+#, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "Data Source {0}"
+
+#, fuzzy, fuzzy
+msgid "Options"
+msgstr "Opsyon"
+
+#, fuzzy
+msgid "All"
+msgstr "ทั้งหมด"
+
+#, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "Ipakita ang mga locale sa mga karaniwang"
+
+#, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "Nawawalang locale"
+
+#, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "Ihambing muli"
+
+#, fuzzy
+msgid "compare"
+msgstr "เปรียบเทียบ"
+
+#, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "Basic na Impormasyon"
+
+#, fuzzy, fuzzy
+msgid "English"
+msgstr "Ingles"
+
+#, fuzzy, fuzzy
+msgid "Code"
+msgstr "Code"
+
+#, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "Sample Translations"
+
+#, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "Iba pang mga data sources"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "ชื่อ Google"
+
+#, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "Suportado?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "ชื่อในแหล่งข้อมูล"
+
+#, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "Character orientation"
+
+#, fuzzy, fuzzy
+msgid "Display name"
+msgstr "Ipakita ang pangalan"
+
+#, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "Line orientation"
+
+#, fuzzy, fuzzy
+msgid "Data source"
+msgstr "Data source"
+
+#, fuzzy, fuzzy
+msgid "Value"
+msgstr "Halaga"
+
+#, fuzzy, fuzzy
+msgid "No"
+msgstr "Hindi"
+
+#, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "Base locale ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "คุณสมบัติ"
+
+#, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "Ipakita ang pangalan na may idyoma"
+
+#, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Data Source para sa Paghahambing {0}"
+
+#, fuzzy, fuzzy
+msgid "Yes"
+msgstr "Oo"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "เปลี่ยนภาษา"
+
+#, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(Walang eksaktong tugma)"
+
+#, fuzzy, fuzzy
+msgid "General Information"
+msgstr "Pangkalahatang Impormasyon"
+
+#, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "Suportado Wika"
+
+#, fuzzy, fuzzy
+msgid "Dates"
+msgstr "Mga petsa"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "รูปแบบตัวเลข"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "มูลค่า (s)"
+
+#, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(Hindi nahanap)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "ภาษาสวิทช์"
+
+#, fuzzy, fuzzy
+msgid "all"
+msgstr "lahat"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Home Page"
+
+#, fuzzy
+msgid "languages"
+msgstr "ภาษา"
+
+#, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "kumplikadong locales"
+
+#, fuzzy, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "Mga listahan:"
+
+#, fuzzy, fuzzy
+msgid "Select"
+msgstr "Piliin"
+
+#, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Ihambing Pinagmumulan Locale Data"
+
+#, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "Mga numero ng"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Locale Java? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Isalin ang wika"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. CultureInfo NET? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Change language"
+msgstr "Baguhin ang wika"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "ข้อมูลเพิ่มเติมเป็นภาษาท้องถิ่นกว่าที่คุณสามารถสั่นติดที่และ API เกินไป!"
+
+#, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "simpleng locales"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sitemap"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "เปลี่ยนภาษา"
+
+#, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "sitemap na ito ay sinadya para sa mga robot, hindi tao, ngunit huwag mag-atubili na mag-browse pa rin! O subukan ang {0} raw XML view {1}."
+
+#, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "paghambingin ang dalawang mga pinagmumulan ng data upang makita kung aling mga locale ay ang mga nawawalang."
+
+#, fuzzy
+msgid "Missing"
+msgstr "หายไป"
+
+#, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(Hindi nakatakda)"
+
+#, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(Kasalukuyang)"
+
+#, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Ng wika: {0}"
+
+#, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Maligayang pagdating sa LocalePlanet!"
+
+#, fuzzy, fuzzy
+msgid "Message:"
+msgstr "Mensahe:"
+
+#, fuzzy, fuzzy
+msgid "Local name"
+msgstr "Lokal na pangalan"
+
+#, fuzzy, fuzzy
+msgid "Digit"
+msgstr "Tambilang"
+
+#, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Strings"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google แปลภาษา {1}"
+
+#, fuzzy
+msgid "Standards"
+msgstr "มาตรฐานการ"
+
+#, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "Makabuluhang digit"
+
+#, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "Complete List"
+
+#, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "Padron"
+
+#, fuzzy, fuzzy
+msgid "Percent"
+msgstr "Porsiyento"
+
+#, fuzzy
+msgid "Short months"
+msgstr "เดือนสั้น"
+
+#, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "Extended locales"
+
+#, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "Exponent separator"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "สัญลักษณ์สกุลเงิน"
+
+#, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "Decimal"
+
+#, fuzzy, fuzzy
+msgid "Contact"
+msgstr "Contact"
+
+#, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "Grouping separator"
+
+#, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "Pad makatakas"
+
+#, fuzzy, fuzzy
+msgid "Eras"
+msgstr "Panahon"
+
+#, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "International pera simbolo"
+
+#, fuzzy, fuzzy
+msgid "Website:"
+msgstr "Website:"
+
+#, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "Zero digit"
+
+#, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "Kawalang-hanggan"
+
+#, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Talk ay mura. Ipakita sa akin ang code."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "การเงินทศนิยม"
+
+#, fuzzy, fuzzy
+msgid "Total:"
+msgstr "Total:"
+
+#, fuzzy, fuzzy
+msgid "Months"
+msgstr "Buwan"
+
+#, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Simple (xx-XX) locales"
+
+#, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "Weekdays"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "แกรนด์ทั้งหมด : {0}"
+
+#, fuzzy, fuzzy
+msgid "Era names"
+msgstr "Era pangalan"
+
+#, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "Lamang sa {0}"
+
+#, fuzzy, fuzzy
+msgid "NaN"
+msgstr "Nan"
+
+#, fuzzy, fuzzy
+msgid "Name:"
+msgstr "Pangalan:"
+
+#, fuzzy, fuzzy
+msgid "Continue"
+msgstr "Magpatuloy"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 รายชื่อประเทศ"
+
+#, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "Tanda ng pagdaragdag"
+
+#, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "ICU locales sa bansang ito"
+
+#, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "Maikling weekdays"
+
+#, fuzzy, fuzzy
+msgid "File name"
+msgstr "Pangalan ng file"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "มาตรฐาน :"
+
+#, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "Local Name"
+
+#, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "International Components para sa Unicode ({0} ICU {1}) Data"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "โรงสีต่อ"
+
+#, fuzzy, fuzzy
+msgid "Message"
+msgstr "Mensahe"
+
+#, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "Minus sign"
+
+#, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "Luma na:"
+
+#, fuzzy, fuzzy
+msgid "Field"
+msgstr "Bukid"
+
+#, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Salamat sa iyong puna!"
+
+#, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU locales paggamit na ito wika"
+
+#, fuzzy
+msgid "Format"
+msgstr "รูปแบบ"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Ito ang listahan ng mga ISO 639 mga wika sa pamamagitan ng <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy, fuzzy
+msgid "Countries"
+msgstr "Bansa"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Ito ang listahan ng mga ISO 3166 mga bansa sa pamamagitan ng <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Wika List"
+
+#, fuzzy, fuzzy
+msgid "Description"
+msgstr "Paglalarawan"
+
+#, fuzzy
+msgid "Email:"
+msgstr "Email:"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Time Zone"
+
+#, fuzzy
+msgid "Today"
+msgstr "Ngayon"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Pagsasalin"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Ihambing ang mga pattern ng petsa"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Translations load!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Mga bansa na may wikang {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Petsa ng Pattern"
+
+#, fuzzy
+msgid "Result"
+msgstr "Resulta"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Decimal? Separator"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Ihambing Pattern Petsa"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Decimal Mga Simbolo"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Ipakita ang mga iba"
+
+#, fuzzy
+msgid "Call"
+msgstr "Tawag"
+
+#, fuzzy
+msgid "Details"
+msgstr "Detalye"
+
+#, fuzzy
+msgid "Function"
+msgstr "Tungkulin"
+
+#, fuzzy
+msgid "Output"
+msgstr "Output"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Pagpapakita"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Sample"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Rounding"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Ihambing Pattern Currency"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Maramihan"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Wala)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Petsa ng Order"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Pangkalahatang-ideya ng"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "petsa pattern"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Karagdagang kaugnay na mga pamantayan"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Ang iyong query tumugma sa {0} file sa {1} ang mga directory."
+
+#, fuzzy
+msgid "File name"
+msgstr "File? Pangalan"
+
+#, fuzzy
+msgid "Input"
+msgstr "Input"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Simbolo"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Ngayon ay ang {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Ikumpara:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Aklatan"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Grouping? Separator"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Ihambing Pattern Time"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "pera pattern"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "panahon pattern"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Localization at internationalize para JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Minus? Mag-sign"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Mga halimbawa"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Pattern Separator"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Time Pattern"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Ngayon ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Wika"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Pangangatwiran"
+
+#, fuzzy
+msgid "Country"
+msgstr "Bansa"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N at I18N para JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Display Name"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Paggamit"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Long Pangalan"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Ikaw {0} natitirang buhay"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Ilagay ang iyong mga kamay kung saan ang maaari kong makita ang mga ito!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Data"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Short / Standard"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Long / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Short / Daylight"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Maikling Pangalan"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Long / Daylight"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Decimal? Digits"
+
+#, fuzzy
+msgid "Home"
+msgstr "Tahanan"
+
+#, fuzzy
+msgid "unknown"
+msgstr "hindi kilala"

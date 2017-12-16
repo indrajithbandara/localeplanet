@@ -1,0 +1,1018 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-17 13:33-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy
+msgid "Hello world!"
+msgstr "Hello world!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, ek het &#39;n gevoel ons is nie in Kansas meer"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET phone home"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy
+msgid "There's no place like home"
+msgstr "Daar is geen plek soos huis"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Wat ons hier het is die onvermoë om te kommunikeer"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, ons het &#39;n probleem"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy
+msgid "Keep off the grass"
+msgstr "Hou van die gras af"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy
+msgid "All your base are belong to us"
+msgstr "Al jou base is behoort aan ons"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "In drome kan jy jouself sien, sonder die gebruik van spieëls"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Asseblief kan ek &#39;n paar suurlemoene?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy
+msgid "Help me!"
+msgstr "Help my!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy
+msgid "No, you're not coming!"
+msgstr "Nee, is jy nie kom!"
+
+#: ../src/com/localeplanet/ui/UI.java:75
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Talk is cheap. Wys my die kode."
+
+#: ../src/com/localeplanet/ui/UI.java:111
+#, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:117
+#, fuzzy
+msgid "Compare"
+msgstr "Vergelyk"
+
+#: ../src/com/localeplanet/ui/UI.java:143 ../www/standard/index_html.jsp:10
+#, fuzzy
+msgid "Standards"
+msgstr "Standaarde"
+
+#: ../src/com/localeplanet/ui/UI.java:149
+#, fuzzy
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: ../src/com/localeplanet/ui/UI.java:155 ../src/com/localeplanet/ui/UI.java:157
+#, fuzzy
+msgid "Change language"
+msgstr "Verander taal"
+
+#: ../www/standard/index_html.jsp:15 ../www/icu/index_html.jsp:36
+#, fuzzy
+msgid "Standards:"
+msgstr "Standaarde:"
+
+#: ../www/standard/index_html.jsp:28
+#, fuzzy
+msgid "Obsolete:"
+msgstr "Uitgediende:"
+
+#: ../www/icu/index_html.jsp:23
+#, java-format, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Internasionale komponente vir Unicode ({0} ICU {1}) Data"
+
+#: ../www/icu/index_html.jsp:38 ../www/compare/missing_html.jsp:70 ../www/compare/language_html.jsp:14
+#, fuzzy
+msgid "Languages"
+msgstr "Tale"
+
+#: ../www/icu/index_html.jsp:39
+#, fuzzy
+msgid "Countries"
+msgstr "Lande"
+
+#: ../www/icu/iso3166_html.jsp:21 ../www/icu/iso3166_html.jsp:26
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Country Lys"
+
+#: ../www/icu/iso3166_html.jsp:27
+#, fuzzy
+msgid ""
+"This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</"
+"code>."
+msgstr "Hierdie is die lys van ISO 3166-lande via <code>ULocale.getISOCountries()</code> ."
+
+#: ../www/icu/iso3166_html.jsp:30 ../www/icu/iso639_html.jsp:30 ../www/java/index_html.jsp:36 ../www/compare/_list_html.jsp:39 ../www/google-translate/index_html.jsp:49
+#, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#: ../www/icu/iso3166_html.jsp:31
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "ICU lokaliteite in hierdie land"
+
+#: ../www/icu/iso639_html.jsp:21 ../www/icu/iso639_html.jsp:26
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Taal Lys"
+
+#: ../www/icu/iso639_html.jsp:27
+#, fuzzy
+msgid ""
+"This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</"
+"code>."
+msgstr "Hierdie is die lys van ISO 639 tale via <code>ULocale.getISOLanguages()</code> ."
+
+#: ../www/icu/iso639_html.jsp:31
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU lokaliteite met behulp van hierdie taal"
+
+#: ../www/sitemap_xsl.jsp:24 ../www/sitemap_xsl.jsp:30
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sitemap"
+
+#: ../www/sitemap_xsl.jsp:32
+#, java-format, fuzzy
+msgid ""
+"This sitemap is meant for robots, not humans, but feel free to browse "
+"anyway! Or try the {0}raw XML view{1}."
+msgstr "Hierdie sitemap is bedoel vir robots, nie mense nie, maar voel vry om te blaai in elk geval! Of probeer die {0} ruwe XML view {1}."
+
+#: ../www/sitemap_xsl.jsp:38
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#: ../www/_api/info_html.jsp:52 ../www/_api/dfs_html.jsp:52
+#, fuzzy
+msgid "Field"
+msgstr "Gebied"
+
+#: ../www/_api/info_html.jsp:53 ../www/_api/dfs_html.jsp:53 ../www/_icu/index_html.jsp:34 ../www/_icu/index_html.jsp:89
+#, fuzzy
+msgid "Value"
+msgstr "Waarde"
+
+#: ../www/api/index_html.jsp:27
+#, fuzzy
+msgid "File name"
+msgstr "File name"
+
+#: ../www/api/index_html.jsp:28
+#, fuzzy
+msgid "Description"
+msgstr "Beskrywing"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate Taal? {0}?"
+
+#: ../www/_google-translate/index_html.jsp:94
+#, fuzzy
+msgid "Basic Information"
+msgstr "Basiese inligting"
+
+#: ../www/_google-translate/index_html.jsp:97 ../www/dotnet/index_html.jsp:34
+#, fuzzy
+msgid "Code"
+msgstr "Kode"
+
+#: ../www/_google-translate/index_html.jsp:101
+#, fuzzy
+msgid "Google Name"
+msgstr "Google Naam"
+
+#: ../www/_google-translate/index_html.jsp:105 ../www/google-translate/index_html.jsp:51
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Nie-Google naam"
+
+#: ../www/_google-translate/index_html.jsp:109 ../www/google-translate/index_html.jsp:52
+#, fuzzy
+msgid "Translatable?"
+msgstr "Vertaal?"
+
+#: ../www/_google-translate/index_html.jsp:113 ../www/_icu/index_html.jsp:80
+#, fuzzy
+msgid "Other data sources"
+msgstr "Ander data-bronne"
+
+#: ../www/_google-translate/index_html.jsp:114 ../www/_icu/index_html.jsp:81
+#, fuzzy
+msgid "compare"
+msgstr "vergelyk"
+
+#: ../www/_google-translate/index_html.jsp:118
+#, fuzzy
+msgid "Sample Translations"
+msgstr "Steekproef Translations"
+
+#: ../www/_google-translate/index_html.jsp:121
+#, fuzzy
+msgid "English"
+msgstr "Engels"
+
+#: ../www/_java/index_html.jsp:32
+#, java-format, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Java Locale {0}? ({1})"
+
+#: ../www/_java/index_html.jsp:44 ../www/_dotnet/index_html.jsp:34 ../www/_icu/index_html.jsp:30
+#, fuzzy
+msgid "General Information"
+msgstr "Algemene Inligting"
+
+#: ../www/_java/index_html.jsp:46 ../www/_dotnet/index_html.jsp:36 ../www/_icu/index_html.jsp:84
+#, fuzzy
+msgid "Numbers"
+msgstr "Getalle"
+
+#: ../www/_java/index_html.jsp:48 ../www/_dotnet/index_html.jsp:38 ../www/_icu/index_html.jsp:161
+#, fuzzy
+msgid "Dates"
+msgstr "Datums"
+
+#: ../www/java/index_html.jsp:28
+#, fuzzy
+msgid "Java Locales"
+msgstr "Java Locales"
+
+#: ../www/java/index_html.jsp:33
+#, java-format, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java {1} Locales"
+
+#: ../www/java/index_html.jsp:37 ../www/dotnet/index_html.jsp:35 ../www/compare/_list_html.jsp:40 ../www/google-translate/index_html.jsp:50
+#, fuzzy
+msgid "Name"
+msgstr "Naam"
+
+#: ../www/java/index_html.jsp:38
+#, fuzzy
+msgid "Local name"
+msgstr "Plaaslike naam"
+
+#: ../www/_dotnet/index_html.jsp:22
+#, java-format, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft NET CultureInfo?. {0}? ({1})"
+
+#: ../www/index_html.jsp:16
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Home Page"
+
+#: ../www/index_html.jsp:24
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Welkom by LocalePlanet!"
+
+#: ../www/index_html.jsp:26
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Meer lokalisasie data as wat jy kan &#39;n stok in, en&#39; n API te skud!"
+
+#: ../www/index_html.jsp:28 ../www/compare/index_html.jsp:29
+#, fuzzy
+msgid "Lists:"
+msgstr "Lists:"
+
+#: ../www/index_html.jsp:29 ../www/compare/index_html.jsp:30
+#, fuzzy
+msgid "all"
+msgstr "al"
+
+#: ../www/index_html.jsp:30 ../www/compare/index_html.jsp:31
+#, fuzzy
+msgid "languages"
+msgstr "tale"
+
+#: ../www/index_html.jsp:31 ../www/compare/index_html.jsp:32
+#, fuzzy
+msgid "simple locales"
+msgstr "eenvoudige locales"
+
+#: ../www/index_html.jsp:32 ../www/compare/index_html.jsp:33
+#, fuzzy
+msgid "complex locales"
+msgstr "komplekse locales"
+
+#: ../www/index_html.jsp:41
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate tale"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Besoekers Locale Statistiek"
+
+#: ../www/support/browser_html.jsp:121
+#, fuzzy
+msgid "(not set)"
+msgstr "(Nie ingestel)"
+
+#: ../www/support/change-language_html.jsp:24 ../www/support/change-language_html.jsp:45
+#, fuzzy
+msgid "Change Language"
+msgstr "Taal verander"
+
+#: ../www/support/change-language_html.jsp:49
+#, fuzzy
+msgid "Supported Languages"
+msgstr "Ondersteun Tale"
+
+#: ../www/support/change-language_html.jsp:81
+#, fuzzy
+msgid "(current)"
+msgstr "(Huidige)"
+
+#: ../www/support/change-language_html.jsp:86
+#, fuzzy
+msgid "Select"
+msgstr "Kies"
+
+#: ../www/support/contact_html.jsp:58
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Dankie vir jou terugvoer!"
+
+#: ../www/support/contact_html.jsp:77
+#, fuzzy
+msgid "Contact"
+msgstr "Kontak"
+
+#: ../www/support/contact_html.jsp:84
+#, fuzzy
+msgid "Continue"
+msgstr "Bly"
+
+#: ../www/support/contact_html.jsp:105
+#, fuzzy
+msgid "Message"
+msgstr "Boodskap"
+
+#: ../www/support/contact_html.jsp:108
+#, fuzzy
+msgid "Name:"
+msgstr "Naam:"
+
+#: ../www/support/contact_html.jsp:112
+#, fuzzy
+msgid "Email:"
+msgstr "E-pos:"
+
+#: ../www/support/contact_html.jsp:116
+#, fuzzy
+msgid "Website:"
+msgstr "Webwerf:"
+
+#: ../www/support/contact_html.jsp:120
+#, fuzzy
+msgid "Message:"
+msgstr "Boodskap:"
+
+#: ../www/_icu/index_html.jsp:33 ../www/_icu/index_html.jsp:88 ../www/_icu/index_html.jsp:165
+#, fuzzy
+msgid "Property"
+msgstr "Eiendom"
+
+#: ../www/_icu/index_html.jsp:37
+#, fuzzy
+msgid "Base locale ID"
+msgstr "Base plaaslike ID"
+
+#: ../www/_icu/index_html.jsp:41
+#, fuzzy
+msgid "Display name"
+msgstr "Vertoning naam"
+
+#: ../www/_icu/index_html.jsp:45
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "Wys naam met dialek"
+
+#: ../www/_icu/index_html.jsp:49
+#, fuzzy
+msgid "Character orientation"
+msgstr "Karakter oriëntasie"
+
+#: ../www/_icu/index_html.jsp:53
+#, fuzzy
+msgid "Line orientation"
+msgstr "Line oriëntasie"
+
+#: ../www/_icu/index_html.jsp:66
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(Geen presiese match)"
+
+#: ../www/_icu/index_html.jsp:92
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Simbool"
+
+#: ../www/_icu/index_html.jsp:96
+#, fuzzy
+msgid "Decimal separator"
+msgstr "Desimale skeiding"
+
+#: ../www/_icu/index_html.jsp:100 ../www/_icu/index_html.jsp:132
+#, fuzzy
+msgid "Digit"
+msgstr "Syfer"
+
+#: ../www/_icu/index_html.jsp:104
+#, fuzzy
+msgid "Exponent separator"
+msgstr "Eksponent separator"
+
+#: ../www/_icu/index_html.jsp:108
+#, fuzzy
+msgid "Grouping separator"
+msgstr "Groepering separator"
+
+#: ../www/_icu/index_html.jsp:112
+#, fuzzy
+msgid "Infinity"
+msgstr "Infinity"
+
+#: ../www/_icu/index_html.jsp:116
+#, fuzzy
+msgid "International currency symbol"
+msgstr "Internasionale valuta simbool"
+
+#: ../www/_icu/index_html.jsp:120
+#, fuzzy
+msgid "Minus sign"
+msgstr "Minusteken"
+
+#: ../www/_icu/index_html.jsp:124
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Monetêre desimale skeier"
+
+#: ../www/_icu/index_html.jsp:128
+#, fuzzy
+msgid "NaN"
+msgstr "Nan"
+
+#: ../www/_icu/index_html.jsp:136
+#, fuzzy
+msgid "Pad escape"
+msgstr "Pad ontsnap"
+
+#: ../www/_icu/index_html.jsp:140
+#, fuzzy
+msgid "Percent"
+msgstr "Persent"
+
+#: ../www/_icu/index_html.jsp:144
+#, fuzzy
+msgid "Per mill"
+msgstr "Per milj"
+
+#: ../www/_icu/index_html.jsp:148
+#, fuzzy
+msgid "Plus sign"
+msgstr "Plus teken"
+
+#: ../www/_icu/index_html.jsp:152
+#, fuzzy
+msgid "Significant digit"
+msgstr "Beduidende syfer"
+
+#: ../www/_icu/index_html.jsp:156
+#, fuzzy
+msgid "Zero digit"
+msgstr "Nul-syfer"
+
+#: ../www/_icu/index_html.jsp:166
+#, fuzzy
+msgid "Value(s)"
+msgstr "Waarde (s)"
+
+#: ../www/_icu/index_html.jsp:169
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Strings"
+
+#: ../www/_icu/index_html.jsp:173
+#, fuzzy
+msgid "Eras"
+msgstr "Eras"
+
+#: ../www/_icu/index_html.jsp:177
+#, fuzzy
+msgid "Era names"
+msgstr "Era name"
+
+#: ../www/_icu/index_html.jsp:181
+#, fuzzy
+msgid "Months"
+msgstr "Maande"
+
+#: ../www/_icu/index_html.jsp:185
+#, fuzzy
+msgid "Short months"
+msgstr "Kort maande"
+
+#: ../www/_icu/index_html.jsp:189
+#, fuzzy
+msgid "Short weekdays"
+msgstr "Kort weeksdae"
+
+#: ../www/_icu/index_html.jsp:193
+#, fuzzy
+msgid "Weekdays"
+msgstr "Weeksdae"
+
+#: ../www/_icu/index_html.jsp:197
+#, fuzzy
+msgid "Format"
+msgstr "Formaat"
+
+#: ../www/_icu/index_html.jsp:198
+#, fuzzy
+msgid "Pattern"
+msgstr "Patroon"
+
+#: ../www/_icu/index_html.jsp:248
+#, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "nie &#39;n SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:258
+#, fuzzy
+msgid "Related ICU Locales"
+msgstr "Verwante ICU Locales"
+
+#: ../www/_icu/index_html.jsp:264
+#, fuzzy
+msgid "Parent:"
+msgstr "Ouer:"
+
+#: ../www/_icu/index_html.jsp:279
+#, fuzzy
+msgid "Siblings:"
+msgstr "Broers en susters:"
+
+#: ../www/_icu/index_html.jsp:300
+#, fuzzy
+msgid "Children:"
+msgstr "Kinders:"
+
+#: ../www/dotnet/index_html.jsp:36
+#, fuzzy
+msgid "Local Name"
+msgstr "Plaaslike Naam"
+
+#: ../www/dotnet/index_html.jsp:88 ../www/google-translate/index_html.jsp:116
+#, java-format, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Van tale: {0}"
+
+#: ../www/compare/all_html.jsp:13
+#, fuzzy
+msgid "Complete List"
+msgstr "Volledige lys"
+
+#: ../www/compare/missing_html.jsp:37 ../www/compare/missing_html.jsp:42 ../www/compare/_missing.jsp:47 ../www/compare/_missing.jsp:52
+#, fuzzy
+msgid "Missing Locales"
+msgstr "Ontbreek Locales"
+
+#: ../www/compare/missing_html.jsp:46
+#, fuzzy
+msgid ""
+"Compare two data sources and see which locales that are in one but not the "
+"other."
+msgstr "Vergelyk twee data-bronne en sien watter lokaliteitsinstellings wat in een, maar nie die ander."
+
+#: ../www/compare/missing_html.jsp:57
+#, fuzzy
+msgid "Options"
+msgstr "Opsies"
+
+#: ../www/compare/missing_html.jsp:60 ../www/compare/missing_html.jsp:64
+#, java-format, fuzzy
+msgid "Data Source {0}"
+msgstr "Data Bron {0}"
+
+#: ../www/compare/missing_html.jsp:68
+#, fuzzy
+msgid "Locales to check:"
+msgstr "Lokaliteitsininstelling te gaan:"
+
+#: ../www/compare/missing_html.jsp:71
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "Tale met Lande"
+
+#: ../www/compare/missing_html.jsp:72
+#, fuzzy
+msgid "All"
+msgstr "Al"
+
+#: ../www/compare/missing_html.jsp:76
+#, fuzzy
+msgid "Options:"
+msgstr "Opsies:"
+
+#: ../www/compare/missing_html.jsp:77
+#, fuzzy
+msgid "Show locales in common"
+msgstr "Wys lokaliteite in die algemeen"
+
+#: ../www/compare/simple_html.jsp:14
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Eenvoudige (xx-XX) Locales"
+
+#: ../www/compare/_missing.jsp:25
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Jy moet haal twee verskillende data bronne te vergelyk"
+
+#: ../www/compare/_missing.jsp:55 ../www/compare/_missing.jsp:57
+#, java-format, fuzzy
+msgid "Only in {0}"
+msgstr "Slegs in {0}"
+
+#: ../www/compare/_missing.jsp:56
+#, fuzzy
+msgid "In both"
+msgstr "In beide"
+
+#: ../www/compare/_missing.jsp:144
+#, fuzzy
+msgid "Compare again"
+msgstr "Vergelyk weer"
+
+#: ../www/compare/index_html.jsp:23 ../www/compare/index_html.jsp:28
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Vergelyk Locale Data Bronne"
+
+#: ../www/compare/index_html.jsp:35
+#, fuzzy
+msgid "Missing"
+msgstr "Ontbreek"
+
+#: ../www/compare/index_html.jsp:35
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "vergelyk twee data bronne om te sien watter lokaliteitsinstellings ontbreek."
+
+#: ../www/compare/_list_html.jsp:103 ../www/_compare/index_html.jsp:63
+#, fuzzy
+msgid "Yes"
+msgstr "Ja"
+
+#: ../www/compare/_list_html.jsp:114
+#, fuzzy
+msgid "Total:"
+msgstr "Totaal:"
+
+#: ../www/compare/_list_html.jsp:129
+#, java-format, fuzzy
+msgid "Grand total: {0}"
+msgstr "Groot totaal: {0}"
+
+#: ../www/compare/extended_html.jsp:14
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Uitgebrei Locales"
+
+#: ../www/google-translate/index_html.jsp:29
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate Tale"
+
+#: ../www/google-translate/index_html.jsp:46
+#, java-format, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate {1} Tale"
+
+#: ../www/google-translate/index_html.jsp:92
+#, fuzzy
+msgid "(not found)"
+msgstr "(Nie)"
+
+#: ../www/_compare/index_html.jsp:22
+#, java-format, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Data Bron Vergelyking vir {0}"
+
+#: ../www/_compare/index_html.jsp:35
+#, fuzzy
+msgid "Data source"
+msgstr "Gegee bron"
+
+#: ../www/_compare/index_html.jsp:36
+#, fuzzy
+msgid "Supported?"
+msgstr "Ondersteun?"
+
+#: ../www/_compare/index_html.jsp:37
+#, fuzzy
+msgid "Name in data source"
+msgstr "Naam in data source"
+
+#: ../www/_compare/index_html.jsp:54
+#, fuzzy
+msgid "No"
+msgstr "Geen"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Tijdzones"
+
+#, fuzzy
+msgid "Today"
+msgstr "Vandag"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Vertaling"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Datum Bestel"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Vertalings gelaai!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Lande met taal {0} ({1})"
+
+#, fuzzy
+msgid "Result"
+msgstr "Gevolg"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Minus? Sluit"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Desimale? Separator"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Desimale Simbole"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Wys variant"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Groepering? Separator"
+
+#, fuzzy
+msgid "Details"
+msgstr "Besonderhede"
+
+#, fuzzy
+msgid "Function"
+msgstr "Funksioneer"
+
+#, fuzzy
+msgid "Output"
+msgstr "Uitset"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Voorbeeld"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Patroon Separator"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Afronding"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Vergelyk Geld Patrone"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Meervoud"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Geen)"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Oorsig"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "datum patrone"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Addisionele relevante standaarde"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Nou ({0})"
+
+#, fuzzy
+msgid "File name"
+msgstr "Lêer? Naam"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Datum Patroon"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Vergelyk Datum Patrone"
+
+#, fuzzy
+msgid "Input"
+msgstr "Insette"
+
+#, fuzzy
+msgid "Language"
+msgstr "Taal"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Vandag is {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Vergelyk:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Biblioteek"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Vergelyk Tyd Patrone"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "geldeenheid patrone"
+
+#, fuzzy
+msgid "Call"
+msgstr "Call"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "tyd patrone"
+
+#, fuzzy
+msgid "Country"
+msgstr "Land"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Voorbeelde"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Desimale? Digits"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Tyd Patroon"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Jou navraag ooreenstem {0} lêers in {1} dopgehou."
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Simbool"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Argumente"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Lokalisering en internasionalisering vir JavaScript"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: l10n en i18n vir JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Wys Naam"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Gebruik"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Long Name"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Jy het {0} lewens oorblywende"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Sit jou hande waar ek dit kan sien!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Kanoniese ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Data"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Kort / Standard"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Lank / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Kort / Daylight"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Kort Name"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Lank / Daylight"
+
+#, fuzzy
+msgid "Home"
+msgstr "Home"
+
+#, fuzzy
+msgid "unknown"
+msgstr "onbekend"

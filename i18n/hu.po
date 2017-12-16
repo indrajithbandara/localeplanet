@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Hello világ!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Totó, amit egy olyan érzésem, nem vagyunk többé Kansas"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Nincs jobb hely, mint otthon"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Mi van itt sikerül kommunikálni"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, van egy kis probléma"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Tartsa be a fű"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Minden alap a miénk"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "Az álmok látod magad használata nélkül tükrök"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Kérjük, esetleg egy kis citrom?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Segítség!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Nem, te nem jössz!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Összehasonlítása"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Támogatás"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate nyelv? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Látogató Nyelv Statisztika"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "Nem SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Kapcsolódó IEK Nyelv"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Szülő:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Testvérek:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Gyermekek:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Nyelv"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Név"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} Java Nyelv"
+
+#, fuzzy, fuzzy
+msgid "Native name"
+msgstr "Natív neve"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Összehasonlítása két adatforrás és melyik területi beállítások, amelyek az egyik, de nem a másik."
+
+#, fuzzy
+msgid "Languages"
+msgstr "Nyelvek"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "Nyelvek országok"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Lefordítható?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Nem Google név"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate Nyelvek"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Fel kell vennie két különböző adatforrások összehasonlítani"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "Nyelv, hogy ellenőrizze:"
+
+#, fuzzy
+msgid "In both"
+msgstr "Mindkét"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Opciók:"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "Adatforrás {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "Opciók"
+
+#, fuzzy
+msgid "All"
+msgstr "Minden"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "Megjelenítés helyszíneken közös"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "Hiányzó Nyelv"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "Hasonlítsa össze újra"
+
+#, fuzzy
+msgid "compare"
+msgstr "összehasonlítása"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "Alapvető információk"
+
+#, fuzzy
+msgid "English"
+msgstr "Angol"
+
+#, fuzzy
+msgid "Code"
+msgstr "Kód"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "Minta fordítások"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "Más adatforrások"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "A Google neve"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "Támogatott?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Név adatforrás"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "Karakter orientáció"
+
+#, fuzzy
+msgid "Display name"
+msgstr "Megjelenítési neve"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "Line orientáció"
+
+#, fuzzy
+msgid "Data source"
+msgstr "Az adatok forrása"
+
+#, fuzzy
+msgid "Value"
+msgstr "Érték"
+
+#, fuzzy
+msgid "No"
+msgstr "Nem"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "Base locale ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "Ingatlan"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "Display nevet nyelvjárás"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Adatforrás összehasonlítás {0}"
+
+#, fuzzy
+msgid "Yes"
+msgstr "Igen"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Nyelvváltás"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(Nincs pontos egyezés)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "Általános információk"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "Támogatott nyelvek"
+
+#, fuzzy
+msgid "Dates"
+msgstr "Időpontok"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Szám formátumok"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Érték (ek)"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(Nem található)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Nyelvváltás"
+
+#, fuzzy
+msgid "all"
+msgstr "Az összes"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Honlap"
+
+#, fuzzy
+msgid "languages"
+msgstr "nyelvek"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "komplex lokálok"
+
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "Listák:"
+
+#, fuzzy
+msgid "Select"
+msgstr "Válassza ki a"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Összehasonlítása Nyelv Adatforrások"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "Számok"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Java Nyelv? {0}? ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate nyelven"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. NET CultureInfo? {0}? ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "Change language"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Több lokalizációs adatokat, mint amit tudna az, és egy API is!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "Egyszerű lokálok"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Oldaltérkép"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Nyelv"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Ez sitemap célja a robotok, nem emberek, hanem nyugodtan böngészhet egyébként! Vagy próbáld ki a {0} nyers XML nézet {1}."
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "összehasonlítani két adatforrás, hogy mely nyelvi beállítások hiányoznak."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Hiányzó"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(Nincs megadva)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(Jelenlegi)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Nyelvek: {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Üdvözöljük a LocalePlanet!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "Üzenet:"
+
+#, fuzzy
+msgid "Local name"
+msgstr "Helyi név"
+
+#, fuzzy
+msgid "Digit"
+msgstr "Számjegy"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Vonósok"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate {1} Nyelvek"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Szabványok"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "Helyiértékű"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "Teljes lista"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "Minta"
+
+#, fuzzy
+msgid "Percent"
+msgstr "Százalék"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Rövid hónap"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Kiterjesztett Nyelv"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "Exponens elválasztó"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Pénznemszimbólum"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "Tizedesjel"
+
+#, fuzzy
+msgid "Contact"
+msgstr "Kapcsolat"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "Csoportosítása elválasztó"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "Pad menekülési"
+
+#, fuzzy
+msgid "Eras"
+msgstr "Korokban"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "Nemzetközi pénznemszimbólum"
+
+#, fuzzy
+msgid "Website:"
+msgstr "Honlap:"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "Nulla számjegyű"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "Végtelenség"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Vita olcsó. Mutasd meg a kódot."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Monetáris tizedesjel"
+
+#, fuzzy
+msgid "Total:"
+msgstr "Összesen:"
+
+#, fuzzy
+msgid "Months"
+msgstr "Hónapok"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Egyszerű (xx-XX) Nyelv"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "Hétköznapok"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Mindösszesen: {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "Era nevek"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "Csak {0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy
+msgid "Name:"
+msgstr "Név:"
+
+#, fuzzy
+msgid "Continue"
+msgstr "Tovább"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Ország listája"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "Pluszjel"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "ICU helyszíneken ebben az országban"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "Rövid hétköznap"
+
+#, fuzzy
+msgid "File name"
+msgstr "Fájlnév"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Szabványok:"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "Helyi név"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Nemzetközi komponensek a Unicode ({0} {1} ICU) adatai"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "Ezrelék"
+
+#, fuzzy
+msgid "Message"
+msgstr "Üzenet"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "Mínuszjel"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "Elavult:"
+
+#, fuzzy
+msgid "Field"
+msgstr "Területén"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Köszönöm a visszajelzést!"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU helyszíneken is ezen a nyelven"
+
+#, fuzzy
+msgid "Format"
+msgstr "Formátum"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Ez a lista a ISO 639 nyelven keresztül <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "Országok"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Ez a lista az ISO 3166 országok keresztül <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Nyelv listája"
+
+#, fuzzy
+msgid "Description"
+msgstr "Leírás"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Időzónák"
+
+#, fuzzy
+msgid "Today"
+msgstr "Ma"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Fordítás"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Összehasonlítása dátum minták"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Fordítások betöltve!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Országok nyelvi {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Dátum minta"
+
+#, fuzzy
+msgid "Result"
+msgstr "Eredménye"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Tizedes? Elválasztó"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Összehasonlítása dátuma minták"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Tizedes szimbólumok"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Kijelző változat"
+
+#, fuzzy
+msgid "Call"
+msgstr "Hívás"
+
+#, fuzzy
+msgid "Details"
+msgstr "Részletek"
+
+#, fuzzy
+msgid "Function"
+msgstr "Függvény"
+
+#, fuzzy
+msgid "Email:"
+msgstr "E-mail:"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Nyelv"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demó"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Minta"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Kerekítés"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Összehasonlítása Pénznem minták"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Többes szám"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Nincs)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Dátum Rendezés"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Áttekintés"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "dátum minták"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "További vonatkozó szabványok"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "A lekérdezés kiegyenlített {0} fájl {1} könyvtárat."
+
+#, fuzzy
+msgid "File name"
+msgstr "File? Name"
+
+#, fuzzy
+msgid "Input"
+msgstr "Bemeneti"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Szimbólum"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Ma {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Összehasonlítása:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Könyvtár"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Csoportosítása? Elválasztó"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Összehasonlítása időbeosztás"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "valuta minták"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "időbeosztás"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Lokalizáció és internacionalizálás a JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Mínusz? Bejelentkezés"
+
+#, fuzzy
+msgid "Output"
+msgstr "Kimenet"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Példák"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Minta elválasztó"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Idő minta"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Most ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Nyelv"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Érvek"
+
+#, fuzzy
+msgid "Country"
+msgstr "Ország"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N és I18N a JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Megjelenített név"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Használata"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Hosszú nevek"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Még {0} él fennmaradó"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Tedd a kezed, ha látom őket!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Adatok"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Rövid / Normál"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Hosszú / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Rövid / napfény"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Rövid nevek"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Hosszú / napfény"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Tizedes? Számjegyek"
+
+#, fuzzy
+msgid "Home"
+msgstr "Otthon"
+
+#, fuzzy
+msgid "unknown"
+msgstr "ismeretlen"

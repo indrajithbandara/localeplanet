@@ -1,0 +1,615 @@
+# 
+msgid ""
+msgstr ""
+
+msgid "Hello world!"
+msgstr "Ȟèƚƚð ẘðȓƚƌ!"
+
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Ŧðŧð, Ï'ṿè å ƒèèƚíñǵ ẘè'ȓè ñðŧ íñ Ƙåñšåš åñÿɱðȓè"
+
+msgid "E.T. phone home"
+msgstr "Ê.Ŧ. ƥɧðñè ɧðɱè"
+
+msgid "There's no place like home"
+msgstr "Ŧɧèȓè'š ñð ƥƚåçè ƚíǩè ɧðɱè"
+
+msgid "What we've got here is failure to communicate"
+msgstr "Ẅɧåŧ ẘè'ṿè ǵðŧ ɧèȓè íš ƒåíƚûȓè ŧð çðɱɱûñíçåŧè"
+
+msgid "Houston, we have a problem"
+msgstr "Ȟðûšŧðñ, ẘè ɧåṿè å ƥȓðƀƚèɱ"
+
+msgid "Keep off the grass"
+msgstr "Ƙèèƥ ðƒƒ ŧɧè ǵȓåšš"
+
+msgid "All your base are belong to us"
+msgstr "Åƚƚ ÿðûȓ ƀåšè åȓè ƀèƚðñǵ ŧð ûš"
+
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "Ïñ ƌȓèåɱš ÿðû çåñ šèè ÿðûȓšèƚƒ ẘíŧɧðûŧ ûšíñǵ ɱíȓȓðȓš"
+
+msgid "Please may I have some lemons?"
+msgstr "Ƥƚèåšè ɱåÿ Ï ɧåṿè šðɱè ƚèɱðñš?"
+
+msgid "Help me!"
+msgstr "Ȟèƚƥ ɱè!"
+
+msgid "No, you're not coming!"
+msgstr "Ñð, ÿðû'ȓè ñðŧ çðɱíñǵ!"
+
+msgid "Talk is cheap. Show me the code."
+msgstr "Ŧåƚǩ íš çɧèåƥ. Ŝɧðẘ ɱè ŧɧè çðƌè."
+
+msgid "Change language"
+msgstr "Ȼɧåñǵè ƚåñǵûåǵè"
+
+msgid "Home"
+msgstr "Ȟðɱè"
+
+msgid "API"
+msgstr "ÅƤÏ"
+
+msgid "Data"
+msgstr "Ðåŧå"
+
+msgid "Support"
+msgstr "Ŝûƥƥðȓŧ"
+
+msgid "Decimal Symbols"
+msgstr "Ðèçíɱåƚ Ŝÿɱƀðƚš"
+
+msgid "Locale"
+msgstr "£ðçåƚè"
+
+msgid "Decimal Separator"
+msgstr "Ðèçíɱåƚ Ŝèƥåȓåŧðȓ"
+
+msgid "Grouping Separator"
+msgstr "Ǧȓðûƥíñǵ Ŝèƥåȓåŧðȓ"
+
+msgid "Minus Sign"
+msgstr "Ṁíñûš Ŝíǵñ"
+
+msgid "Date Order"
+msgstr "Ðåŧè Øȓƌèȓ"
+
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Ïñŧèȓñåŧíðñåƚ Ȼðɱƥðñèñŧš ƒðȓ Üñíçðƌè ({0}ÏȻÜ{1}) Ðåŧå"
+
+msgid "Standards:"
+msgstr "Ŝŧåñƌåȓƌš:"
+
+msgid "Languages"
+msgstr "£åñǵûåǵèš"
+
+msgid "Countries"
+msgstr "Ȼðûñŧȓíèš"
+
+msgid "ISO 3166 Country List"
+msgstr "ÏŜØ ßʇ⑥⑥ Ȼðûñŧȓÿ £íšŧ"
+
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Ŧɧíš íš ŧɧè ƚíšŧ ðƒ ÏŜØ ßʇ⑥⑥ çðûñŧȓíèš ṿíå <code>Ü£ðçåƚè.ǵèŧÏŜØȻðûñŧȓíèš()</code>."
+
+msgid "Additional relevant standards"
+msgstr "Åƌƌíŧíðñåƚ ȓèƚèṿåñŧ šŧåñƌåȓƌš"
+
+msgid "ID"
+msgstr "ÏÐ"
+
+msgid "ICU locales in this country"
+msgstr "ÏȻÜ ƚðçåƚèš íñ ŧɧíš çðûñŧȓÿ"
+
+msgid "ISO 639 Language List"
+msgstr "ÏŜØ ⑥ß⑨ £åñǵûåǵè £íšŧ"
+
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Ŧɧíš íš ŧɧè ƚíšŧ ðƒ ÏŜØ ⑥ß⑨ ƚåñǵûåǵèš ṿíå <code>Ü£ðçåƚè.ǵèŧÏŜØ£åñǵûåǵèš()</code>."
+
+msgid "ICU locales using this language"
+msgstr "ÏȻÜ ƚðçåƚèš ûšíñǵ ŧɧíš ƚåñǵûåǵè"
+
+msgid "LocalePlanet Sitemap"
+msgstr "£ðçåƚèƤƚåñèŧ Ŝíŧèɱåƥ"
+
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Ŧɧíš šíŧèɱåƥ íš ɱèåñŧ ƒðȓ ȓðƀðŧš, ñðŧ ɧûɱåñš, ƀûŧ ƒèèƚ ƒȓèè ŧð ƀȓðẘšè åñÿẘåÿ! Øȓ ŧȓÿ ŧɧè {0}ȓåẘ ×Ṁ£ ṿíèẘ{1}."
+
+msgid "URL"
+msgstr "ÜŖ£"
+
+msgid "Details"
+msgstr "Ðèŧåíƚš"
+
+msgid "Sample"
+msgstr "Ŝåɱƥƚè"
+
+msgid "Field"
+msgstr "Ƒíèƚƌ"
+
+msgid "Value"
+msgstr "Ṽåƚûè"
+
+msgid "Pattern"
+msgstr "Ƥåŧŧèȓñ"
+
+msgid "Function"
+msgstr "Ƒûñçŧíðñ"
+
+msgid "Output"
+msgstr "Øûŧƥûŧ"
+
+msgid "Code"
+msgstr "Ȼðƌè"
+
+msgid "Symbol"
+msgstr "Ŝÿɱƀðƚ"
+
+msgid "Name"
+msgstr "Ñåɱè"
+
+msgid "Plural"
+msgstr "Ƥƚûȓåƚ"
+
+msgid "Decimal Digits"
+msgstr "Ðèçíɱåƚ Ðíǵíŧš"
+
+msgid "Rounding"
+msgstr "Ŗðûñƌíñǵ"
+
+msgid "unknown"
+msgstr "ûñǩñðẘñ"
+
+msgid "Demo"
+msgstr "Ðèɱð"
+
+msgid "Call"
+msgstr "Ȼåƚƚ"
+
+msgid "Result"
+msgstr "Ŗèšûƚŧ"
+
+msgid "Arguments"
+msgstr "Åȓǵûɱèñŧš"
+
+msgid "Input"
+msgstr "Ïñƥûŧ"
+
+msgid "File name"
+msgstr "Ƒíƚè ñåɱè"
+
+msgid "Description"
+msgstr "Ðèšçȓíƥŧíðñ"
+
+msgid "File name"
+msgstr "Ƒíƚè ñåɱè"
+
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Ýðûȓ ʠûèȓÿ ɱåŧçɧèƌ {0} ƒíƚèš íñ {1} ƌíȓèçŧðȓíèš."
+
+msgid "Overview"
+msgstr "Øṿèȓṿíèẘ"
+
+msgid "Usage"
+msgstr "Üšåǵè"
+
+msgid "Put your hands where I can see them!"
+msgstr "Ƥûŧ ÿðûȓ ɧåñƌš ẘɧèȓè Ï çåñ šèè ŧɧèɱ!"
+
+msgid "You have {0} lives remaining"
+msgstr "Ýðû ɧåṿè {0} ƚíṿèš ȓèɱåíñíñǵ"
+
+msgid "Examples"
+msgstr "Êẋåɱƥƚèš"
+
+msgid "Google Translate Language “{0}”"
+msgstr "Ǧððǵƚè Ŧȓåñšƚåŧè £åñǵûåǵè “{0}”"
+
+msgid "Basic Information"
+msgstr "ßåšíç Ïñƒðȓɱåŧíðñ"
+
+msgid "Google Name"
+msgstr "Ǧððǵƚè Ñåɱè"
+
+msgid "Non-Google name"
+msgstr "Ñðñ-Ǧððǵƚè ñåɱè"
+
+msgid "Translatable?"
+msgstr "Ŧȓåñšƚåŧåƀƚè?"
+
+msgid "Other data sources"
+msgstr "Øŧɧèȓ ƌåŧå šðûȓçèš"
+
+msgid "compare"
+msgstr "çðɱƥåȓè"
+
+msgid "Sample Translations"
+msgstr "Ŝåɱƥƚè Ŧȓåñšƚåŧíðñš"
+
+msgid "English"
+msgstr "Êñǵƚíšɧ"
+
+msgid "Java Locale “{0}” ({1})"
+msgstr "Ɉåṿå £ðçåƚè “{0}” ({1})"
+
+msgid "General Information"
+msgstr "Ǧèñèȓåƚ Ïñƒðȓɱåŧíðñ"
+
+msgid "Property"
+msgstr "Ƥȓðƥèȓŧÿ"
+
+msgid "Base locale ID"
+msgstr "ßåšè ƚðçåƚè ÏÐ"
+
+msgid "Display name"
+msgstr "Ðíšƥƚåÿ ñåɱè"
+
+msgid "Display variant"
+msgstr "Ðíšƥƚåÿ ṿåȓíåñŧ"
+
+msgid "(no exact match)"
+msgstr "(ñð èẋåçŧ ɱåŧçɧ)"
+
+msgid "Numbers"
+msgstr "Ñûɱƀèȓš"
+
+msgid "Currency symbol"
+msgstr "Ȼûȓȓèñçÿ šÿɱƀðƚ"
+
+msgid "Decimal separator"
+msgstr "Ðèçíɱåƚ šèƥåȓåŧðȓ"
+
+msgid "Digit"
+msgstr "Ðíǵíŧ"
+
+msgid "Exponent separator"
+msgstr "Êẋƥðñèñŧ šèƥåȓåŧðȓ"
+
+msgid "Grouping separator"
+msgstr "Ǧȓðûƥíñǵ šèƥåȓåŧðȓ"
+
+msgid "Infinity"
+msgstr "Ïñƒíñíŧÿ"
+
+msgid "International currency symbol"
+msgstr "Ïñŧèȓñåŧíðñåƚ çûȓȓèñçÿ šÿɱƀðƚ"
+
+msgid "Minus sign"
+msgstr "Ṁíñûš šíǵñ"
+
+msgid "Monetary decimal separator"
+msgstr "Ṁðñèŧåȓÿ ƌèçíɱåƚ šèƥåȓåŧðȓ"
+
+msgid "NaN"
+msgstr "ÑåÑ"
+
+msgid "Pattern Separator"
+msgstr "Ƥåŧŧèȓñ Ŝèƥåȓåŧðȓ"
+
+msgid "Percent"
+msgstr "Ƥèȓçèñŧ"
+
+msgid "Per mill"
+msgstr "Ƥèȓ ɱíƚƚ"
+
+msgid "Zero digit"
+msgstr "Ƶèȓð ƌíǵíŧ"
+
+msgid "Dates"
+msgstr "Ðåŧèš"
+
+msgid "Value(s)"
+msgstr "Ṽåƚûè(š)"
+
+msgid "AM/PM Strings"
+msgstr "ÅṀ/ƤṀ Ŝŧȓíñǵš"
+
+msgid "Eras"
+msgstr "Êȓåš"
+
+msgid "Months"
+msgstr "Ṁðñŧɧš"
+
+msgid "Short months"
+msgstr "Ŝɧðȓŧ ɱðñŧɧš"
+
+msgid "Short weekdays"
+msgstr "Ŝɧðȓŧ ẘèèǩƌåÿš"
+
+msgid "Weekdays"
+msgstr "Ẅèèǩƌåÿš"
+
+msgid "Format"
+msgstr "Ƒðȓɱåŧ"
+
+msgid "not a SimpleDateFormat"
+msgstr "ñðŧ å ŜíɱƥƚèÐåŧèƑðȓɱåŧ"
+
+msgid "Time Zones"
+msgstr "Ŧíɱè Ƶðñèš"
+
+msgid "Short/Standard"
+msgstr "Ŝɧðȓŧ/Ŝŧåñƌåȓƌ"
+
+msgid "Short/Daylight"
+msgstr "Ŝɧðȓŧ/Ðåÿƚíǵɧŧ"
+
+msgid "Long/Standard"
+msgstr "£ðñǵ/Ŝŧåñƌåȓƌ"
+
+msgid "Long/Daylight"
+msgstr "£ðñǵ/Ðåÿƚíǵɧŧ"
+
+msgid "Java Locales"
+msgstr "Ɉåṿå £ðçåƚèš"
+
+msgid "{0}Java{1} Locales"
+msgstr "{0}Ɉåṿå{1} £ðçåƚèš"
+
+msgid "Local name"
+msgstr "£ðçåƚ ñåɱè"
+
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Ṁíçȓðšðƒŧ .ÑÊŦ ȻûƚŧûȓèÏñƒð “{0}” ({1})"
+
+msgid "Language"
+msgstr "£åñǵûåǵè"
+
+msgid "Country"
+msgstr "Ȼðûñŧȓÿ"
+
+msgid "(none)"
+msgstr "(ñðñè)"
+
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "£ðçåƚèƤƚåñèŧ: £ʇ⊙Ñ åñƌ Ïʇ⑧Ñ ƒðȓ ɈåṿåŜçȓíƥŧ"
+
+msgid "Localization and Internationalization for JavaScript"
+msgstr "£ðçåƚíʐåŧíðñ åñƌ Ïñŧèȓñåŧíðñåƚíʐåŧíðñ ƒðȓ ɈåṿåŜçȓíƥŧ"
+
+msgid "Visitor Locale Statistics"
+msgstr "Ṽíšíŧðȓ £ðçåƚè Ŝŧåŧíšŧíçš"
+
+msgid "(not set)"
+msgstr "(ñðŧ šèŧ)"
+
+msgid "Today is {0}"
+msgstr "Ŧðƌåÿ íš {0}"
+
+msgid "Library"
+msgstr "£íƀȓåȓÿ"
+
+msgid "Change Language"
+msgstr "Ȼɧåñǵè £åñǵûåǵè"
+
+msgid "Supported Languages"
+msgstr "Ŝûƥƥðȓŧèƌ £åñǵûåǵèš"
+
+msgid "(current)"
+msgstr "(çûȓȓèñŧ)"
+
+msgid "Select"
+msgstr "Ŝèƚèçŧ"
+
+msgid "Standards"
+msgstr "Ŝŧåñƌåȓƌš"
+
+msgid "Obsolete:"
+msgstr "Øƀšðƚèŧè:"
+
+msgid "Thanks for your feedback!"
+msgstr "Ŧɧåñǩš ƒðȓ ÿðûȓ ƒèèƌƀåçǩ!"
+
+msgid "Contact"
+msgstr "Ȼðñŧåçŧ"
+
+msgid "Continue"
+msgstr "Ȼðñŧíñûè"
+
+msgid "Message"
+msgstr "Ṁèššåǵè"
+
+msgid "Name:"
+msgstr "Ñåɱè:"
+
+msgid "Email:"
+msgstr "Êɱåíƚ:"
+
+msgid "Website:"
+msgstr "Ẅèƀšíŧè:"
+
+msgid "Message:"
+msgstr "Ṁèššåǵè:"
+
+msgid "Display Name"
+msgstr "Ðíšƥƚåÿ Ñåɱè"
+
+msgid "Short Names"
+msgstr "Ŝɧðȓŧ Ñåɱèš"
+
+msgid "Long Names"
+msgstr "£ðñǵ Ñåɱèš"
+
+msgid "Canonical ID"
+msgstr "Ȼåñðñíçåƚ ÏÐ"
+
+msgid "Display name with dialect"
+msgstr "Ðíšƥƚåÿ ñåɱè ẘíŧɧ ƌíåƚèçŧ"
+
+msgid "Character orientation"
+msgstr "Ȼɧåȓåçŧèȓ ðȓíèñŧåŧíðñ"
+
+msgid "Line orientation"
+msgstr "£íñè ðȓíèñŧåŧíðñ"
+
+msgid "Pad escape"
+msgstr "Ƥåƌ èšçåƥè"
+
+msgid "Plus sign"
+msgstr "Ƥƚûš šíǵñ"
+
+msgid "Significant digit"
+msgstr "Ŝíǵñíƒíçåñŧ ƌíǵíŧ"
+
+msgid "Era names"
+msgstr "Êȓå ñåɱèš"
+
+msgid "Related ICU Locales"
+msgstr "Ŗèƚåŧèƌ ÏȻÜ £ðçåƚèš"
+
+msgid "Parent:"
+msgstr "Ƥåȓèñŧ:"
+
+msgid "Siblings:"
+msgstr "Ŝíƀƚíñǵš:"
+
+msgid "Children:"
+msgstr "Ȼɧíƚƌȓèñ:"
+
+msgid "Local Name"
+msgstr "£ðçåƚ Ñåɱè"
+
+msgid "# of languages: {0}"
+msgstr "# ðƒ ƚåñǵûåǵèš: {0}"
+
+msgid "Complete List"
+msgstr "Ȼðɱƥƚèŧè £íšŧ"
+
+msgid "Compare Time Patterns"
+msgstr "Ȼðɱƥåȓè Ŧíɱè Ƥåŧŧèȓñš"
+
+msgid "Time Pattern"
+msgstr "Ŧíɱè Ƥåŧŧèȓñ"
+
+msgid "Now ({0})"
+msgstr "Ñðẘ ({0})"
+
+msgid "Missing Locales"
+msgstr "Ṁíššíñǵ £ðçåƚèš"
+
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Ȼðɱƥåȓè ŧẘð ƌåŧå šðûȓçèš åñƌ šèè ẘɧíçɧ ƚðçåƚèš ŧɧåŧ åȓè íñ ðñè ƀûŧ ñðŧ ŧɧè ðŧɧèȓ."
+
+msgid "Options"
+msgstr "Øƥŧíðñš"
+
+msgid "Data Source {0}"
+msgstr "Ðåŧå Ŝðûȓçè {0}"
+
+msgid "Locales to check:"
+msgstr "£ðçåƚèš ŧð çɧèçǩ:"
+
+msgid "Languages with Countries"
+msgstr "£åñǵûåǵèš ẘíŧɧ Ȼðûñŧȓíèš"
+
+msgid "All"
+msgstr "Åƚƚ"
+
+msgid "Options:"
+msgstr "Øƥŧíðñš:"
+
+msgid "Show locales in common"
+msgstr "Ŝɧðẘ ƚðçåƚèš íñ çðɱɱðñ"
+
+msgid "Simple (xx-XX) Locales"
+msgstr "Ŝíɱƥƚè (ẋẋ-××) £ðçåƚèš"
+
+msgid "You must pick two different data sources to compare"
+msgstr "Ýðû ɱûšŧ ƥíçǩ ŧẘð ƌíƒƒèȓèñŧ ƌåŧå šðûȓçèš ŧð çðɱƥåȓè"
+
+msgid "Only in {0}"
+msgstr "Øñƚÿ íñ {0}"
+
+msgid "In both"
+msgstr "Ïñ ƀðŧɧ"
+
+msgid "Compare again"
+msgstr "Ȼðɱƥåȓè åǵåíñ"
+
+msgid "Compare Date Patterns"
+msgstr "Ȼðɱƥåȓè Ðåŧè Ƥåŧŧèȓñš"
+
+msgid "Date Pattern"
+msgstr "Ðåŧè Ƥåŧŧèȓñ"
+
+msgid "Today"
+msgstr "Ŧðƌåÿ"
+
+msgid "Compare Currency Patterns"
+msgstr "Ȼðɱƥåȓè Ȼûȓȓèñçÿ Ƥåŧŧèȓñš"
+
+msgid "Compare Locale Data Sources"
+msgstr "Ȼðɱƥåȓè £ðçåƚè Ðåŧå Ŝðûȓçèš"
+
+msgid "Lists:"
+msgstr "£íšŧš:"
+
+msgid "all"
+msgstr "åƚƚ"
+
+msgid "languages"
+msgstr "ƚåñǵûåǵèš"
+
+msgid "simple locales"
+msgstr "šíɱƥƚè ƚðçåƚèš"
+
+msgid "complex locales"
+msgstr "çðɱƥƚèẋ ƚðçåƚèš"
+
+msgid "Missing"
+msgstr "Ṁíššíñǵ"
+
+msgid "compare two data sources to see which locales are missing."
+msgstr "çðɱƥåȓè ŧẘð ƌåŧå šðûȓçèš ŧð šèè ẘɧíçɧ ƚðçåƚèš åȓè ɱíššíñǵ."
+
+msgid "Compare:"
+msgstr "Ȼðɱƥåȓè:"
+
+msgid "currency patterns"
+msgstr "çûȓȓèñçÿ ƥåŧŧèȓñš"
+
+msgid "date patterns"
+msgstr "ƌåŧè ƥåŧŧèȓñš"
+
+msgid "time patterns"
+msgstr "ŧíɱè ƥåŧŧèȓñš"
+
+msgid "Yes"
+msgstr "Ýèš"
+
+msgid "Total:"
+msgstr "Ŧðŧåƚ:"
+
+msgid "Grand total: {0}"
+msgstr "Ǧȓåñƌ ŧðŧåƚ: {0}"
+
+msgid "Extended Locales"
+msgstr "Êẋŧèñƌèƌ £ðçåƚèš"
+
+msgid "Google Translate Languages"
+msgstr "Ǧððǵƚè Ŧȓåñšƚåŧè £åñǵûåǵèš"
+
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0}Ǧððǵƚè Ŧȓåñšƚåŧè{1} £åñǵûåǵèš"
+
+msgid "(not found)"
+msgstr "(ñðŧ ƒðûñƌ)"
+
+msgid "Data Source Comparison for {0}"
+msgstr "Ðåŧå Ŝðûȓçè Ȼðɱƥåȓíšðñ ƒðȓ {0}"
+
+msgid "Data source"
+msgstr "Ðåŧå šðûȓçè"
+
+msgid "Supported?"
+msgstr "Ŝûƥƥðȓŧèƌ?"
+
+msgid "Name in data source"
+msgstr "Ñåɱè íñ ƌåŧå šðûȓçè"
+
+msgid "No"
+msgstr "Ñð"
+
+msgid "Countries with language {0} ({1})"
+msgstr "Ȼðûñŧȓíèš ẘíŧɧ ƚåñǵûåǵè {0} ({1})"

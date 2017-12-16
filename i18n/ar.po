@@ -1,0 +1,908 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 14:28-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy
+msgid "Hello world!"
+msgstr "مرحبا العالم!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "توتو ، لقد شعور أننا لسنا في كنساس بعد الآن"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "تي هاتف المنزل"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy
+msgid "There's no place like home"
+msgstr "ليس هناك مكان مثل المنزل"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "ما لدينا هنا هو فشل للاتصال"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy
+msgid "Houston, we have a problem"
+msgstr "هيوستن ، لدينا مشكلة"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy
+msgid "Keep off the grass"
+msgstr "ممنوع المشى على النجيلة"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy
+msgid "All your base are belong to us"
+msgstr "كل ما تبذلونه من قاعدة هي ملك لنا"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "في الأحلام يمكن أن ترى نفسك دون استخدام المرايا"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "الرجاء قد لدي بعض الليمون؟"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy
+msgid "Help me!"
+msgstr "مساعدتي!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy
+msgid "No, you're not coming!"
+msgstr "لا ، لم تكن قادمة!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy
+msgid "API"
+msgstr "المعهد"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy
+msgid "Compare"
+msgstr "قارن"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy
+msgid "Support"
+msgstr "دعم"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "جوجل ترجمة اللغة؟ {0}؟"
+
+#: ../www/java/index_html.jsp:28
+#, fuzzy
+msgid "Java Locales"
+msgstr "جافا لغات"
+
+#: ../www/java/index_html.jsp:33
+#, java-format, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} جافا لغات"
+
+#: ../www/java/index_html.jsp:36
+#, fuzzy
+msgid "ID"
+msgstr "معرف"
+
+#: ../www/java/index_html.jsp:37
+#, fuzzy
+msgid "Name"
+msgstr "اسم"
+
+#: ../www/java/index_html.jsp:38
+#, fuzzy
+msgid "Native name"
+msgstr "اسم الأم"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "إحصائيات الزائر لغة"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "ليس SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy
+msgid "Related ICU Locales"
+msgstr "لغات ذات صلة وحدة العناية المركزة"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy
+msgid "Parent:"
+msgstr "الوالد :"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy
+msgid "Siblings:"
+msgstr "الأشقاء :"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy
+msgid "Children:"
+msgstr "الأطفال :"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "مقارنة مصادر البيانات اثنين من لغات والتي ترى أن في واحدة ولكن ليس من جهة أخرى."
+
+#, fuzzy
+msgid "Languages"
+msgstr "لغات"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "لغات مع الدول"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "ترجمة؟"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "غير اسم جوجل"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "جوجل ترجمة اللغات"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "يجب اختيار اثنين من مختلف مصادر البيانات للمقارنة"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "لغات للتحقق :"
+
+#, fuzzy
+msgid "In both"
+msgstr "في كل"
+
+#, fuzzy
+msgid "Options:"
+msgstr "خيارات :"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "مصدر البيانات {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "خيارات"
+
+#, fuzzy
+msgid "All"
+msgstr "جميع"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "معرض مشترك في لغات"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "مفقود لغات"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "قارن مرة أخرى"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(غير موجود)"
+
+#, fuzzy
+msgid "compare"
+msgstr "قارن"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "معلومات أساسية"
+
+#, fuzzy
+msgid "English"
+msgstr "اللغة الإنجليزية"
+
+#, fuzzy
+msgid "Code"
+msgstr "رمز"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "عينة ترجمات"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "مصادر البيانات الأخرى"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "اسم جوجل"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "يؤيد؟"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "في اسم مصدر البيانات"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "حرف اتجاه"
+
+#, fuzzy
+msgid "Display name"
+msgstr "اسم العرض"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "خط اتجاه"
+
+#, fuzzy
+msgid "Data source"
+msgstr "مصدر البيانات"
+
+#, fuzzy
+msgid "Value"
+msgstr "القيمة"
+
+#, fuzzy
+msgid "No"
+msgstr "لا"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "قاعدة لغة معرف"
+
+#, fuzzy
+msgid "Property"
+msgstr "الملكية"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "عرض اسم مع باللهجة"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "مقارنة البيانات المصدر ل {0}"
+
+#, fuzzy
+msgid "Yes"
+msgstr "نعم"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "تبديل اللغة"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(لا يوجد تطابق تام)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "معلومات عامة"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "اللغات المعتمدة"
+
+#, fuzzy
+msgid "Dates"
+msgstr "التواريخ"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "عدد تنسيقات"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "القيمة (ق)"
+
+#, fuzzy
+msgid "Select"
+msgstr "حدد"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "تبديل اللغة"
+
+#, fuzzy
+msgid "all"
+msgstr "جميع"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet الصفحة الرئيسية"
+
+#, fuzzy
+msgid "languages"
+msgstr "لغات"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "مجمع لغات"
+
+#, fuzzy
+msgid "URL"
+msgstr "عنوان الموقع"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "القوائم :"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "قارن لغة مصادر البيانات"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "أرقام"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "لغة جافا؟ {0}؟ ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "جوجل ترجمة اللغات"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "مايكروسوفت. CultureInfo الصافي؟ {0}؟ ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "تغيير اللغة"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "يمكن توطين المزيد من البيانات مما كنت هزة عصا في والمعهد وأيضا!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "بسيطة لغات"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet خريطة الموقع"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "تغيير اللغة"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "وتهدف هذه الروبوتات لخريطة الموقع ، وليس البشر ، ولكن لا تتردد في تصفح على أي حال! أو حاول {0} عرض إكس إم إل الخام {1}."
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "مقارنة مصادر البيانات اثنين لمعرفة لغات مفقودة."
+
+#, fuzzy
+msgid "Missing"
+msgstr "مفقود"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(لم يتم تعيين)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(الحالي)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# لغات : {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "مرحبا بكم في LocalePlanet!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "الرسالة :"
+
+#, fuzzy
+msgid "Local name"
+msgstr "الاسم المحلي"
+
+#, fuzzy
+msgid "Digit"
+msgstr "أرقام"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "سلاسل ص م /"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} جوجل ترجمة اللغات {1}"
+
+#, fuzzy
+msgid "Standards"
+msgstr "المعايير"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "أرقام كبيرة"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "قائمة كاملة"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "نمط"
+
+#, fuzzy
+msgid "Percent"
+msgstr "في المئة"
+
+#, fuzzy
+msgid "Short months"
+msgstr "قصيرة أشهر"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "مدد لغات"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "الأس فاصل"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "رمز العملة"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "فاصل عشري"
+
+#, fuzzy
+msgid "Contact"
+msgstr "راسل"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "تجمع فاصل"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "وسادة الهروب"
+
+#, fuzzy
+msgid "Eras"
+msgstr "العصور"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "رمز العملة الدولي"
+
+#, fuzzy
+msgid "Website:"
+msgstr "الموقع :"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "رقم صفر"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "لانهاية"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "الكلام الرخيص. تبين لي رمز."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "النقدية الفاصل العشري"
+
+#, fuzzy
+msgid "Total:"
+msgstr "المجموع :"
+
+#, fuzzy
+msgid "Months"
+msgstr "أشهر"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "بسيطة (س س س س -) لغات"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "أيام الأسبوع"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "المجموع : {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "أسماء عصر"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "فقط في {0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "نان"
+
+#, fuzzy
+msgid "Name:"
+msgstr "الاسم :"
+
+#, fuzzy
+msgid "Continue"
+msgstr "مواصلة"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ايزو 3166 قائمة الدول"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "الجمع"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "لغات وحدة العناية المركزة في هذا البلد"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "قصيرة أيام الأسبوع"
+
+#, fuzzy
+msgid "File name"
+msgstr "اسم الملف"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "المعايير :"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "الاسم المحلي"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "العناصر الدولية ليونيكود ({0} {1} وحدة العناية المركزة) البيانات"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "في الألف"
+
+#, fuzzy
+msgid "Message"
+msgstr "رسالة"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "قم ناقص"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "عفا عليها الزمن :"
+
+#, fuzzy
+msgid "Field"
+msgstr "الميدان"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "شكرا لتعليقاتك!"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "لغات وحدة العناية المركزة باستخدام هذه اللغة"
+
+#, fuzzy
+msgid "Format"
+msgstr "تنسيق"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "هذه هي قائمة اللغات 639 ايزو عبر <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "البلدان"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "هذه هي قائمة البلدان ايزو 3166 عبر <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ايزو قائمة اللغة 639"
+
+#, fuzzy
+msgid "Description"
+msgstr "الوصف"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "المناطق الزمنية"
+
+#, fuzzy
+msgid "Today"
+msgstr "اليوم"
+
+#, fuzzy
+msgid "Translation"
+msgstr "ترجمة"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "مقارنة أنماط الميلاد"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "تحميل الترجمات!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "البلدان التي لديها لغة {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "تاريخ النقش"
+
+#, fuzzy
+msgid "Result"
+msgstr "نتيجة"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "عشري؟ فاصل"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "مقارنة أنماط تاريخ"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "عشري رموز"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "عرض متغير"
+
+#, fuzzy
+msgid "Call"
+msgstr "دعوة"
+
+#, fuzzy
+msgid "Details"
+msgstr "تفاصيل"
+
+#, fuzzy
+msgid "Function"
+msgstr "وظيفة"
+
+#, fuzzy
+msgid "Email:"
+msgstr "البريد الإلكتروني :"
+
+#, fuzzy
+msgid "Locale"
+msgstr "مكان"
+
+#, fuzzy
+msgid "Demo"
+msgstr "عرض"
+
+#, fuzzy
+msgid "Sample"
+msgstr "عينة"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "التقريب"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "مقارنة أنماط العملة"
+
+#, fuzzy
+msgid "Plural"
+msgstr "صيغة الجمع"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(لا يوجد)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "تاريخ ترتيب"
+
+#, fuzzy
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "تاريخ أنماط"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "المعايير ذات الصلة إضافية"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "الاستعلام الخاص بك المتطابقة {0} الملفات في الدلائل {1}."
+
+#, fuzzy
+msgid "File name"
+msgstr "الملف؟ اسم"
+
+#, fuzzy
+msgid "Input"
+msgstr "مساهمة"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "رمز"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "اليوم هو {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "قارن :"
+
+#, fuzzy
+msgid "Library"
+msgstr "المكتبة"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "التجمع؟ فاصل"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "مقارنة أنماط الزمن"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "العملة أنماط"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "الوقت أنماط"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "التعريب والتدويل لجافا سكريبت"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "ناقص؟ قم"
+
+#, fuzzy
+msgid "Output"
+msgstr "الإخراج"
+
+#, fuzzy
+msgid "Examples"
+msgstr "أمثلة"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "نمط فاصل"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "الوقت نمط"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "الآن ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "اللغة"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "الحجج"
+
+#, fuzzy
+msgid "Country"
+msgstr "البلد"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet : l10n وI18N لجافا سكريبت"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "عرض اسم"
+
+#, fuzzy
+msgid "Usage"
+msgstr "الاستخدام"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "أسماء طويلة"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "لديك {0} حياة المتبقية"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "ضع يديك حيث أستطيع أن أرى منهم!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "الكنسي معرف"
+
+#, fuzzy
+msgid "Data"
+msgstr "البيانات"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "قصيرة / قياسي"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "طويل / قياسي"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "قصيرة / النهار"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "أسماء قصيرة"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "طويل / النهار"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "عشري؟ أرقام"
+
+#, fuzzy
+msgid "Home"
+msgstr "منزل"
+
+#, fuzzy
+msgid "unknown"
+msgstr "غير معروف"

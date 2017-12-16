@@ -1,0 +1,914 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-24 20:40-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+msgid "Hello world!"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:65
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:66
+msgid "E.T. phone home"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:67
+msgid "There's no place like home"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:68
+msgid "What we've got here is failure to communicate"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:69
+msgid "Houston, we have a problem"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:70
+msgid "Keep off the grass"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:71
+msgid "All your base are belong to us"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:72
+msgid "In dreams you can see yourself without using mirrors"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:73
+msgid "Please may I have some lemons?"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:74
+msgid "Help me!"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:75
+msgid "No, you're not coming!"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:76
+msgid "Talk is cheap. Show me the code."
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:107
+#: ../src/com/localeplanet/ui/UI.java:109
+msgid "Change language"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:122
+msgid "Home"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:128
+msgid "API"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:134
+msgid "Data"
+msgstr ""
+
+#: ../src/com/localeplanet/ui/UI.java:160
+msgid "Support"
+msgstr ""
+
+#: ../www/icu/decimal-symbols_html.jsp:23
+#: ../www/icu/decimal-symbols_html.jsp:28
+msgid "Decimal Symbols"
+msgstr ""
+
+#: ../www/icu/decimal-symbols_html.jsp:31
+#: ../www/compare/time-pattern_html.jsp:77
+#: ../www/compare/date-pattern_html.jsp:66
+#: ../www/compare/currency-pattern_html.jsp:41
+msgid "Locale"
+msgstr ""
+
+#: ../www/icu/decimal-symbols_html.jsp:32
+msgid "Decimal Separator"
+msgstr ""
+
+#: ../www/icu/decimal-symbols_html.jsp:33
+msgid "Grouping Separator"
+msgstr ""
+
+#: ../www/icu/decimal-symbols_html.jsp:34
+msgid "Minus Sign"
+msgstr ""
+
+#: ../www/icu/date-order_html.jsp:23 ../www/icu/date-order_html.jsp:28
+#: ../www/java/date-order_html.jsp:20 ../www/java/date-order_html.jsp:25
+msgid "Date Order"
+msgstr ""
+
+#: ../www/icu/index_html.jsp:23
+#, java-format
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr ""
+
+#: ../www/icu/index_html.jsp:36
+msgid "Standards:"
+msgstr ""
+
+#: ../www/icu/index_html.jsp:38 ../www/compare/missing_html.jsp:76
+#: ../www/compare/language_html.jsp:14
+msgid "Languages"
+msgstr ""
+
+#: ../www/icu/index_html.jsp:39 ../www/compare/country_html.jsp:26
+#: ../www/compare/country_html.jsp:31
+msgid "Countries"
+msgstr ""
+
+#: ../www/icu/iso3166_html.jsp:21 ../www/icu/iso3166_html.jsp:26
+msgid "ISO 3166 Country List"
+msgstr ""
+
+#: ../www/icu/iso3166_html.jsp:27
+msgid ""
+"This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</"
+"code>."
+msgstr ""
+
+#: ../www/icu/iso3166_html.jsp:28 ../www/icu/iso639_html.jsp:28
+msgid "Additional relevant standards"
+msgstr ""
+
+#: ../www/icu/iso3166_html.jsp:31 ../www/icu/iso639_html.jsp:31
+#: ../www/_java/index_html.jsp:257 ../www/java/index_html.jsp:36
+#: ../www/_icu/timezone_html.jsp:33 ../www/compare/_list_html.jsp:38
+#: ../www/google-translate/index_html.jsp:49
+msgid "ID"
+msgstr ""
+
+#: ../www/icu/iso3166_html.jsp:32
+msgid "ICU locales in this country"
+msgstr ""
+
+#: ../www/icu/iso639_html.jsp:21 ../www/icu/iso639_html.jsp:26
+msgid "ISO 639 Language List"
+msgstr ""
+
+#: ../www/icu/iso639_html.jsp:27
+msgid ""
+"This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</"
+"code>."
+msgstr ""
+
+#: ../www/icu/iso639_html.jsp:32
+msgid "ICU locales using this language"
+msgstr ""
+
+#: ../www/sitemap_xsl.jsp:24 ../www/sitemap_xsl.jsp:30
+msgid "LocalePlanet Sitemap"
+msgstr ""
+
+#: ../www/sitemap_xsl.jsp:32
+#, java-format
+msgid ""
+"This sitemap is meant for robots, not humans, but feel free to browse "
+"anyway! Or try the {0}raw XML view{1}."
+msgstr ""
+
+#: ../www/sitemap_xsl.jsp:38
+msgid "URL"
+msgstr ""
+
+#: ../www/_api/datepat_html.jsp:53 ../www/_api/df_html.jsp:104
+#: ../www/_api/currencymap_html.jsp:67 ../www/_api/icu_html.jsp:108
+#: ../www/_api/nfs_html.jsp:50 ../www/_api/gae-country_html.jsp:51
+#: ../www/_api/langmap_html.jsp:53 ../www/_api/dfs_html.jsp:50
+#: ../www/api/time_html.jsp:65 ../www/api/codelist_html.jsp:22
+#: ../www/api/translate_html.jsp:81
+msgid "Details"
+msgstr ""
+
+#: ../www/_api/datepat_html.jsp:68 ../www/_api/info_html.jsp:50
+#: ../www/_api/df_html.jsp:109 ../www/_api/currencymap_html.jsp:68
+#: ../www/_api/nfs_html.jsp:51 ../www/_api/gae-country_html.jsp:54
+#: ../www/_api/langmap_html.jsp:56 ../www/_api/dfs_html.jsp:53
+#: ../www/api/time_html.jsp:68 ../www/api/codelist_html.jsp:24
+msgid "Sample"
+msgstr ""
+
+#: ../www/_api/datepat_html.jsp:72 ../www/_api/info_html.jsp:54
+#: ../www/_api/nfs_html.jsp:55 ../www/_api/gae-country_html.jsp:58
+#: ../www/_api/langmap_html.jsp:60 ../www/_api/dfs_html.jsp:57
+msgid "Field"
+msgstr ""
+
+#: ../www/_api/datepat_html.jsp:73 ../www/_api/info_html.jsp:55
+#: ../www/_api/icu_html.jsp:127 ../www/_api/nfs_html.jsp:56
+#: ../www/_api/gae-country_html.jsp:59 ../www/_api/langmap_html.jsp:61
+#: ../www/_api/dfs_html.jsp:58 ../www/_java/index_html.jsp:47
+#: ../www/_java/index_html.jsp:98 ../www/_dotnet/index_html.jsp:44
+#: ../www/_icu/index_html.jsp:34 ../www/_icu/index_html.jsp:97
+msgid "Value"
+msgstr ""
+
+#: ../www/_api/df_html.jsp:113 ../www/_java/index_html.jsp:190
+#: ../www/_icu/index_html.jsp:206
+msgid "Pattern"
+msgstr ""
+
+#: ../www/_api/df_html.jsp:114 ../www/api/time_html.jsp:71
+msgid "Function"
+msgstr ""
+
+#: ../www/_api/df_html.jsp:115 ../www/api/time_html.jsp:73
+#: ../www/api/translate_html.jsp:110
+msgid "Output"
+msgstr ""
+
+#: ../www/_api/currencymap_html.jsp:72
+#: ../www/_google-translate/index_html.jsp:97 ../www/dotnet/index_html.jsp:34
+#: ../www/compare/country_html.jsp:34
+msgid "Code"
+msgstr ""
+
+#: ../www/_api/currencymap_html.jsp:73
+msgid "Symbol"
+msgstr ""
+
+#: ../www/_api/currencymap_html.jsp:74 ../www/_api/icu_html.jsp:125
+#: ../www/java/index_html.jsp:37 ../www/dotnet/index_html.jsp:35
+#: ../www/compare/_list_html.jsp:39 ../www/compare/country_html.jsp:35
+#: ../www/google-translate/index_html.jsp:50
+msgid "Name"
+msgstr ""
+
+#: ../www/_api/currencymap_html.jsp:75
+msgid "Plural"
+msgstr ""
+
+#: ../www/_api/currencymap_html.jsp:76
+msgid "Decimal Digits"
+msgstr ""
+
+#: ../www/_api/currencymap_html.jsp:77
+msgid "Rounding"
+msgstr ""
+
+#: ../www/_api/gae-country_json.jsp:22
+msgid "unknown"
+msgstr ""
+
+#: ../www/_api/icu_html.jsp:114
+msgid "Demo"
+msgstr ""
+
+#: ../www/_api/icu_html.jsp:117 ../www/api/translate_html.jsp:109
+msgid "Call"
+msgstr ""
+
+#: ../www/_api/icu_html.jsp:118
+msgid "Result"
+msgstr ""
+
+#: ../www/_api/icu_html.jsp:126
+msgid "Arguments"
+msgstr ""
+
+#: ../www/api/time_html.jsp:72
+msgid "Input"
+msgstr ""
+
+#: ../www/api/index_html.jsp:31
+msgid "File name"
+msgstr ""
+
+#: ../www/api/index_html.jsp:32 ../www/api/index_html.jsp:53
+#: ../www/api/index_html.jsp:89 ../www/support/tools_html.jsp:31
+#: ../www/support/alternatives_html.jsp:28
+msgid "Description"
+msgstr ""
+
+#: ../www/api/index_html.jsp:52 ../www/api/index_html.jsp:88
+#: ../www/support/tools_html.jsp:30
+msgid "File name"
+msgstr ""
+
+#: ../www/api/translate_html.jsp:59
+#, java-format
+msgid "Your query matched {0} files in {1} directories."
+msgstr ""
+
+#: ../www/api/translate_html.jsp:78
+msgid "Overview"
+msgstr ""
+
+#: ../www/api/translate_html.jsp:93
+msgid "Usage"
+msgstr ""
+
+#: ../www/api/translate_html.jsp:101
+msgid "Put your hands where I can see them!"
+msgstr ""
+
+#: ../www/api/translate_html.jsp:102
+#, java-format
+msgid "You have {0} lives remaining"
+msgstr ""
+
+#: ../www/api/translate_html.jsp:104
+msgid "Examples"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format
+msgid "Google Translate Language “{0}”"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:94
+msgid "Basic Information"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:101
+msgid "Google Name"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:105
+#: ../www/google-translate/index_html.jsp:51
+msgid "Non-Google name"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:109
+#: ../www/google-translate/index_html.jsp:52
+msgid "Translatable?"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:113 ../www/_java/index_html.jsp:89
+#: ../www/_dotnet/index_html.jsp:67 ../www/_icu/index_html.jsp:88
+msgid "Other data sources"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:114 ../www/_java/index_html.jsp:90
+#: ../www/_dotnet/index_html.jsp:68 ../www/_icu/index_html.jsp:89
+msgid "compare"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:118
+msgid "Sample Translations"
+msgstr ""
+
+#: ../www/_google-translate/index_html.jsp:121
+msgid "English"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:32
+#, java-format
+msgid "Java Locale “{0}” ({1})"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:43 ../www/_dotnet/index_html.jsp:40
+#: ../www/_icu/index_html.jsp:30
+msgid "General Information"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:46 ../www/_java/index_html.jsp:97
+#: ../www/_java/index_html.jsp:161 ../www/_dotnet/index_html.jsp:43
+#: ../www/_icu/index_html.jsp:33 ../www/_icu/index_html.jsp:96
+#: ../www/_icu/index_html.jsp:173
+msgid "Property"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:50 ../www/_dotnet/index_html.jsp:47
+#: ../www/_icu/index_html.jsp:37
+msgid "Base locale ID"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:54 ../www/_icu/index_html.jsp:49
+msgid "Display name"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:58
+msgid "Display variant"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:75 ../www/_icu/index_html.jsp:74
+msgid "(no exact match)"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:93 ../www/_icu/index_html.jsp:92
+msgid "Numbers"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:101 ../www/_icu/index_html.jsp:100
+msgid "Currency symbol"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:105 ../www/_icu/index_html.jsp:104
+msgid "Decimal separator"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:109 ../www/_icu/index_html.jsp:108
+msgid "Digit"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:113 ../www/_icu/index_html.jsp:112
+msgid "Exponent separator"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:117 ../www/_icu/index_html.jsp:116
+msgid "Grouping separator"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:121 ../www/_icu/index_html.jsp:120
+msgid "Infinity"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:125 ../www/_icu/index_html.jsp:124
+msgid "International currency symbol"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:129 ../www/_icu/index_html.jsp:128
+msgid "Minus sign"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:133 ../www/_icu/index_html.jsp:132
+msgid "Monetary decimal separator"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:137 ../www/_icu/index_html.jsp:136
+msgid "NaN"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:141 ../www/_icu/index_html.jsp:144
+msgid "Pattern Separator"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:145 ../www/_icu/index_html.jsp:148
+msgid "Percent"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:149 ../www/_icu/index_html.jsp:152
+msgid "Per mill"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:153 ../www/_icu/index_html.jsp:164
+msgid "Zero digit"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:157 ../www/_icu/index_html.jsp:169
+msgid "Dates"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:162 ../www/_icu/index_html.jsp:174
+msgid "Value(s)"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:165 ../www/_icu/index_html.jsp:177
+msgid "AM/PM Strings"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:169 ../www/_icu/index_html.jsp:181
+msgid "Eras"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:173 ../www/_icu/index_html.jsp:189
+msgid "Months"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:177 ../www/_icu/index_html.jsp:193
+msgid "Short months"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:181 ../www/_icu/index_html.jsp:197
+msgid "Short weekdays"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:185 ../www/_icu/index_html.jsp:201
+msgid "Weekdays"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:189 ../www/_icu/index_html.jsp:205
+msgid "Format"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:240 ../www/_icu/index_html.jsp:256
+msgid "not a SimpleDateFormat"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:250 ../www/_icu/timezone_html.jsp:19
+msgid "Time Zones"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:258
+msgid "Short/Standard"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:259
+msgid "Short/Daylight"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:260
+msgid "Long/Standard"
+msgstr ""
+
+#: ../www/_java/index_html.jsp:261
+msgid "Long/Daylight"
+msgstr ""
+
+#: ../www/java/index_html.jsp:28
+msgid "Java Locales"
+msgstr ""
+
+#: ../www/java/index_html.jsp:33
+#, java-format
+msgid "{0}Java{1} Locales"
+msgstr ""
+
+#: ../www/java/index_html.jsp:38
+msgid "Local name"
+msgstr ""
+
+#: ../www/_dotnet/index_html.jsp:28
+#, java-format
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr ""
+
+#: ../www/_dotnet/index_html.jsp:51 ../www/_dotnet/index_html.jsp:55
+#: ../www/_icu/index_html.jsp:41
+msgid "Language"
+msgstr ""
+
+#: ../www/_dotnet/index_html.jsp:59 ../www/_dotnet/index_html.jsp:63
+#: ../www/_icu/index_html.jsp:45
+msgid "Country"
+msgstr ""
+
+#: ../www/_dotnet/index_html.jsp:60 ../www/_dotnet/index_html.jsp:64
+#: ../www/_icu/index_html.jsp:46
+msgid "(none)"
+msgstr ""
+
+#: ../www/index_html.jsp:16
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr ""
+
+#: ../www/index_html.jsp:25
+msgid "Localization and Internationalization for JavaScript"
+msgstr ""
+
+#: ../www/support/statistics_html.jsp:34 ../www/support/statistics_html.jsp:39
+msgid "Visitor Locale Statistics"
+msgstr ""
+
+#: ../www/support/browser_html.jsp:125
+msgid "(not set)"
+msgstr ""
+
+#: ../www/support/howto-localize-js_html.jsp:52
+#, java-format
+msgid "Today is {0}"
+msgstr ""
+
+#: ../www/support/alternatives_html.jsp:27
+msgid "Library"
+msgstr ""
+
+#: ../www/support/change-language_html.jsp:31
+#: ../www/support/change-language_html.jsp:66
+msgid "Change Language"
+msgstr ""
+
+#: ../www/support/change-language_html.jsp:71
+msgid "Supported Languages"
+msgstr ""
+
+#: ../www/support/change-language_html.jsp:107
+msgid "(current)"
+msgstr ""
+
+#: ../www/support/change-language_html.jsp:112
+msgid "Select"
+msgstr ""
+
+#: ../www/support/standards_html.jsp:11 ../www/support/standards_html.jsp:16
+msgid "Standards"
+msgstr ""
+
+#: ../www/support/standards_html.jsp:40
+msgid "Obsolete:"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:58
+msgid "Thanks for your feedback!"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:77
+msgid "Contact"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:84
+msgid "Continue"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:105
+msgid "Message"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:108
+msgid "Name:"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:112
+msgid "Email:"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:116
+msgid "Website:"
+msgstr ""
+
+#: ../www/support/contact_html.jsp:120
+msgid "Message:"
+msgstr ""
+
+#: ../www/_icu/timezone_html.jsp:34
+msgid "Display Name"
+msgstr ""
+
+#: ../www/_icu/timezone_html.jsp:35
+msgid "Short Names"
+msgstr ""
+
+#: ../www/_icu/timezone_html.jsp:36
+msgid "Long Names"
+msgstr ""
+
+#: ../www/_icu/timezone_html.jsp:37
+msgid "Canonical ID"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:53
+msgid "Display name with dialect"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:57
+msgid "Character orientation"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:61
+msgid "Line orientation"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:140
+msgid "Pad escape"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:156
+msgid "Plus sign"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:160
+msgid "Significant digit"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:185
+msgid "Era names"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:267
+msgid "Related ICU Locales"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:273
+msgid "Parent:"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:288
+msgid "Siblings:"
+msgstr ""
+
+#: ../www/_icu/index_html.jsp:309
+msgid "Children:"
+msgstr ""
+
+#: ../www/dotnet/index_html.jsp:36
+msgid "Local Name"
+msgstr ""
+
+#: ../www/dotnet/index_html.jsp:88 ../www/google-translate/index_html.jsp:116
+#, java-format
+msgid "# of languages: {0}"
+msgstr ""
+
+#: ../www/compare/all_html.jsp:13
+msgid "Complete List"
+msgstr ""
+
+#: ../www/compare/time-pattern_html.jsp:41
+#: ../www/compare/time-pattern_html.jsp:46
+msgid "Compare Time Patterns"
+msgstr ""
+
+#: ../www/compare/time-pattern_html.jsp:78
+msgid "Time Pattern"
+msgstr ""
+
+#: ../www/compare/time-pattern_html.jsp:79
+#: ../www/compare/time-pattern_html.jsp:80
+#, java-format
+msgid "Now ({0})"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:43 ../www/compare/missing_html.jsp:48
+#: ../www/compare/_missing.jsp:47 ../www/compare/_missing.jsp:52
+msgid "Missing Locales"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:52
+msgid ""
+"Compare two data sources and see which locales that are in one but not the "
+"other."
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:63
+msgid "Options"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:66 ../www/compare/missing_html.jsp:70
+#, java-format
+msgid "Data Source {0}"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:74
+msgid "Locales to check:"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:77
+msgid "Languages with Countries"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:78
+msgid "All"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:82
+msgid "Options:"
+msgstr ""
+
+#: ../www/compare/missing_html.jsp:83
+msgid "Show locales in common"
+msgstr ""
+
+#: ../www/compare/simple_html.jsp:14
+msgid "Simple (xx-XX) Locales"
+msgstr ""
+
+#: ../www/compare/_missing.jsp:25
+msgid "You must pick two different data sources to compare"
+msgstr ""
+
+#: ../www/compare/_missing.jsp:55 ../www/compare/_missing.jsp:57
+#, java-format
+msgid "Only in {0}"
+msgstr ""
+
+#: ../www/compare/_missing.jsp:56
+msgid "In both"
+msgstr ""
+
+#: ../www/compare/_missing.jsp:144
+msgid "Compare again"
+msgstr ""
+
+#: ../www/compare/date-pattern_html.jsp:30
+#: ../www/compare/date-pattern_html.jsp:35
+msgid "Compare Date Patterns"
+msgstr ""
+
+#: ../www/compare/date-pattern_html.jsp:67
+msgid "Date Pattern"
+msgstr ""
+
+#: ../www/compare/date-pattern_html.jsp:68
+msgid "Today"
+msgstr ""
+
+#: ../www/compare/currency-pattern_html.jsp:32
+#: ../www/compare/currency-pattern_html.jsp:37
+msgid "Compare Currency Patterns"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:23 ../www/compare/index_html.jsp:28
+msgid "Compare Locale Data Sources"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:29
+msgid "Lists:"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:30
+msgid "all"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:31
+msgid "languages"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:32
+msgid "simple locales"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:33
+msgid "complex locales"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:35
+msgid "Missing"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:35
+msgid "compare two data sources to see which locales are missing."
+msgstr ""
+
+#: ../www/compare/index_html.jsp:36
+msgid "Compare:"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:37
+msgid "currency patterns"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:38
+msgid "date patterns"
+msgstr ""
+
+#: ../www/compare/index_html.jsp:39
+msgid "time patterns"
+msgstr ""
+
+#: ../www/compare/_list_html.jsp:102 ../www/_compare/index_html.jsp:63
+msgid "Yes"
+msgstr ""
+
+#: ../www/compare/_list_html.jsp:113 ../www/compare/country_html.jsp:150
+msgid "Total:"
+msgstr ""
+
+#: ../www/compare/_list_html.jsp:128
+#, java-format
+msgid "Grand total: {0}"
+msgstr ""
+
+#: ../www/compare/extended_html.jsp:14
+msgid "Extended Locales"
+msgstr ""
+
+#: ../www/google-translate/index_html.jsp:29
+msgid "Google Translate Languages"
+msgstr ""
+
+#: ../www/google-translate/index_html.jsp:46
+#, java-format
+msgid "{0}Google Translate{1} Languages"
+msgstr ""
+
+#: ../www/google-translate/index_html.jsp:92
+msgid "(not found)"
+msgstr ""
+
+#: ../www/_compare/index_html.jsp:22
+#, java-format
+msgid "Data Source Comparison for {0}"
+msgstr ""
+
+#: ../www/_compare/index_html.jsp:35
+msgid "Data source"
+msgstr ""
+
+#: ../www/_compare/index_html.jsp:36
+msgid "Supported?"
+msgstr ""
+
+#: ../www/_compare/index_html.jsp:37
+msgid "Name in data source"
+msgstr ""
+
+#: ../www/_compare/index_html.jsp:54
+msgid "No"
+msgstr ""
+
+#: ../www/_compare/country_html.jsp:33
+#, java-format
+msgid "Countries with language {0} ({1})"
+msgstr ""

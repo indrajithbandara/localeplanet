@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Привіт світ!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Тото, у мене відчуття, що ми ще не в Канзасі більше"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Там немає місця, як вдома"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Те, що ми отримали тут є неможливість передачі"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, bir sorun var"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Не ходіть по траві"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Всі ваші бази належать нам"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "У сні ви можете побачити себе без використання дзеркал"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Будь ласка, може у мене є лимони?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Допоможіть мені!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Ні, ви не йде!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Порівняти"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Destek"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate мову? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Статистика відвідувачів Locale"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "НЕ SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Ilgili YBÜ Yereller"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Батько:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Брати і сестри:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Діти:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Мови"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Назва"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java {1} Yerel"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "Yerli isim"
+
+#, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Порівняння двох джерел даних і подивитися, що місць, які знаходяться в одній, а не інші."
+
+#, fuzzy, fuzzy
+msgid "Languages"
+msgstr "Мови"
+
+#, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "Мови з країнами"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Çevrilebilir?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Google&#39;a ait olmayan isim"
+
+#, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate Мови"
+
+#, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Ви повинні вибрати два різних джерел даних для порівняння"
+
+#, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "Мови, щоб перевірити:"
+
+#, fuzzy, fuzzy
+msgid "In both"
+msgstr "В обох"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Seçenekleri:"
+
+#, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "Джерело даних {0}"
+
+#, fuzzy, fuzzy
+msgid "Options"
+msgstr "Функції"
+
+#, fuzzy
+msgid "All"
+msgstr "Tüm"
+
+#, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "Показати місцях загального"
+
+#, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "Відсутня Мови"
+
+#, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "Порівняйте ще раз"
+
+#, fuzzy
+msgid "compare"
+msgstr "karşılaştırmak"
+
+#, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "Основна інформація"
+
+#, fuzzy, fuzzy
+msgid "English"
+msgstr "Англійська"
+
+#, fuzzy, fuzzy
+msgid "Code"
+msgstr "Кодекс"
+
+#, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "Приклади перекладів"
+
+#, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "Інші джерела даних"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Google Adı"
+
+#, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "Підтримувані?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "veri isim kaynağı"
+
+#, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "Характером орієнтації"
+
+#, fuzzy, fuzzy
+msgid "Display name"
+msgstr "Короткий ім&#39;я"
+
+#, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "Лінія орієнтації"
+
+#, fuzzy, fuzzy
+msgid "Data source"
+msgstr "Дані джерела"
+
+#, fuzzy, fuzzy
+msgid "Value"
+msgstr "Співвідношення"
+
+#, fuzzy, fuzzy
+msgid "No"
+msgstr "Ні"
+
+#, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "База код мови"
+
+#, fuzzy
+msgid "Property"
+msgstr "Mülk"
+
+#, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "Короткий ім&#39;я з діалект"
+
+#, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Джерело даних Порівняння {0}"
+
+#, fuzzy, fuzzy
+msgid "Yes"
+msgstr "Так"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Dil Değiştir"
+
+#, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(Не точний збіг)"
+
+#, fuzzy, fuzzy
+msgid "General Information"
+msgstr "Загальна інформація"
+
+#, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "Підтримувані Мови"
+
+#, fuzzy, fuzzy
+msgid "Dates"
+msgstr "Дати"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Sayı Biçimleri"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Değer (ler)"
+
+#, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(Не знайдено)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Şalter dil"
+
+#, fuzzy, fuzzy
+msgid "all"
+msgstr "всі"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Головна сторінка"
+
+#, fuzzy
+msgid "languages"
+msgstr "diller"
+
+#, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "Комплекс місць"
+
+#, fuzzy, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "Списки:"
+
+#, fuzzy, fuzzy
+msgid "Select"
+msgstr "Виберіть"
+
+#, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Порівняйте Мова Джерела даних"
+
+#, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "Номери"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Java Locale? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate мови"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. NET CultureInfo? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Change language"
+msgstr "Зміна мови"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Senden daha fazla yerelleştirme verisi çok az bir sopa ve bir API sallamak olabilir!"
+
+#, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "простих місцях"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Карта сайту"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Dil"
+
+#, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Це карта призначена для роботи, а не люди, але ви можете переглянути в будь-якому разі! Або спробуйте {0} сировини зору XML {1}."
+
+#, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "Порівняємо два джерела даних, щоб побачити які місцях відсутні."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Eksik"
+
+#, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(Не вказано)"
+
+#, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(Поточний)"
+
+#, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Мов: {0}"
+
+#, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Ласкаво просимо до LocalePlanet!"
+
+#, fuzzy, fuzzy
+msgid "Message:"
+msgstr "Повідомлення:"
+
+#, fuzzy, fuzzy
+msgid "Local name"
+msgstr "Місцева назва"
+
+#, fuzzy, fuzzy
+msgid "Digit"
+msgstr "Цифра"
+
+#, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Рядки"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} {1} Google Diller Çevir"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Standartlar"
+
+#, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "Значні цифри"
+
+#, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "Повний список"
+
+#, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "Шаблон"
+
+#, fuzzy, fuzzy
+msgid "Percent"
+msgstr "Відсотків"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Kısa ay"
+
+#, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "Розширена Мови"
+
+#, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "Експонент сепаратор"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Para birimi simgesi"
+
+#, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "Десятковий роздільник"
+
+#, fuzzy, fuzzy
+msgid "Contact"
+msgstr "Контакти"
+
+#, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "Угруповання сепаратор"
+
+#, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "Pad уникнути"
+
+#, fuzzy, fuzzy
+msgid "Eras"
+msgstr "Епох"
+
+#, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "Міжнародний символ валюти"
+
+#, fuzzy, fuzzy
+msgid "Website:"
+msgstr "Веб-сайт:"
+
+#, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "Zero цифри"
+
+#, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "Нескінченності"
+
+#, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Talk Is Cheap. Покажи мені код."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Parasal ondalık ayırıcı"
+
+#, fuzzy, fuzzy
+msgid "Total:"
+msgstr "Усього:"
+
+#, fuzzy, fuzzy
+msgid "Months"
+msgstr "Місяці"
+
+#, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Простий (хх-хх) Мови"
+
+#, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "Будні"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Genel toplam: {0}"
+
+#, fuzzy, fuzzy
+msgid "Era names"
+msgstr "Епоха імена"
+
+#, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "Тільки у {0}"
+
+#, fuzzy, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy, fuzzy
+msgid "Name:"
+msgstr "Назва:"
+
+#, fuzzy, fuzzy
+msgid "Continue"
+msgstr "Продовжити"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Ülke Listesi"
+
+#, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "Знак плюс"
+
+#, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "СІС місць у цій країні"
+
+#, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "Короткі будні"
+
+#, fuzzy, fuzzy
+msgid "File name"
+msgstr "Назва файлу"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Standartları:"
+
+#, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "Місцеві Назва"
+
+#, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Міжнародний компоненти для Unicode ({0} СІС {1}) даних"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "Başına değirmen"
+
+#, fuzzy, fuzzy
+msgid "Message"
+msgstr "Повідомлення"
+
+#, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "Знак мінус"
+
+#, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "Застарілі:"
+
+#, fuzzy, fuzzy
+msgid "Field"
+msgstr "Поле"
+
+#, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Спасибі за ваші відгуки!"
+
+#, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "СІС місць на цій мові"
+
+#, fuzzy
+msgid "Format"
+msgstr "Format"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Це список ISO 639 мовах через <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy, fuzzy
+msgid "Countries"
+msgstr "Країни"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Це список країн ISO 3166 за допомогою <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Мова Список"
+
+#, fuzzy, fuzzy
+msgid "Description"
+msgstr "Опис"
+
+#, fuzzy
+msgid "Email:"
+msgstr "Електронна пошта:"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Часові пояси"
+
+#, fuzzy
+msgid "Today"
+msgstr "Сьогодні"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Переклад"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Порівняйте дати моделей"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Переклад завантажений!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Країни з мови {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Дата Викрійка"
+
+#, fuzzy
+msgid "Result"
+msgstr "Результат"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Десяткова? Сепаратор"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Порівняйте Дата Шаблони"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Кількість десяткових знаків"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Дисплей варіант"
+
+#, fuzzy
+msgid "Call"
+msgstr "Call"
+
+#, fuzzy
+msgid "Details"
+msgstr "Детальна інформація"
+
+#, fuzzy
+msgid "Function"
+msgstr "Функція"
+
+#, fuzzy
+msgid "Output"
+msgstr "Вихід"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Демо"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Зразка"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Округлення"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Порівняйте валюти Шаблони"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Множина"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Ні)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Дата замовлення"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Огляд"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "Дата моделей"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Додаткові відповідних стандартів"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Ваш запит відповідає {0} файлів в {1} каталогів."
+
+#, fuzzy
+msgid "File name"
+msgstr "Файл? Ім&#39;я"
+
+#, fuzzy
+msgid "Input"
+msgstr "Вхід"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Символ"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Сьогодні {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Порівняйте:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Бібліотека"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Угруповання? Сепаратор"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Порівняйте час Викрійки"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "Валюта моделей"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "час моделей"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Локалізація та інтернаціоналізація для JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Мінус? Увійдіть"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Мова"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Приклади"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "План сепаратор"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Час Викрійка"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Тепер ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Мова"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Аргументи"
+
+#, fuzzy
+msgid "Country"
+msgstr "Країна"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N і I18N для JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Коротке ім&#39;я"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Використання"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Довгих назв та імен"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "У вас є {0} життя інших"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Покладіть руки, де я можу їх бачити!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Канонічні ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Дані"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Короткі / Стандартний"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Довгі / Стандартний"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Короткі / денне світло"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Короткі імена"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Довгі / денне світло"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Десяткова? Цифри"
+
+#, fuzzy
+msgid "Home"
+msgstr "Додому"
+
+#, fuzzy
+msgid "unknown"
+msgstr "невідомий"

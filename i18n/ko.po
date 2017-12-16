@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "안녕하세요!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "토토, 전 우리가 더 이상 캔자스에있는 게 느낌있어"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "집 같은 곳은 없어"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "우리가 여기에있어 의사 소통에 실패입니다"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "휴스턴, 문제가 있어요"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "잔디에 들어가지"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "모든 자료는 우리에게 속한 아르"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "꿈속에서 당신은 미러를 사용하지 않고 자신을 볼 수 있습니다"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "좀 레몬을 할 수 있습니다세요?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "도와 줘요!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "아니, 당신은 오지 않을거야!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API를"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "비교"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "고객 지원"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google은 언어 번역? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "방문자 로케일 통계"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "아니 SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "관련 집중 치료실의 로케일"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "학부모 :"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "형제 자매 :"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "어린이 :"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "자바 로케일"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "이름"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "신분증"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} 자바 로캘"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "원주민 이름"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "이 데이터 원본을 비교해보고 어느 쪽이에 있지만 다른 로케일."
+
+#, fuzzy
+msgid "Languages"
+msgstr "언어"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "언어와 국가"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "번역?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Google 이외의 이름"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google은 언어 번역"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "당신이 비교하는 두 개의 다른 데이터 소스를 선택합니다"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "로케일 확인 :"
+
+#, fuzzy
+msgid "In both"
+msgstr "모두에서"
+
+#, fuzzy
+msgid "Options:"
+msgstr "옵션 :"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "데이터 원본 {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "옵션"
+
+#, fuzzy
+msgid "All"
+msgstr "전체"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "공통점이 표시 로케일"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "누락 로케일"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "또 비교"
+
+#, fuzzy
+msgid "compare"
+msgstr "비교"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "기본 정보"
+
+#, fuzzy
+msgid "English"
+msgstr "영어"
+
+#, fuzzy
+msgid "Code"
+msgstr "코드"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "샘플 번역"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "다른 데이터 소스"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "구글이 름"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "지원?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "데이터 소스 이름"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "문자 방향"
+
+#, fuzzy
+msgid "Display name"
+msgstr "표시 이름"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "선 방향"
+
+#, fuzzy
+msgid "Data source"
+msgstr "데이터 원본"
+
+#, fuzzy
+msgid "Value"
+msgstr "값"
+
+#, fuzzy
+msgid "No"
+msgstr "없음"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "기본 로캘 ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "재산"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "사투리로 표시 이름"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "{0}에 대한 데이터 원본 비교"
+
+#, fuzzy
+msgid "Yes"
+msgstr "예"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "스위치 언어"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(아무 일치 검색)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "일반 정보"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "지원 언어"
+
+#, fuzzy
+msgid "Dates"
+msgstr "날짜"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "숫자 형식"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "값 (들)"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(찾을 수 없음)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "스위치 언어"
+
+#, fuzzy
+msgid "all"
+msgstr "모든"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet 홈 페이지"
+
+#, fuzzy
+msgid "languages"
+msgstr "언어"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "복잡한 로케일"
+
+#, fuzzy
+msgid "URL"
+msgstr "홈페이지"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "나열 :"
+
+#, fuzzy
+msgid "Select"
+msgstr "선택하세요"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "로캘 데이터 원본 비교"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "민수기"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "자바 로캘? {0}? ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google 번역 언어"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "마이크로 소프트. NET을 CultureInfo? {0}? ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "언어 변경"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "당신보다 더 많은 로컬 리 제이션 데이터는 너무에서 막대기, 그리고 API를 흔들 수 있습니다!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "간단한 로케일"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet 사이트맵"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "언어 변경"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "이 Sitemap은, 로봇이 아닌 인간에 대한 의미이지만 언제든지 찾아보기 어쨌든! 아니면 {0} 원시 XML보기를 {1}보십시오."
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "로케일이 실종되는 볼 두 개의 데이터 소스를 비교합니다."
+
+#, fuzzy
+msgid "Missing"
+msgstr "누락"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(설정되지 않음)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(현재)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# 언어 : {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "LocalePlanet 오신 것을 환영합니다!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "메시지 :"
+
+#, fuzzy
+msgid "Local name"
+msgstr "로컬 이름"
+
+#, fuzzy
+msgid "Digit"
+msgstr "손가락"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "오전 / 오후 문자열"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} 구글은 {1} 언어 번역"
+
+#, fuzzy
+msgid "Standards"
+msgstr "표준"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "중요한 자리"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "전체 목록"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "무늬"
+
+#, fuzzy
+msgid "Percent"
+msgstr "퍼센트"
+
+#, fuzzy
+msgid "Short months"
+msgstr "짧은 개월"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "확장 로케일"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "지수 분리기"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "통화 기호"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "소수 구분 기호"
+
+#, fuzzy
+msgid "Contact"
+msgstr "연락처"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "분리기를 그룹화"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "패드 탈출"
+
+#, fuzzy
+msgid "Eras"
+msgstr "시대"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "국제 통화 기호"
+
+#, fuzzy
+msgid "Website:"
+msgstr "웹사이트 :"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "제로 자리"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "무한"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "토크는 싸구려입니다. 내가 코드를 표시합니다."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "통화 소수점 구분 기호"
+
+#, fuzzy
+msgid "Total:"
+msgstr "합계 :"
+
+#, fuzzy
+msgid "Months"
+msgstr "개월"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "단순 (xx에 - XX) 로캘"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "평일에"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "그랜드 합계 : {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "시대 이름"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "만 {0}에"
+
+#, fuzzy
+msgid "NaN"
+msgstr "할머니"
+
+#, fuzzy
+msgid "Name:"
+msgstr "이름 :"
+
+#, fuzzy
+msgid "Continue"
+msgstr "계속"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 국가 목록"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "플러스 기호"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "이 나라에서 중환자 실의 로케일"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "짧은 평일"
+
+#, fuzzy
+msgid "File name"
+msgstr "파일 이름"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "규격 :"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "로컬 이름"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "유니 코드에 대한 국제 부품 ({0} {1} 중환자 실) 데이터"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "당 밀"
+
+#, fuzzy
+msgid "Message"
+msgstr "메시지"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "마이너스 기호"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "쓸모 :"
+
+#, fuzzy
+msgid "Field"
+msgstr "분야"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "의견을 주셔서 감사합니다!"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "이 언어를 사용하여 중환자 실의 로케일"
+
+#, fuzzy
+msgid "Format"
+msgstr "체재"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "이것은 언어를 통해 639 이소 목록입니다 <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "국가"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "이것은 3166를 통해 국가 이소 목록입니다 <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 언어 목록"
+
+#, fuzzy
+msgid "Description"
+msgstr "설명"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "시간대"
+
+#, fuzzy
+msgid "Today"
+msgstr "오늘"
+
+#, fuzzy
+msgid "Translation"
+msgstr "번역"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "날짜 패턴을 비교"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "번역 장전!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "언어와 국가 {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "날짜 패턴"
+
+#, fuzzy
+msgid "Result"
+msgstr "결과"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "진수? 구분"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "날짜 패턴 비교"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "소수점 기호"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "디스플레이 변종"
+
+#, fuzzy
+msgid "Call"
+msgstr "전화"
+
+#, fuzzy
+msgid "Details"
+msgstr "세부"
+
+#, fuzzy
+msgid "Function"
+msgstr "기능"
+
+#, fuzzy
+msgid "Email:"
+msgstr "이메일 :"
+
+#, fuzzy
+msgid "Locale"
+msgstr "장소"
+
+#, fuzzy
+msgid "Demo"
+msgstr "데모"
+
+#, fuzzy
+msgid "Sample"
+msgstr "견본"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "반올림"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "통화 패턴을 비교"
+
+#, fuzzy
+msgid "Plural"
+msgstr "복수의"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(없음)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "주문 날짜"
+
+#, fuzzy
+msgid "Overview"
+msgstr "개요"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "날짜 패턴"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "추가 관련 표준"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "검색어 {1} 디렉터리에서 {0} 파일을 검색."
+
+#, fuzzy
+msgid "File name"
+msgstr "파일? 이름"
+
+#, fuzzy
+msgid "Input"
+msgstr "입력"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "상징"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "오늘은 {0}입니다"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "비교 :"
+
+#, fuzzy
+msgid "Library"
+msgstr "도서관"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "그룹화? 구분"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "시간 패턴을 비교"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "통화 패턴"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "시간 패턴"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "현지화 및 국제화 자바 스크립트"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "마이너스? 로그인"
+
+#, fuzzy
+msgid "Output"
+msgstr "출력"
+
+#, fuzzy
+msgid "Examples"
+msgstr "예"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "패턴 구분자"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "시간 패턴"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "이제 ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "언어"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "인수"
+
+#, fuzzy
+msgid "Country"
+msgstr "국가"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet : L10N과 I18N 자바 스크립트"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "표시 이름"
+
+#, fuzzy
+msgid "Usage"
+msgstr "용도"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "긴 이름"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "당신이 가진 {0} 남은 인생"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "내가 그들을 볼 수있는 곳에 손을 올려!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "정식 신분증"
+
+#, fuzzy
+msgid "Data"
+msgstr "데이터"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "단편 / 표준"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "롱 / 표준"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "단편 / 일광"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "짧은 이름"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "롱 / 일광"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "진수? 자리 숫자"
+
+#, fuzzy
+msgid "Home"
+msgstr "홈"
+
+#, fuzzy
+msgid "unknown"
+msgstr "알 수없는"

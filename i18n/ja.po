@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "こんにちは、世界！"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "トト、私たちはもうカンザス州ではない感をした"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "故郷のような場所がないです"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "私たちはここに持っている通信に失敗すること"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "ヒューストン、我々は問題を抱えている"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "芝生"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "あなたのすべての基本は私たちに属する"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "夢の中では、ミラーを使用せずに自分を見ることができます"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "私はいくつかのレモンを持っている可能性がありますしてください？"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "助けてくれ！"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "いいえ、あなたは来ていないよ！"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "APIの"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "比較"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "サポート"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Googleは言語を翻訳？{0}？"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "訪問者のロケールの統計"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "はSimpleDateFormatは"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "関連ICUのロケール"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "親："
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "兄弟："
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "お子様："
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Javaのロケール"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "名"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "IDは"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0}のJava {1}ロケール"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "ネイティブの名前"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "2つのデータソースを比較して、参照してくださいどちらにあるではなく、他のロケールを示します。"
+
+#, fuzzy
+msgid "Languages"
+msgstr "言語"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "言語と国"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "翻訳？"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Google以外の名"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Googleは言語を翻訳"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "あなたは、比較する2つのさまざまなデータソースを選択する必要があります"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "ロケールをチェックする："
+
+#, fuzzy
+msgid "In both"
+msgstr "両方で"
+
+#, fuzzy
+msgid "Options:"
+msgstr "オプション："
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "データソース{0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "オプション"
+
+#, fuzzy
+msgid "All"
+msgstr "すべて"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "共通の地図を表示ロケール"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "不足しているロケール"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "もう一度比較"
+
+#, fuzzy
+msgid "compare"
+msgstr "比較"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "基本情報"
+
+#, fuzzy
+msgid "English"
+msgstr "英語"
+
+#, fuzzy
+msgid "Code"
+msgstr "コード"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "サンプル翻訳"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "他のデータソース"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Googleの名前"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "サポートされている？"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "データの名前のソース"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "文字の向き"
+
+#, fuzzy
+msgid "Display name"
+msgstr "表示名"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "線分の方向"
+
+#, fuzzy
+msgid "Data source"
+msgstr "データソース"
+
+#, fuzzy
+msgid "Value"
+msgstr "値"
+
+#, fuzzy
+msgid "No"
+msgstr "いいえ"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "基本ロケールID"
+
+#, fuzzy
+msgid "Property"
+msgstr "プロパティ"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "方言と表示名"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "{0}のデータソースの比較"
+
+#, fuzzy
+msgid "Yes"
+msgstr "はい"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "表示言語を切り替え"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "（正確に一致するもの）"
+
+#, fuzzy
+msgid "General Information"
+msgstr "インフォメーション"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "サポートされる言語"
+
+#, fuzzy
+msgid "Dates"
+msgstr "日付"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "番号の形式"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "値（複数可）"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "（存在しない）"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "スイッチの言語"
+
+#, fuzzy
+msgid "all"
+msgstr "すべて"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanetホームページ"
+
+#, fuzzy
+msgid "languages"
+msgstr "言語"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "複雑なロケール"
+
+#, fuzzy
+msgid "URL"
+msgstr "URLは"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "リスト："
+
+#, fuzzy
+msgid "Select"
+msgstr "選択"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "ロケールのデータソースを比較"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "番号"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Javaのロケール？{0}？ （{1}）"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google翻訳言語"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "は、Microsoft。NETのCultureInfo？{0}？ （{1}）"
+
+#, fuzzy
+msgid "Change language"
+msgstr "言語設定を変更"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "あなたよりも多くのローカリゼーションのデータもでスティック、およびAPIを振ることができます！"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "単純なロケール"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanetサイトマップ"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "言語を変更"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "このマップは、ロボットではなく、人間のためのものですが、お気軽に閲覧し、とにかく！ {0}または、生のXMLビューを{1}してみてください。"
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "ロケールが欠落しているかを確かめる為に、2つのデータソースを比較してください。"
+
+#, fuzzy
+msgid "Missing"
+msgstr "ミッシング"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "（設定されていない）"
+
+#, fuzzy
+msgid "(current)"
+msgstr "（現在）"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "＃言語：{0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "LocalePlanetへようこそ！"
+
+#, fuzzy
+msgid "Message:"
+msgstr "メッセージ："
+
+#, fuzzy
+msgid "Local name"
+msgstr "地方名"
+
+#, fuzzy
+msgid "Digit"
+msgstr "桁"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PMの文字列"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0}、Googleは{1}の言語を翻訳"
+
+#, fuzzy
+msgid "Standards"
+msgstr "規格"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "上位桁"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "完全なリスト"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "パターン"
+
+#, fuzzy
+msgid "Percent"
+msgstr "パーセント"
+
+#, fuzzy
+msgid "Short months"
+msgstr "ショートヶ月"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "拡張ロケール"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "指数セパレータ"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "通貨記号"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "小数点の記号"
+
+#, fuzzy
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "区切り文字をグループ化"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "パッドは脱出"
+
+#, fuzzy
+msgid "Eras"
+msgstr "時代"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "国際通貨記号"
+
+#, fuzzy
+msgid "Website:"
+msgstr "ホームページ："
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "ゼロ数字"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "無限大"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "話は安いです。私のコードを表示します。"
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "通貨桁区切り記号"
+
+#, fuzzy
+msgid "Total:"
+msgstr "合計："
+
+#, fuzzy
+msgid "Months"
+msgstr "ヶ月"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "単純な（xxは- XX）のロケール"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "平日"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "総計：{0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "時代名"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "のみ{0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaNは"
+
+#, fuzzy
+msgid "Name:"
+msgstr "名："
+
+#, fuzzy
+msgid "Continue"
+msgstr "続行"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166国リスト"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "プラス記号"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "この国ではICUのロケール"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "ショート平日"
+
+#, fuzzy
+msgid "File name"
+msgstr "ファイル名"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "規格："
+
+#, fuzzy
+msgid "Local Name"
+msgstr "ローカル名"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "ユニコードのための国際的なコンポーネント（{0} ICUの{1}）データ"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "あたりミル"
+
+#, fuzzy
+msgid "Message"
+msgstr "メッセージ"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "マイナス記号"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "廃止された："
+
+#, fuzzy
+msgid "Field"
+msgstr "フィールド"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "ご意見をいただきありがとうございます！"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "この言語を使用してICUのロケール"
+
+#, fuzzy
+msgid "Format"
+msgstr "フォーマット"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "これは、を介して639の言語のISOのリストです。 <code>ULocale.getISOLanguages()</code>"
+
+#, fuzzy
+msgid "Countries"
+msgstr "国"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "これは、を介して3166の国のISOのリストです。 <code>ULocale.getISOCountries()</code>"
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639言語一覧"
+
+#, fuzzy
+msgid "Description"
+msgstr "概要"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "タイムゾーン"
+
+#, fuzzy
+msgid "Today"
+msgstr "今日"
+
+#, fuzzy
+msgid "Translation"
+msgstr "翻訳"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "日付パターンを比較する"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "翻訳が読み込ま！"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "言語と国{0}（{1}）"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "日付パターン"
+
+#, fuzzy
+msgid "Result"
+msgstr "結果"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "進？セパレータ"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "日付パターンを比較する"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "小数点記号"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "表示バリアント"
+
+#, fuzzy
+msgid "Call"
+msgstr "コール"
+
+#, fuzzy
+msgid "Details"
+msgstr "詳細"
+
+#, fuzzy
+msgid "Function"
+msgstr "関数"
+
+#, fuzzy
+msgid "Email:"
+msgstr "メールアドレス："
+
+#, fuzzy
+msgid "Locale"
+msgstr "ロケール"
+
+#, fuzzy
+msgid "Demo"
+msgstr "デモ"
+
+#, fuzzy
+msgid "Sample"
+msgstr "サンプル"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "丸め"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "通貨パターンを比較する"
+
+#, fuzzy
+msgid "Plural"
+msgstr "複数の"
+
+#, fuzzy
+msgid "(none)"
+msgstr "（なし）"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "日付オンライン"
+
+#, fuzzy
+msgid "Overview"
+msgstr "概要"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "日付パターン"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "その他の関連する標準"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "このクエリは、{1}ディレクトリに{0}ファイルと一致していた。"
+
+#, fuzzy
+msgid "File name"
+msgstr "ファイル？名"
+
+#, fuzzy
+msgid "Input"
+msgstr "入力"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "シンボル"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "今日は{0}です。"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "比較："
+
+#, fuzzy
+msgid "Library"
+msgstr "ライブラリ"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "グループ化？セパレータ"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "時間のパターンを比較する"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "通貨パターン"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "時間パターン"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "ローカライズとJavaScriptの国際化"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "マイナス？登録"
+
+#, fuzzy
+msgid "Output"
+msgstr "出力"
+
+#, fuzzy
+msgid "Examples"
+msgstr "例"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "パターンセパレータ"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Timeパターン"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "今すぐ（{0}）"
+
+#, fuzzy
+msgid "Language"
+msgstr "言語"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "引数"
+
+#, fuzzy
+msgid "Country"
+msgstr "国"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet：ローカライゼーションと国際化JavaScriptの"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "表示名"
+
+#, fuzzy
+msgid "Usage"
+msgstr "使用"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "長い名前"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "お持ちの{0}は、残りの住んでいる"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "私は彼らを見ることができます手を上げろ！"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "正規のIDを"
+
+#, fuzzy
+msgid "Data"
+msgstr "データ"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "ショート/スタンダード"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "ロング/標準"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "ショート/夏時間"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "短い名前"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "ロング/夏時間"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "進？数字"
+
+#, fuzzy
+msgid "Home"
+msgstr "トップ"
+
+#, fuzzy
+msgid "unknown"
+msgstr "未知"

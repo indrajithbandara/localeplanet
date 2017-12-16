@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Zdravo svet!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, sem občutek, da nismo več v Kansasu"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Ni kakor doma"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Kaj smo tukaj dobili, je ne sporočijo"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Хьюстон, у нас есть проблемы"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Keep off trave"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Vse vaše baza so pripadajo nam"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "V sanjah lahko vidite sami, brez uporabe ogledala"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Prosim, lahko dobim limone?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Pomagajte mi!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Ne, ne boš prihajajo!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Primerjaj"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Поддержка"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate jezik? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Obiskovalec Locale Statistika"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "ne SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Языки, относящиеся ICU"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Parent:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Bratje in sestre:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Otroci:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Locales Java"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Ime"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java {1} Языки"
+
+#, fuzzy
+msgid "Native name"
+msgstr "Родное название"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Primerjajte dveh virov podatkov in glej, ki locales, da so v enem, druge pa ne."
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Languages"
+msgstr "Jeziki"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "Jeziki z državami"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Переводимые?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Номера для Google имя"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate Jeziki"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Morate izbrati dveh različnih virov podatkov za primerjavo"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "Lokalizacije, da preverijo:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "In both"
+msgstr "V obeh"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Функции:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "Vir podatkov {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Options"
+msgstr "Možnosti"
+
+#, fuzzy
+msgid "All"
+msgstr "Все"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "Prikaži locales v skupnem"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "Locales Missing"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "Primerjajte še enkrat"
+
+#, fuzzy
+msgid "compare"
+msgstr "сравнить"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "Osnovni podatki"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "English"
+msgstr "Angleščina"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Code"
+msgstr "Code"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "Sample Prevodi"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "Drugi viri podatkov"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Название Google"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "Podprti?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Название в источнике данных"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "Character usmerjenosti"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Display name"
+msgstr "Prikazno ime"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "Line usmerjenosti"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Data source"
+msgstr "Vir podatkov"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Value"
+msgstr "Vrednost"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "No"
+msgstr "Št"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "Base locale ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "Недвижимость"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "Prikaži ime s narečju"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Vir podatkov Primerjava za {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Yes"
+msgstr "Da"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(Ni točnega ujemanja)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "General Information"
+msgstr "Splošne informacije"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "Podprti jeziki"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Dates"
+msgstr "Datumi"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Количество форматов"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Соотношение (ы)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(Not found)"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Switch Language"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Переключить язык"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "all"
+msgstr "vse"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Home Page"
+
+#, fuzzy
+msgid "languages"
+msgstr "языках"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "Kompleksna locales"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "Seznami:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Select"
+msgstr "Izberite"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Primerjaj Locale Data Sources"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "Numbers"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Язык Java? {0}? ({1})"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate jezikih"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. NET CultureInfo? {0}? ({1})"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Change language"
+msgstr "Spremeni jezik"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Подробнее локализации данных, чем вы можете встряхнуть палку, и API тоже!"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "preprost locales"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sitemap"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Изменить язык"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Ta mapa je namenjena za robote, ki niso ljudje, ampak poiščite vas prosimo, da nekako! Ali pa poskusite {0} surovega pogled XML {1}."
+
+#, fuzzy, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "primerjava dveh virov podatkov za prikaz, ki locales manjkajo."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Отсутствует"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(Niso določene)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(Trenutno)"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Jezikov: {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Dobrodošli v LocalePlanet!"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Message:"
+msgstr "Sporočilo:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Local name"
+msgstr "Lokalne ime"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Digit"
+msgstr "Digit"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Strings"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate {1} Языки"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Стандарты"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "Pomembne mestno"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "Complete List"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "Pattern"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Percent"
+msgstr "Odstotek"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Короткие месяцев"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "Locales Extended"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "Eksponent separator"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Символ валюты"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "Decimalno ločilo"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Contact"
+msgstr "Kontakt"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "Združevanje separator"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "Pad pobeg"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Eras"
+msgstr "Obdobij"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "Mednarodni valutni simbol"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Website:"
+msgstr "Spletna stran:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "Zero mestno"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "Infinity"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Pogovor je poceni. Pokaži mi kodo."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Валютный десятичного разделителя"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Total:"
+msgstr "Skupaj:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Months"
+msgstr "Mesecev"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Simple (xx-XX) Locales"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "Delavniki"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Всего: {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Era names"
+msgstr "Era imena"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "Samo v {0}"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Name:"
+msgstr "Ime:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Continue"
+msgstr "Nadaljuj"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Список стран"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "Znak plus"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "ICU locales v tej državi"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "Kratek tednom"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "File name"
+msgstr "Ime datoteke"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Стандарты:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "Lokalne Ime"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Mednarodna Komponente za Unicode ({0} ICU {1}) Podatki"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "На мельнице"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Message"
+msgstr "Sporočilo"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "Negativni predznak"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "Zastarela:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Field"
+msgstr "Field"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Hvala za vaše mnenje!"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU locales uporabo tega jezika"
+
+#, fuzzy
+msgid "Format"
+msgstr "Формат"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "To je seznam ISO 639 jezikov prek <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy, fuzzy
+msgid "Countries"
+msgstr "Države"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "To je seznam držav ISO 3166 preko <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Jezik Seznam"
+
+#, fuzzy, fuzzy
+msgid "Description"
+msgstr "Opis"
+
+#, fuzzy, fuzzy
+msgid "Email:"
+msgstr "E-pošta:"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Časovna pasova"
+
+#, fuzzy
+msgid "Today"
+msgstr "Danes"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Prevajanje"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Primerjaj datum vzorci"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Prevodi naložen!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Države z jezika {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Datum Pattern"
+
+#, fuzzy
+msgid "Result"
+msgstr "Rezultat"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Decimal? Separator"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Primerjaj Datum Patterns"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Decimal Oznake"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Prikaži varianta"
+
+#, fuzzy
+msgid "Call"
+msgstr "Call"
+
+#, fuzzy
+msgid "Details"
+msgstr "Podrobnosti"
+
+#, fuzzy
+msgid "Function"
+msgstr "Funkcija"
+
+#, fuzzy
+msgid "Output"
+msgstr "Izhod"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Sample"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Zaokroževanje"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Primerjaj Valuta Patterns"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Množina"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Brez)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Datum Order"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Pregled"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "datum vzorci"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Dodatne ustreznih standardov"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Vaša poizvedba ujema {0} datotek v {1} imenikov."
+
+#, fuzzy
+msgid "File name"
+msgstr "File? Ime"
+
+#, fuzzy
+msgid "Input"
+msgstr "Input"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Symbol"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Danes je {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Primerjaj:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Knjižnica"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Združevanje? Separator"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Primerjaj Time Patterns"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "valuti vzorci"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "časovni vzorci"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Lokalizacije in internacionalizacije za JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Minus? Prijava"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Primeri"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Pattern Separator"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Time Pattern"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Now ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Jezik"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Trditve"
+
+#, fuzzy
+msgid "Country"
+msgstr "Country"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N in i18n za JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Prikazno ime"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Uporaba"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Imena Long"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Imate {0} življenj preostalih"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Roke, kjer jih lahko vidim!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Podatki"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Kratek / Standard"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Long / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Kratek / Daylight"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Imena Short"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Long / Daylight"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Decimal? Cifre"
+
+#, fuzzy
+msgid "Home"
+msgstr "Domov"
+
+#, fuzzy
+msgid "unknown"
+msgstr "neznan"

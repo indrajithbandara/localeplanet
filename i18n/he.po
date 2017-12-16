@@ -1,0 +1,966 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 23:23-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy
+msgid "Hello world!"
+msgstr "שלום עולם!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "טוטו, יש לי הרגשה שאנחנו כבר לא בקנזס"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET טלפון בבית"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy
+msgid "There's no place like home"
+msgstr "אין מקום כמו הבית"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "מה יש לנו כאן הוא כישלון לתקשר"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy
+msgid "Houston, we have a problem"
+msgstr "יוסטון, יש לנו בעיה"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy
+msgid "Keep off the grass"
+msgstr "שמור את הדשא"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy
+msgid "All your base are belong to us"
+msgstr "כל הבסיס שלך הם שייכות לנו"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "בחלומות אתה רואה את עצמך ללא שימוש במראות"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "בבקשה אני אולי קצת לימונים?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy
+msgid "Help me!"
+msgstr "עזור לי!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy
+msgid "No, you're not coming!"
+msgstr "לא, אתה לא בא!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy
+msgid "Compare"
+msgstr "להשוות"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy
+msgid "Support"
+msgstr "תמיכה"
+
+#: ../src/com/localeplanet/ui/UI.java:152 ../src/com/localeplanet/ui/UI.java:154
+#, fuzzy
+msgid "Change language"
+msgstr "שינוי השפה"
+
+#: ../www/sitemap_xsl.jsp:24 ../www/sitemap_xsl.jsp:30
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sitemap"
+
+#: ../www/sitemap_xsl.jsp:32
+#, java-format, fuzzy
+msgid ""
+"This sitemap is meant for robots, not humans, but feel free to browse "
+"anyway! Or try the {0}raw XML view{1}."
+msgstr "Sitemap זו נועדה עבור רובוטים, לא בני אדם, אבל אתה מוזמן לדפדף בכל מקרה! או לנסות את התצוגה {0} XML גלם {1}."
+
+#: ../www/sitemap_xsl.jsp:38
+#, fuzzy
+msgid "URL"
+msgstr "כתובת האתר"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate שפה? {0}?"
+
+#: ../www/_google-translate/index_html.jsp:55
+#, fuzzy
+msgid "Basic Information"
+msgstr "מידע בסיסי"
+
+#: ../www/_google-translate/index_html.jsp:58
+#, fuzzy
+msgid "Code"
+msgstr "קוד"
+
+#: ../www/_google-translate/index_html.jsp:62
+#, fuzzy
+msgid "Google Name"
+msgstr "חיפוש שם"
+
+#: ../www/_google-translate/index_html.jsp:66 ../www/google-translate/index_html.jsp:51
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Non-Google שם"
+
+#: ../www/_google-translate/index_html.jsp:70 ../www/google-translate/index_html.jsp:52
+#, fuzzy
+msgid "Translatable?"
+msgstr "לתרגום?"
+
+#: ../www/_google-translate/index_html.jsp:74 ../www/_icu/index_html.jsp:80
+#, fuzzy
+msgid "Other data sources"
+msgstr "אחר מקורות נתונים"
+
+#: ../www/_google-translate/index_html.jsp:75 ../www/_icu/index_html.jsp:81
+#, fuzzy
+msgid "compare"
+msgstr "להשוות"
+
+#: ../www/_google-translate/index_html.jsp:79
+#, fuzzy
+msgid "Sample Translations"
+msgstr "לדוגמא תרגומים"
+
+#: ../www/_google-translate/index_html.jsp:82
+#, fuzzy
+msgid "English"
+msgstr "אנגלית"
+
+#: ../www/_java/index_html.jsp:23
+#, java-format, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "אזור ג &#39;אווה? {0}? ({1})"
+
+#: ../www/_java/index_html.jsp:35 ../www/_dotnet/index_html.jsp:34 ../www/_icu/index_html.jsp:30
+#, fuzzy
+msgid "General Information"
+msgstr "מידע כללי"
+
+#: ../www/_java/index_html.jsp:37 ../www/_dotnet/index_html.jsp:36 ../www/_icu/index_html.jsp:84
+#, fuzzy
+msgid "Numbers"
+msgstr "מספרים"
+
+#: ../www/_java/index_html.jsp:39 ../www/_dotnet/index_html.jsp:38 ../www/_icu/index_html.jsp:161
+#, fuzzy
+msgid "Dates"
+msgstr "תאריכים"
+
+#: ../www/java/index_html.jsp:28
+#, fuzzy
+msgid "Java Locales"
+msgstr "ג &#39;אווה אזורים"
+
+#: ../www/java/index_html.jsp:33
+#, java-format, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} Java אזורים"
+
+#: ../www/java/index_html.jsp:36 ../www/google-translate/index_html.jsp:49
+#, fuzzy
+msgid "ID"
+msgstr "תעודת זהות"
+
+#: ../www/java/index_html.jsp:37 ../www/google-translate/index_html.jsp:50
+#, fuzzy
+msgid "Name"
+msgstr "שם"
+
+#: ../www/java/index_html.jsp:38
+#, fuzzy
+msgid "Native name"
+msgstr "דובר שם"
+
+#: ../www/_dotnet/index_html.jsp:22
+#, java-format, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "מיקרוסופט. CultureInfo NET? {0}? ({1})"
+
+#: ../www/index_html.jsp:16
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet דף הבית"
+
+#: ../www/index_html.jsp:24
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "ברוכים הבאים LocalePlanet!"
+
+#: ../www/index_html.jsp:26
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "הנתונים לוקליזציה יותר ממה שאתה יכול ללחוץ על מקל, ו-API מדי!"
+
+#: ../www/index_html.jsp:28 ../www/compare/index_html.jsp:29
+#, fuzzy
+msgid "Lists:"
+msgstr "רשימות:"
+
+#: ../www/index_html.jsp:29 ../www/compare/index_html.jsp:30
+#, fuzzy
+msgid "all"
+msgstr "כל"
+
+#: ../www/index_html.jsp:30 ../www/compare/index_html.jsp:31
+#, fuzzy
+msgid "languages"
+msgstr "שפות"
+
+#: ../www/index_html.jsp:31 ../www/compare/index_html.jsp:32
+#, fuzzy
+msgid "simple locales"
+msgstr "פשוט האזורים"
+
+#: ../www/index_html.jsp:32 ../www/compare/index_html.jsp:33
+#, fuzzy
+msgid "complex locales"
+msgstr "מורכבות האזורים"
+
+#: ../www/index_html.jsp:41
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate שפות"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "המבקר לסטטיסטיקה אזור"
+
+#: ../www/support/browser_html.jsp:121
+#, fuzzy
+msgid "(not set)"
+msgstr "(לא מוגדר)"
+
+#: ../www/support/change-language_html.jsp:23 ../www/support/change-language_html.jsp:44
+#, fuzzy
+msgid "Change Language"
+msgstr "שנה שפה"
+
+#: ../www/support/change-language_html.jsp:48
+#, fuzzy
+msgid "Supported Languages"
+msgstr "תמיכה בשפות"
+
+#: ../www/support/change-language_html.jsp:87
+#, fuzzy
+msgid "(current)"
+msgstr "(הנוכחי)"
+
+#: ../www/support/change-language_html.jsp:92
+#, fuzzy
+msgid "Select"
+msgstr "בחר"
+
+#: ../www/_icu/index_html.jsp:33 ../www/_icu/index_html.jsp:88 ../www/_icu/index_html.jsp:165
+#, fuzzy
+msgid "Property"
+msgstr "נכס"
+
+#: ../www/_icu/index_html.jsp:34 ../www/_icu/index_html.jsp:89
+#, fuzzy
+msgid "Value"
+msgstr "ערך"
+
+#: ../www/_icu/index_html.jsp:37
+#, fuzzy
+msgid "Base locale ID"
+msgstr "Base מזהה אזור"
+
+#: ../www/_icu/index_html.jsp:41
+#, fuzzy
+msgid "Display name"
+msgstr "הצגת שם"
+
+#: ../www/_icu/index_html.jsp:45
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "הצגת שם עם ניב"
+
+#: ../www/_icu/index_html.jsp:49
+#, fuzzy
+msgid "Character orientation"
+msgstr "תו אוריינטציה"
+
+#: ../www/_icu/index_html.jsp:53
+#, fuzzy
+msgid "Line orientation"
+msgstr "קו הכיוון"
+
+#: ../www/_icu/index_html.jsp:66
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(אין התאמה מדויקת)"
+
+#: ../www/_icu/index_html.jsp:166
+#, fuzzy
+msgid "Value(s)"
+msgstr "ערך (ים)"
+
+#: ../www/_icu/index_html.jsp:248
+#, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "לא SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:258
+#, fuzzy
+msgid "Related ICU Locales"
+msgstr "אזורים הקשורים לטיפול נמרץ"
+
+#: ../www/_icu/index_html.jsp:264
+#, fuzzy
+msgid "Parent:"
+msgstr "האב:"
+
+#: ../www/_icu/index_html.jsp:279
+#, fuzzy
+msgid "Siblings:"
+msgstr "אחים:"
+
+#: ../www/_icu/index_html.jsp:300
+#, fuzzy
+msgid "Children:"
+msgstr "ילדים:"
+
+#: ../www/compare/missing_html.jsp:37 ../www/compare/missing_html.jsp:42 ../www/compare/_missing.jsp:48 ../www/compare/_missing.jsp:53
+#, fuzzy
+msgid "Missing Locales"
+msgstr "חסרים אזורים"
+
+#: ../www/compare/missing_html.jsp:46
+#, fuzzy
+msgid ""
+"Compare two data sources and see which locales that are in one but not the "
+"other."
+msgstr "להשוות בין שני מקורות הנתונים ולראות איזה מקומות שנמצאים אחד אבל לא השני."
+
+#: ../www/compare/missing_html.jsp:57
+#, fuzzy
+msgid "Options"
+msgstr "אפשרויות"
+
+#: ../www/compare/missing_html.jsp:60 ../www/compare/missing_html.jsp:64
+#, java-format, fuzzy
+msgid "Data Source {0}"
+msgstr "מקור נתונים {0}"
+
+#: ../www/compare/missing_html.jsp:68
+#, fuzzy
+msgid "Locales to check:"
+msgstr "אזורים כדי לבדוק:"
+
+#: ../www/compare/missing_html.jsp:70
+#, fuzzy
+msgid "Languages"
+msgstr "שפות"
+
+#: ../www/compare/missing_html.jsp:71
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "שפות עם מדינות"
+
+#: ../www/compare/missing_html.jsp:72
+#, fuzzy
+msgid "All"
+msgstr "כל"
+
+#: ../www/compare/missing_html.jsp:76
+#, fuzzy
+msgid "Options:"
+msgstr "אפשרויות:"
+
+#: ../www/compare/missing_html.jsp:77
+#, fuzzy
+msgid "Show locales in common"
+msgstr "הצג אזורי משותף"
+
+#: ../www/compare/_missing.jsp:26
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "עליך לבחור שני מקורות נתונים שונים כדי להשוות"
+
+#: ../www/compare/_missing.jsp:57
+#, fuzzy
+msgid "In both"
+msgstr "הן"
+
+#: ../www/compare/_missing.jsp:145
+#, fuzzy
+msgid "Compare again"
+msgstr "השווה שוב"
+
+#: ../www/compare/index_html.jsp:23 ../www/compare/index_html.jsp:28
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "השוואת מקורות הנתונים אזור"
+
+#: ../www/compare/index_html.jsp:35
+#, fuzzy
+msgid "Missing"
+msgstr "חסר"
+
+#: ../www/compare/index_html.jsp:35
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "להשוות בין שני מקורות הנתונים כדי לראות אילו מקומות חסרים."
+
+#: ../www/google-translate/index_html.jsp:29 ../www/google-translate/index_html.jsp:46
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate שפות"
+
+#: ../www/google-translate/index_html.jsp:92
+#, fuzzy
+msgid "(not found)"
+msgstr "(לא נמצא)"
+
+#: ../www/google-translate/index_html.jsp:116
+#, java-format, fuzzy
+msgid "# of languages: {0}"
+msgstr "# של שפות: {0}"
+
+#: ../www/_compare/index_html.jsp:22
+#, java-format, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "נתוני השוואה מקור עבור {0}"
+
+#: ../www/_compare/index_html.jsp:35
+#, fuzzy
+msgid "Data source"
+msgstr "מקור הנתונים"
+
+#: ../www/_compare/index_html.jsp:36
+#, fuzzy
+msgid "Supported?"
+msgstr "נתמך?"
+
+#: ../www/_compare/index_html.jsp:37
+#, fuzzy
+msgid "Name in data source"
+msgstr "שם בנתוני המקור"
+
+#: ../www/_compare/index_html.jsp:54
+#, fuzzy
+msgid "No"
+msgstr "לא"
+
+#: ../www/_compare/index_html.jsp:63
+#, fuzzy
+msgid "Yes"
+msgstr "כן"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate שפות {1}"
+
+#, fuzzy
+msgid "Message:"
+msgstr "הודעה:"
+
+#, fuzzy
+msgid "Local name"
+msgstr "מקומי שם"
+
+#, fuzzy
+msgid "Digit"
+msgstr "ספרה"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM מיתרים"
+
+#, fuzzy
+msgid "Standards"
+msgstr "תקנים"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "ספרות משמעותיות"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "לרשימה המלאה"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "מקומי שם"
+
+#, fuzzy
+msgid "Percent"
+msgstr "אחוזים"
+
+#, fuzzy
+msgid "Short months"
+msgstr "קצרה חודשים"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Extended אזורים"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "קצר באמצע השבוע"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "מטבע סמל"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "עשרוני מפריד"
+
+#, fuzzy
+msgid "Contact"
+msgstr "צור קשר"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "מינוס הירשם"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "Pad להימלט"
+
+#, fuzzy
+msgid "Eras"
+msgstr "בעידנים"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "סמל המטבע הבינלאומית"
+
+#, fuzzy
+msgid "Message"
+msgstr "הודעה"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "אפס ספרות"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "אין סוף"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Talk הוא זול. הראה לי את הקוד."
+
+#, fuzzy
+msgid "Per mill"
+msgstr "לכל הטחנה"
+
+#, fuzzy
+msgid "Total:"
+msgstr "סך הכל:"
+
+#, fuzzy
+msgid "Months"
+msgstr "חודשים"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "פשוט (XX-XX) אזורים"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "תודה על המשוב שלך!"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "סך כולל: {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "עידן שמות"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "רק ב {0}"
+
+#, fuzzy
+msgid "Format"
+msgstr "פורמט"
+
+#, fuzzy
+msgid "Name:"
+msgstr "שם:"
+
+#, fuzzy
+msgid "Continue"
+msgstr "להמשיך"
+
+#, fuzzy
+msgid "Email:"
+msgstr "דואר אלקטרוני:"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 מדינה רשימה"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "סימן פלוס"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "במחלקה לטיפול נמרץ האזורים בארץ הזאת"
+
+#, fuzzy
+msgid "Countries"
+msgstr "מדינות"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "תקנים:"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "דפוס"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "הבינלאומי רכיבים עבור Unicode ({0} {1} ICU) נתונים"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "זוהי רשימה של ISO 3166 מדינות באמצעות <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "Website:"
+msgstr "אתר אינטרנט:"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "קיבוץ מפריד"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "מיושן:"
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "המטבע עשרוני מפריד"
+
+#, fuzzy
+msgid "Field"
+msgstr "שדה"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "בימי חול"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "במחלקה לטיפול נמרץ באזורים באמצעות שפה זו"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "זוהי רשימה של ISO 639 שפות באמצעות <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "File name"
+msgstr "שם קובץ"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "מעריך מפריד"
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 שפה רשימה"
+
+#, fuzzy
+msgid "Description"
+msgstr "תיאור"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "אזורי זמן"
+
+#, fuzzy
+msgid "Today"
+msgstr "היום"
+
+#, fuzzy
+msgid "Translation"
+msgstr "תרגום"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "השוואת דפוסי תאריך"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "תרגומים טעון!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "מדינות עם השפה {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "תאריך Pattern"
+
+#, fuzzy
+msgid "Result"
+msgstr "תוצאה"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "עשרוני? מפריד"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "השוואת דפוסי תאריך"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "עשרוני סמלים"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "הצגת חלופה"
+
+#, fuzzy
+msgid "Call"
+msgstr "שיחה"
+
+#, fuzzy
+msgid "Details"
+msgstr "פרטים"
+
+#, fuzzy
+msgid "Function"
+msgstr "פונקציה"
+
+#, fuzzy
+msgid "Output"
+msgstr "פלט"
+
+#, fuzzy
+msgid "Demo"
+msgstr "הדגמה"
+
+#, fuzzy
+msgid "Sample"
+msgstr "מדגם"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "דפוס מפריד"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "עיגול"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "השוואת דפוסי מטבע"
+
+#, fuzzy
+msgid "Plural"
+msgstr "רבים"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(ללא)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "תאריך הזמנה"
+
+#, fuzzy
+msgid "Overview"
+msgstr "סקירה"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "תאריך דפוסי"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "תקנים רלוונטיים נוספים"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "השאילתה שלך מתאימים {0} קבצים בספריות {1}."
+
+#, fuzzy
+msgid "File name"
+msgstr "קובץ? שם"
+
+#, fuzzy
+msgid "Input"
+msgstr "קלט"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "סמל"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "היום הוא {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "השווה:"
+
+#, fuzzy
+msgid "Library"
+msgstr "ספריה"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "קיבוץ? מפריד"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "השוואת דפוסי זמן"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "המטבע דפוסי"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "זמן דפוסי"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "לוקליזציה ובינאום על JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "מינוס? הירשם"
+
+#, fuzzy
+msgid "Locale"
+msgstr "אזור"
+
+#, fuzzy
+msgid "Examples"
+msgstr "דוגמאות"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "עשרוני? ספרות"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "זמן Pattern"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "עכשיו ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "שפה"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "טיעונים"
+
+#, fuzzy
+msgid "Country"
+msgstr "הארץ"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N ו I18N עבור JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "שם לתצוגה"
+
+#, fuzzy
+msgid "Usage"
+msgstr "הקישורים"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "לונג שמות"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "יש לך {0} חיים שנותרו"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "שים את הידיים שלך איפה אני יכול לראות אותם!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "קנוניקל מזהה"
+
+#, fuzzy
+msgid "Data"
+msgstr "נתונים"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "קצר / רגיל"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "לונג / רגיל"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "קצר / קיץ"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "שמות קצרים"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "לונג / קיץ"
+
+#, fuzzy
+msgid "Home"
+msgstr "בית"
+
+#, fuzzy
+msgid "unknown"
+msgstr "לא ידוע"

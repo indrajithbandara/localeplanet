@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Hello world!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, ja som pocit, že nie sme v Kansase"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Nie je miesto ako doma"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Čo sme sa sem dostali, je neschopnosť komunikovať"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Хьюстон, у нас есть проблемы"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Ruky preč"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Všetky vaše základňa sú patriť nám"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "V snoch si môžete prezrieť sami bez použitia zrkadiel"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Prosím, môžem mať nejaké citróny?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Pomôž mi!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Nie, nie ste tu!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Porovnať"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Поддержка"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Prekladač jazyka? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Návštevník Národný Štatistika"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "nie SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Языки, относящиеся ICU"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Materská:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Súrodenci:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Deti:"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Národný"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Meno"
+
+#, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java {1} Языки"
+
+#, fuzzy
+msgid "Native name"
+msgstr "Родное название"
+
+#, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Porovnanie dvoch dátových zdrojov, a zistiť, ktoré lokality, ktoré sú v jednom, ale nie iný."
+
+#, fuzzy, fuzzy
+msgid "Languages"
+msgstr "Jazyky"
+
+#, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "Jazyky sa krajinami"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Переводимые?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Номера для Google имя"
+
+#, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate jazyky"
+
+#, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Musíte vybrať dva rôzne zdroje dát k porovnaniu"
+
+#, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "Locales pre kontrolu:"
+
+#, fuzzy, fuzzy
+msgid "In both"
+msgstr "V oboch"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Функции:"
+
+#, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "Zdroj údajov {0}"
+
+#, fuzzy, fuzzy
+msgid "Options"
+msgstr "Možnosti"
+
+#, fuzzy
+msgid "All"
+msgstr "Все"
+
+#, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "Zobraziť locales v spoločnom"
+
+#, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "Chýbajúce Národný"
+
+#, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "Porovnať znova"
+
+#, fuzzy
+msgid "compare"
+msgstr "сравнить"
+
+#, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "Základné informácie"
+
+#, fuzzy, fuzzy
+msgid "English"
+msgstr "Angličtina"
+
+#, fuzzy, fuzzy
+msgid "Code"
+msgstr "Kód"
+
+#, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "Vzorka Preklady"
+
+#, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "Iné zdroje dát"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Название Google"
+
+#, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "Podporované?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Название в источнике данных"
+
+#, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "Znak orientácia"
+
+#, fuzzy, fuzzy
+msgid "Display name"
+msgstr "Zobrazované meno"
+
+#, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "Line orientácia"
+
+#, fuzzy, fuzzy
+msgid "Data source"
+msgstr "Zdroj údajov"
+
+#, fuzzy, fuzzy
+msgid "Value"
+msgstr "Hodnota"
+
+#, fuzzy, fuzzy
+msgid "No"
+msgstr "Nie"
+
+#, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "Base ID národného prostredia"
+
+#, fuzzy
+msgid "Property"
+msgstr "Недвижимость"
+
+#, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "Zobrazované meno s dialektom"
+
+#, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Zdroj údajov pre porovnanie {0}"
+
+#, fuzzy, fuzzy
+msgid "Yes"
+msgstr "Áno"
+
+#, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(Bez presnej zhody)"
+
+#, fuzzy, fuzzy
+msgid "General Information"
+msgstr "Všeobecné informácie"
+
+#, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "Podporované jazyky"
+
+#, fuzzy, fuzzy
+msgid "Dates"
+msgstr "Termíny"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Количество форматов"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Соотношение (ы)"
+
+#, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(Nenájdené)"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Switch Language"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Переключить язык"
+
+#, fuzzy, fuzzy
+msgid "all"
+msgstr "všetky"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet stránka"
+
+#, fuzzy
+msgid "languages"
+msgstr "языках"
+
+#, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "komplexné locales"
+
+#, fuzzy, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "Zoznamy:"
+
+#, fuzzy, fuzzy
+msgid "Select"
+msgstr "Vybrať"
+
+#, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Porovnať Národný Zdroje dát"
+
+#, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "Čísla"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Язык Java? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate jazyky"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. NET CultureInfo? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Change language"
+msgstr "Zmeniť jazyk"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Подробнее локализации данных, чем вы можете встряхнуть палку, и API тоже!"
+
+#, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "jednoduché locales"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sitemap"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Изменить язык"
+
+#, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Táto mapa stránok je určená pre roboty, nie pre ľudí, ale pokojne prechádzať rovnako! Alebo skúste {0} surové zobrazenie XML {1}."
+
+#, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "porovnať dva zdroje dát pre zobrazenie, ktoré locales chýba."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Отсутствует"
+
+#, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(Nie je nastavené)"
+
+#, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(Aktuálne)"
+
+#, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "Počet jazykov: {0}"
+
+#, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Vitajte na LocalePlanet!"
+
+#, fuzzy, fuzzy
+msgid "Message:"
+msgstr "Správa:"
+
+#, fuzzy, fuzzy
+msgid "Local name"
+msgstr "Miestny názov"
+
+#, fuzzy, fuzzy
+msgid "Digit"
+msgstr "Číslica"
+
+#, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Struny"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate {1} Языки"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Стандарты"
+
+#, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "Číslica"
+
+#, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "Kompletný zoznam"
+
+#, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "Vzor"
+
+#, fuzzy, fuzzy
+msgid "Percent"
+msgstr "Percent"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Короткие месяцев"
+
+#, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "Rozšírená Národný"
+
+#, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "Exponent oddeľovač"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Символ валюты"
+
+#, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "Desatinná čiarka"
+
+#, fuzzy, fuzzy
+msgid "Contact"
+msgstr "Kontakt"
+
+#, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "Zoskupenie oddeľovač"
+
+#, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "Pad úteku"
+
+#, fuzzy, fuzzy
+msgid "Eras"
+msgstr "Ér"
+
+#, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "Medzinárodný symbol meny"
+
+#, fuzzy, fuzzy
+msgid "Website:"
+msgstr "Webová stránka:"
+
+#, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "Zero číslice"
+
+#, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "Nekonečno"
+
+#, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Hovorenie je tak lacné. Ukáž mi kód."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Валютный десятичного разделителя"
+
+#, fuzzy, fuzzy
+msgid "Total:"
+msgstr "Celkom:"
+
+#, fuzzy, fuzzy
+msgid "Months"
+msgstr "Mesiacov"
+
+#, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Jednoduché (xx-xx) Národné"
+
+#, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "Všedné dni"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Всего: {0}"
+
+#, fuzzy, fuzzy
+msgid "Era names"
+msgstr "Mená éry"
+
+#, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "Iba v {0}"
+
+#, fuzzy, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy, fuzzy
+msgid "Name:"
+msgstr "Meno:"
+
+#, fuzzy, fuzzy
+msgid "Continue"
+msgstr "Pokračovať"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Список стран"
+
+#, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "Znamienko plus"
+
+#, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "JIP locales v tejto krajine"
+
+#, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "Krátke dni v týždni"
+
+#, fuzzy, fuzzy
+msgid "File name"
+msgstr "Názov súboru"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Стандарты:"
+
+#, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "Miestne meno"
+
+#, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Medzinárodná Komponenty pre Unicode ({0} {1} JIS) Data"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "На мельнице"
+
+#, fuzzy, fuzzy
+msgid "Message"
+msgstr "Správy"
+
+#, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "Znamienko mínus"
+
+#, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "Zastarané:"
+
+#, fuzzy, fuzzy
+msgid "Field"
+msgstr "Pole"
+
+#, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Ďakujeme za váš názor!"
+
+#, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU locales pomocou tohto jazyka"
+
+#, fuzzy
+msgid "Format"
+msgstr "Формат"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Toto je zoznam 639 jazykov ISO cez <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "Krajina"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Toto je zoznam krajín ISO 3166 cez <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Jazyk Zoznam"
+
+#, fuzzy
+msgid "Description"
+msgstr "Popis"
+
+#, fuzzy
+msgid "Email:"
+msgstr "E-mail:"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Časové pásma"
+
+#, fuzzy
+msgid "Today"
+msgstr "Dnes"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Preklad"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Porovnať dátum vzory"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Preklady naložené!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Krajiny s jazykom {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Dátum vzor"
+
+#, fuzzy
+msgid "Result"
+msgstr "Výsledok"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Desatinná? Oddeľovač"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Porovnať Dátum Vzory"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Desatinná Symboly"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Zobraziť variant"
+
+#, fuzzy
+msgid "Call"
+msgstr "Volanie"
+
+#, fuzzy
+msgid "Details"
+msgstr "Podrobnosti"
+
+#, fuzzy
+msgid "Function"
+msgstr "Funkcia"
+
+#, fuzzy
+msgid "Output"
+msgstr "Výstupný"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Vzorky"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Zaokrúhľovanie"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Porovnať meny Vzory"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Množné číslo"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Žiadny)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Dátum objednávky"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Prehľad"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "Dátum vzory"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Ďalšie príslušné normy"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Váš dotaz uzavreté {0} súborov v {1} adresára."
+
+#, fuzzy
+msgid "File name"
+msgstr "Súboru? Meno"
+
+#, fuzzy
+msgid "Input"
+msgstr "Vstupné"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Symbol"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Dnes je {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Porovnať:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Knižnica"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Zoskupenie? Oddeľovač"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Porovnať Čas Vzory"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "mena vzory"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "čas vzory"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Lokalizácia a internacionalizácia pre JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Mínus? Zaregistrujte sa"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Príklady"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Oddeľovač vzor"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Vzor čas"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Teraz ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Jazyk"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Tvrdenia"
+
+#, fuzzy
+msgid "Country"
+msgstr "Krajina"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N a i18n pre JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Zobrazované meno"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Využitie"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Dlhé názvy"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Máte-{0} životov zostávajúcich"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Dajte si ruky, kde môžem vidieť!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Dáta"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Krátke / Standard"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Dlhé / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Krátky / denné svetlo"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Krátke mená"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Dlhé / denné svetlo"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Desatinná? Číslica"
+
+#, fuzzy
+msgid "Home"
+msgstr "Domáce"
+
+#, fuzzy
+msgid "unknown"
+msgstr "neznáma"

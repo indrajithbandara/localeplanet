@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Hello world!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, mam wrażenie, że nie jesteśmy już w Kansas"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Nie ma jak w domu"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Co mamy tutaj jest brak komunikacji"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, mamy problem"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Nie deptać trawy"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Wszystkie bazy należą do nas"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "W snach widzisz siebie bez użycia lustra"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Proszę może mam trochę cytryny?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Pomóż mi!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Nie, ty nie idziesz!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Porównaj"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Wsparcie"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate języka? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Statystyki odwiedzin Locale"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "nie SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Ustawienia regionalne Podobne ICU"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Rodzic:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Rodzeństwo:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Dzieci:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Locales"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Nazwa"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} Java Locales"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "Język nazwa"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Porównanie dwóch źródeł danych i zobaczyć, które locale, że w jednym ale nie w innych."
+
+#, fuzzy
+msgid "Languages"
+msgstr "Języki"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "Języki z krajami"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Translatable?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Non-Google nazwa"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate Języki"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Musisz wybrać dwa różne źródła danych do porównania"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "Ustawienia regionalne w celu sprawdzenia:"
+
+#, fuzzy
+msgid "In both"
+msgstr "W obu"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Opcje:"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "Źródło danych {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "Opcje"
+
+#, fuzzy
+msgid "All"
+msgstr "Wszystkie"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "Pokaż lokalizacje wspólnego"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "Brak Locales"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "Porównaj ponownie"
+
+#, fuzzy
+msgid "compare"
+msgstr "porównaj"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "Podstawowe informacje"
+
+#, fuzzy
+msgid "English"
+msgstr "Angielski"
+
+#, fuzzy
+msgid "Code"
+msgstr "Kodeks"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "Sample Translations"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "Innych źródeł danych"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Nazwa Google"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "Obsługiwane?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Imię i nazwisko w danych źródłowych"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "Charakter orientację"
+
+#, fuzzy
+msgid "Display name"
+msgstr "Wyświetlana nazwa"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "orientacji Line"
+
+#, fuzzy
+msgid "Data source"
+msgstr "źródło danych"
+
+#, fuzzy
+msgid "Value"
+msgstr "Stosunek jakości"
+
+#, fuzzy
+msgid "No"
+msgstr "Nr"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "lokalizacji bazy ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "Nieruchomości"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "Nazwa wyświetlana z dialektu"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Porównanie źródła danych dla {0}"
+
+#, fuzzy
+msgid "Yes"
+msgstr "Tak"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Zmienić język"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(Bez dokładnego dopasowania)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "Informacje ogólne"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "Obsługiwane języki"
+
+#, fuzzy
+msgid "Dates"
+msgstr "Daty"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Liczba Formaty"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Wartość (s)"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(Nie znaleziono)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Zmień język"
+
+#, fuzzy
+msgid "all"
+msgstr "wszystkich"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "Strona główna LocalePlanet"
+
+#, fuzzy
+msgid "languages"
+msgstr "językach"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "Złożona locales"
+
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "Listy:"
+
+#, fuzzy
+msgid "Select"
+msgstr "Wybierz"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Porównaj Źródła danych Locale"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "Liczby"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Locale Java? {0}? ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate językach"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. NET CultureInfo? {0}? ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "Zmień język"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Więcej danych lokalizacji niż można trzymać na drgania i API też!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "proste locales"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sitemap"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Zmień język"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Ta mapa jest przeznaczona do roboty, a nie ludzi, ale możesz przeglądać tak! Albo spróbować {0} surowego widoku XML {1}."
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "porównać dwa źródła danych, aby zobaczyć, które locale brakuje."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Brakuje"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(Nie ustawione)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(Aktualna)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Języków: {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Zapraszamy do LocalePlanet!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "Wiadomość:"
+
+#, fuzzy
+msgid "Local name"
+msgstr "Lokalna nazwa"
+
+#, fuzzy
+msgid "Digit"
+msgstr "Cyfra"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Strings"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate {1} Języki"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Normy"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "Cyfry znaczącej"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "Kompletna lista"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "Wzór"
+
+#, fuzzy
+msgid "Percent"
+msgstr "Procent"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Krótki miesięcy"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Rozszerzony Locales"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "separator Exponent"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Symbol waluty"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "Separator dziesiętny"
+
+#, fuzzy
+msgid "Contact"
+msgstr "Kontakt"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "Grupowanie separator"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "Pad uciec"
+
+#, fuzzy
+msgid "Eras"
+msgstr "Eras"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "Międzynarodowy symbol waluty"
+
+#, fuzzy
+msgid "Website:"
+msgstr "Strona WWW:"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "Zero cyfrowy"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "Nieskończoność"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Dyskusja jest tanie. Pokaż mi kod."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Walutowego separator dziesiętny"
+
+#, fuzzy
+msgid "Total:"
+msgstr "Razem:"
+
+#, fuzzy
+msgid "Months"
+msgstr "Miesiące"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Simple (xx-xx) Ustawienia regionalne"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "W dni powszednie"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Suma: {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "nazwy Era"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "Tylko w {0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy
+msgid "Name:"
+msgstr "Imię i nazwisko:"
+
+#, fuzzy
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Lista Kraj"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "Zarejestruj Plus"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "locales OIOM w tym kraju"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "Krótkie dni powszednie"
+
+#, fuzzy
+msgid "File name"
+msgstr "Nazwa pliku"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Normy:"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "Lokalna nazwa"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Components International dla Unicode (ICU {0} {1}) Dane"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "Promila"
+
+#, fuzzy
+msgid "Message"
+msgstr "Wiadomość"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "Znak minus"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "Przestarzałe:"
+
+#, fuzzy
+msgid "Field"
+msgstr "Pole"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Dziękujemy za Twój komentarz!"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "locales OIOM w tym języku"
+
+#, fuzzy
+msgid "Format"
+msgstr "Format"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "To jest lista języków ISO 639 przez <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "Kraje"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "To jest lista krajów ISO 3166 przez <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Lista Language"
+
+#, fuzzy
+msgid "Description"
+msgstr "Opis"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Strefy czasowe"
+
+#, fuzzy
+msgid "Today"
+msgstr "Dzisiaj"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Tłumaczenie"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Porównaj modele daty"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Tłumaczenia załadowany!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Kraje z językiem {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Data Pattern"
+
+#, fuzzy
+msgid "Result"
+msgstr "Wynik"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Dziesiętny? Separator"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Porównaj Patterns Data"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Symboli dziesiętnych"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "wariant Display"
+
+#, fuzzy
+msgid "Call"
+msgstr "Call"
+
+#, fuzzy
+msgid "Details"
+msgstr "Szczegóły"
+
+#, fuzzy
+msgid "Function"
+msgstr "Funkcja"
+
+#, fuzzy
+msgid "Email:"
+msgstr "E-mail:"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Ustawienia regionalne"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Zdania"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Zaokrąglanie"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Porównaj Patterns walut"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Liczba mnoga"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(None)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Data Zamówienie"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Przegląd"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "wzory daty"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Dodatkowe odpowiednich norm"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Twoje zapytanie dopasowane pliki {0} w {1} katalogów."
+
+#, fuzzy
+msgid "File name"
+msgstr "Plik? Nazwa"
+
+#, fuzzy
+msgid "Input"
+msgstr "Wejście"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Symbol"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Dziś jest {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Porównaj:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Biblioteka"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Grupowanie? Separator"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Porównaj Wzorce czasu"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "wzory waluty"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "wzorców czasu"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Lokalizacja i internacjonalizacja dla JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Minus? Zarejestruj"
+
+#, fuzzy
+msgid "Output"
+msgstr "Wyjście"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Przykłady"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Separator Pattern"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Time Pattern"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Now ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Język"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Argumenty"
+
+#, fuzzy
+msgid "Country"
+msgstr "Kraj"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N i I18N dla JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Wyświetlana nazwa"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Wykorzystanie"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Długich nazw"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Masz {0} życie pozostałych"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Ręce, gdzie mogę je zobaczyć!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Dane"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Krótki / Standard"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Long / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Krótki / światło dzienne"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Skrócone nazwy"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Long / Daylight"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Dziesiętny? Cyfry"
+
+#, fuzzy
+msgid "Home"
+msgstr "Dom"
+
+#, fuzzy
+msgid "unknown"
+msgstr "nieznany"

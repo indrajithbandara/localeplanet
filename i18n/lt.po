@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Sveiki pasaulyje!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, aš jausmas, kad mes ne, Kansas anymore"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Nėra kaip namie vieta"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Ką mes turime čia, yra nesugebėjimas bendrauti"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "휴스턴, 문제가 있어요"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Laikyti ne žolė"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Visi jūsų bazės priklauso mums"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "Be svajonių matote save, nenaudojant veidrodžių"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Prašome gali turiu šiek tiek citrinos?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Padėkite man!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Ne, jūs ne ateina!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Palyginti"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "고객 지원"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "&quot;Google Translate&quot; kalbą? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Lankytojo Locale statistika"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "ne SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "관련 집중 치료실의 로케일"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Tėvų:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Broliai, seserys:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Vaikai:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Locales"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Vardas"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} 자바 로캘"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "원주민 이름"
+
+#, fuzzy, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "Palyginti dvi duomenų šaltinius, ir pamatysite, kurie aplinka, kad yra vienas, bet ne kitų."
+
+#, fuzzy, fuzzy
+msgid "Languages"
+msgstr "Kalbos"
+
+#, fuzzy, fuzzy
+msgid "Languages with Countries"
+msgstr "Kalbos su šalimis,"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "번역?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Google 이외의 이름"
+
+#, fuzzy, fuzzy
+msgid "Google Translate Languages"
+msgstr "&quot;Google Translate&quot; Kalbos"
+
+#, fuzzy, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Jūs turite pasirinkti du skirtingus duomenų šaltinius palyginti"
+
+#, fuzzy, fuzzy
+msgid "Locales to check:"
+msgstr "Locales patikrinti:"
+
+#, fuzzy, fuzzy
+msgid "In both"
+msgstr "Abiem"
+
+#, fuzzy
+msgid "Options:"
+msgstr "옵션 :"
+
+#, fuzzy, fuzzy
+msgid "Data Source {0}"
+msgstr "Duomenų šaltinis {0}"
+
+#, fuzzy, fuzzy
+msgid "Options"
+msgstr "Funkcijos"
+
+#, fuzzy
+msgid "All"
+msgstr "전체"
+
+#, fuzzy, fuzzy
+msgid "Show locales in common"
+msgstr "Rodyti locales į bendrą"
+
+#, fuzzy, fuzzy
+msgid "Missing Locales"
+msgstr "Trūksta Locales"
+
+#, fuzzy, fuzzy
+msgid "Compare again"
+msgstr "Palyginti vėl"
+
+#, fuzzy
+msgid "compare"
+msgstr "비교"
+
+#, fuzzy, fuzzy
+msgid "Basic Information"
+msgstr "Pagrindinė informacija"
+
+#, fuzzy, fuzzy
+msgid "English"
+msgstr "Anglų"
+
+#, fuzzy, fuzzy
+msgid "Code"
+msgstr "Kodas"
+
+#, fuzzy, fuzzy
+msgid "Sample Translations"
+msgstr "Imties Vertimai"
+
+#, fuzzy, fuzzy
+msgid "Other data sources"
+msgstr "Kiti duomenų šaltiniai"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "구글이 름"
+
+#, fuzzy, fuzzy
+msgid "Supported?"
+msgstr "Palaikomos?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "데이터 소스 이름"
+
+#, fuzzy, fuzzy
+msgid "Character orientation"
+msgstr "Simbolių orientacijos"
+
+#, fuzzy, fuzzy
+msgid "Display name"
+msgstr "Rodomas vardas"
+
+#, fuzzy, fuzzy
+msgid "Line orientation"
+msgstr "Linijos orientacija"
+
+#, fuzzy, fuzzy
+msgid "Data source"
+msgstr "Duomenų šaltinis"
+
+#, fuzzy, fuzzy
+msgid "Value"
+msgstr "Vertė"
+
+#, fuzzy, fuzzy
+msgid "No"
+msgstr "Nr"
+
+#, fuzzy, fuzzy
+msgid "Base locale ID"
+msgstr "Bazinė locale ID"
+
+#, fuzzy
+msgid "Property"
+msgstr "재산"
+
+#, fuzzy, fuzzy
+msgid "Display name with dialect"
+msgstr "Rodomas vardas su tarme"
+
+#, fuzzy, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Duomenų šaltinis palyginimas {0}"
+
+#, fuzzy, fuzzy
+msgid "Yes"
+msgstr "Taip"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "스위치 언어"
+
+#, fuzzy, fuzzy
+msgid "(no exact match)"
+msgstr "(Nėra tikslaus atitikimo)"
+
+#, fuzzy, fuzzy
+msgid "General Information"
+msgstr "Bendra informacija"
+
+#, fuzzy, fuzzy
+msgid "Supported Languages"
+msgstr "Palaikomos kalbos"
+
+#, fuzzy, fuzzy
+msgid "Dates"
+msgstr "Datos"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "숫자 형식"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "값 (들)"
+
+#, fuzzy, fuzzy
+msgid "(not found)"
+msgstr "(Nerasta)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "스위치 언어"
+
+#, fuzzy, fuzzy
+msgid "all"
+msgstr "visi"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Pradžia"
+
+#, fuzzy
+msgid "languages"
+msgstr "언어"
+
+#, fuzzy, fuzzy
+msgid "complex locales"
+msgstr "sudėtingas lokalių"
+
+#, fuzzy, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy, fuzzy
+msgid "Lists:"
+msgstr "Sąrašą:"
+
+#, fuzzy, fuzzy
+msgid "Select"
+msgstr "Pasirinkite"
+
+#, fuzzy, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Palyginti lokalė duomenų šaltiniai"
+
+#, fuzzy, fuzzy
+msgid "Numbers"
+msgstr "Skaičiai"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "자바 로캘? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Google Translate languages"
+msgstr "&quot;Google Translate kalbomis"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "마이크로 소프트. NET을 CultureInfo? {0}? ({1})"
+
+#, fuzzy, fuzzy
+msgid "Change language"
+msgstr "Pakeisti kalbą"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "당신보다 더 많은 로컬 리 제이션 데이터는 너무에서 막대기, 그리고 API를 흔들 수 있습니다!"
+
+#, fuzzy, fuzzy
+msgid "simple locales"
+msgstr "paprasta aplinka"
+
+#, fuzzy, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Svetainės medis"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "언어 변경"
+
+#, fuzzy, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Šis žemėlapis yra skirtas robotai, o ne žmonėms, bet jaustis laisvai naršyti anyway! Arba bandykite {0} žaliavos XML vaizdas {1}."
+
+#, fuzzy, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "palyginti dviejų duomenų šaltinių ir pamatysite, kurie aplinka trūksta."
+
+#, fuzzy
+msgid "Missing"
+msgstr "누락"
+
+#, fuzzy, fuzzy
+msgid "(not set)"
+msgstr "(Nenustatyta)"
+
+#, fuzzy, fuzzy
+msgid "(current)"
+msgstr "(Esamas)"
+
+#, fuzzy, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Kalbos: {0}"
+
+#, fuzzy, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Sveiki atvykę į LocalePlanet!"
+
+#, fuzzy, fuzzy
+msgid "Message:"
+msgstr "Žinutė:"
+
+#, fuzzy, fuzzy
+msgid "Local name"
+msgstr "Vietos pavadinimas"
+
+#, fuzzy, fuzzy
+msgid "Digit"
+msgstr "Digit"
+
+#, fuzzy, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Stygos"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} 구글은 {1} 언어 번역"
+
+#, fuzzy
+msgid "Standards"
+msgstr "표준"
+
+#, fuzzy, fuzzy
+msgid "Significant digit"
+msgstr "Svarbūs skaitmenų"
+
+#, fuzzy, fuzzy
+msgid "Complete List"
+msgstr "Pilnas sąrašas"
+
+#, fuzzy, fuzzy
+msgid "Pattern"
+msgstr "Modelis"
+
+#, fuzzy, fuzzy
+msgid "Percent"
+msgstr "Procentas"
+
+#, fuzzy
+msgid "Short months"
+msgstr "짧은 개월"
+
+#, fuzzy, fuzzy
+msgid "Extended Locales"
+msgstr "Išplėstinė Locales"
+
+#, fuzzy, fuzzy
+msgid "Exponent separator"
+msgstr "Eksponentė separatorius"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "통화 기호"
+
+#, fuzzy, fuzzy
+msgid "Decimal separator"
+msgstr "Dešimtainis skyriklis"
+
+#, fuzzy, fuzzy
+msgid "Contact"
+msgstr "Kontaktai"
+
+#, fuzzy, fuzzy
+msgid "Grouping separator"
+msgstr "Grupavimas separatorius"
+
+#, fuzzy, fuzzy
+msgid "Pad escape"
+msgstr "Pad pabėgti"
+
+#, fuzzy, fuzzy
+msgid "Eras"
+msgstr "Eras"
+
+#, fuzzy, fuzzy
+msgid "International currency symbol"
+msgstr "Tarptautinis valiutos simbolį"
+
+#, fuzzy, fuzzy
+msgid "Website:"
+msgstr "Interneto svetainė:"
+
+#, fuzzy, fuzzy
+msgid "Zero digit"
+msgstr "Nulis skaitmenų"
+
+#, fuzzy, fuzzy
+msgid "Infinity"
+msgstr "Begalybė"
+
+#, fuzzy, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Bendravimas yra pigus. Parodyk man kodą."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "통화 소수점 구분 기호"
+
+#, fuzzy, fuzzy
+msgid "Total:"
+msgstr "Iš viso:"
+
+#, fuzzy, fuzzy
+msgid "Months"
+msgstr "Mėnesio"
+
+#, fuzzy, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Paprasta (XX-XX) Locales"
+
+#, fuzzy, fuzzy
+msgid "Weekdays"
+msgstr "Darbo dienomis"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "그랜드 합계 : {0}"
+
+#, fuzzy, fuzzy
+msgid "Era names"
+msgstr "Era pavadinimų"
+
+#, fuzzy, fuzzy
+msgid "Only in {0}"
+msgstr "Tik {0}"
+
+#, fuzzy, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy, fuzzy
+msgid "Name:"
+msgstr "Vardas:"
+
+#, fuzzy, fuzzy
+msgid "Continue"
+msgstr "Toliau"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 국가 목록"
+
+#, fuzzy, fuzzy
+msgid "Plus sign"
+msgstr "Pliuso ženklas"
+
+#, fuzzy, fuzzy
+msgid "ICU locales in this country"
+msgstr "ICU aplinka šioje šalyje"
+
+#, fuzzy, fuzzy
+msgid "Short weekdays"
+msgstr "Trumpas darbo dienomis"
+
+#, fuzzy, fuzzy
+msgid "File name"
+msgstr "Failo vardas"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "규격 :"
+
+#, fuzzy, fuzzy
+msgid "Local Name"
+msgstr "Vietos pavadinimas"
+
+#, fuzzy, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Tarptautinė komponentai Unicode ({0} ICU {1}) duomenys"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "당 밀"
+
+#, fuzzy, fuzzy
+msgid "Message"
+msgstr "Žinutė"
+
+#, fuzzy, fuzzy
+msgid "Minus sign"
+msgstr "Minuso ženklas"
+
+#, fuzzy, fuzzy
+msgid "Obsolete:"
+msgstr "Pasenę:"
+
+#, fuzzy, fuzzy
+msgid "Field"
+msgstr "Srityje"
+
+#, fuzzy, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Dėkojame už Jūsų atsiliepimus!"
+
+#, fuzzy, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU aplinka Naudodami šią kalbą"
+
+#, fuzzy
+msgid "Format"
+msgstr "체재"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Tai per sąrašą ISO 639 kalbos <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy, fuzzy
+msgid "Countries"
+msgstr "Šalys"
+
+#, fuzzy, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Tai šalių sąrašą ISO 3166 per <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Kalbų sąrašas"
+
+#, fuzzy, fuzzy
+msgid "Description"
+msgstr "Aprašymas"
+
+#, fuzzy
+msgid "Email:"
+msgstr "Paštas:"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Laiko juostos"
+
+#, fuzzy
+msgid "Today"
+msgstr "Šiandien"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Vertimas"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "Palyginti data modeliai"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Vertimai pakrauta!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Šalys, kalbos {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Data planas"
+
+#, fuzzy
+msgid "Result"
+msgstr "Rezultatai"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Dešimtainis? Separatoriai"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Palyginti data modeliai"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Dešimtainis ženklai"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Rodyti variantas"
+
+#, fuzzy
+msgid "Call"
+msgstr "Skambinti"
+
+#, fuzzy
+msgid "Details"
+msgstr "Informacija"
+
+#, fuzzy
+msgid "Function"
+msgstr "Funkcija"
+
+#, fuzzy
+msgid "Output"
+msgstr "Produkcija"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Mėginio"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Apvalinimo"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Palyginti Valiutų modeliai"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Daugiskaitos"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Nėra)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Data Rūšiuojama"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Apžvalga"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "dienos modelių"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Papildoma atitinkamų standartų"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Jūsų užklausa atitiko {0} failus {1} katalogų."
+
+#, fuzzy
+msgid "File name"
+msgstr "Vaizdas? Pavadinimas"
+
+#, fuzzy
+msgid "Input"
+msgstr "Indėlis"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Simbolis"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Šiandien yra {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Palyginkite:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Biblioteka"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Grupavimas? Separatoriai"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Palyginti Laikas modeliai"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "valiuta modeliai"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "laiko modelius"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Lokalizavimo ir internacionalizavimo JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Minus? Registruotis"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Vieta"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Pavyzdžiai"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Planas separatoriai"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Laiko modelio"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Dabar ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Kalba"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Argumentai"
+
+#, fuzzy
+msgid "Country"
+msgstr "Šalis"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: L10N ir I18N JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Rodomas vardas"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Naudojimas"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Ilgus vardus"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Jūs turite {0} gyvena likusios"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Uždėkite rankas, kur galiu pamatyti juos!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Duomenys"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Trumpas / Standard"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Ilgas / Standard"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Trumpas / Dienos šviesa"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Trumpas Vardai"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Ilgas / Daylight"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Dešimtainis? Skaičiai"
+
+#, fuzzy
+msgid "Home"
+msgstr "Namo"
+
+#, fuzzy
+msgid "unknown"
+msgstr "nežinomas"

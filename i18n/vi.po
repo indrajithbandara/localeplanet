@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Xin chào thế giới!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, tôi đã có cảm giác chúng tôi đang không ở Kansas nữa"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Không có nơi như nhà"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Những gì chúng tôi đã có ở đây là thất bại để liên lạc"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, chúng tôi có một vấn đề"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Hãy ra khỏi cỏ"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Tất cả các bạn căn bản là thuộc về chúng tôi"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "Trong giấc mơ bạn có thể thấy chính mình mà không sử dụng gương"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Xin vui lòng tôi có thể có một số trái chanh?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Hãy giúp tôi!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Không, bạn không đến!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "So sánh"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Translate tiếng? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Thống kê truy cập Locale"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "không phải là một SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Miền địa phương liên quan ICU"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Cha mẹ:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Anh chị em:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Trẻ em:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java miền địa phương"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Tên"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} {1} Java miền địa phương"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "Tên bản địa"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "So sánh hai nguồn dữ liệu và xem những miền địa phương có trong một nhưng không phải là khác."
+
+#, fuzzy
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "Ngôn ngữ với các nước"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Dịch?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Google không tên"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Ngôn ngữ Google Translate"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Bạn phải chọn hai nguồn dữ liệu khác nhau để so sánh"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "Miền địa phương để kiểm tra:"
+
+#, fuzzy
+msgid "In both"
+msgstr "Trong cả hai"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Tùy chọn:"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "Nguồn dữ liệu {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "Tùy chọn"
+
+#, fuzzy
+msgid "All"
+msgstr "Tất cả"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "Hiển thị địa điểm chung"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "Thiếu miền địa phương"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "So sánh một lần nữa"
+
+#, fuzzy
+msgid "compare"
+msgstr "so sánh"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "Thông tin cơ bản"
+
+#, fuzzy
+msgid "English"
+msgstr "Tiếng Anh"
+
+#, fuzzy
+msgid "Code"
+msgstr "Mã số"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "Mẫu Anh"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "nguồn dữ liệu khác"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Tên của Google"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "Hỗ trợ?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "Tên trong nguồn dữ liệu"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "Ký tự định hướng"
+
+#, fuzzy
+msgid "Display name"
+msgstr "Hiển thị tên"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "Dòng định hướng"
+
+#, fuzzy
+msgid "Data source"
+msgstr "Nguồn dữ liệu"
+
+#, fuzzy
+msgid "Value"
+msgstr "Giá trị"
+
+#, fuzzy
+msgid "No"
+msgstr "Không có"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "Base ID miền địa phương"
+
+#, fuzzy
+msgid "Property"
+msgstr "Bất động sản"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "Hiển thị tên với phương ngữ"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "Nguồn dữ liệu so sánh cho {0}"
+
+#, fuzzy
+msgid "Yes"
+msgstr "Có"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Chuyển đổi ngôn ngữ"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(Không kết hợp chính xác)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "Thông tin chung"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "Hỗ trợ Ngôn ngữ"
+
+#, fuzzy
+msgid "Dates"
+msgstr "Ngày khai giảng"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Số định dạng"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Giá trị (s)"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(Không tìm thấy)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Chuyển đổi ngôn ngữ"
+
+#, fuzzy
+msgid "all"
+msgstr "tất cả"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "Trang LocalePlanet"
+
+#, fuzzy
+msgid "languages"
+msgstr "ngôn ngữ"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "phức tạp miền địa phương"
+
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "Danh sách:"
+
+#, fuzzy
+msgid "Select"
+msgstr "Chọn"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "So sánh các nguồn dữ liệu Locale"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "Số"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Java Locale {0}?? ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate ngôn ngữ"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft NET CultureInfo?. {0}? ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "Thay đổi ngôn ngữ"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "dữ liệu nội địa hóa hơn bạn có thể lắc một thanh lúc, và một API quá!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "đơn giản miền địa phương"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Sơ đồ trang web"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Thay đổi Ngôn ngữ"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "sơ đồ trang web này là dành cho robot, không phải con người, nhưng cảm thấy tự do để duyệt anyway! Hoặc hãy thử xem {0} XML nguyên {1}."
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "so sánh hai nguồn dữ liệu để xem những miền địa phương là mất tích."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Thiếu"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(Không đặt)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(Hiện tại)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Của các ngôn ngữ: {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "Chào mừng bạn đến LocalePlanet!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "Thông báo:"
+
+#, fuzzy
+msgid "Local name"
+msgstr "Tên địa phương"
+
+#, fuzzy
+msgid "Digit"
+msgstr "Chữ số"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Strings"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} Google Translate Ngôn ngữ {1}"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Tiêu chuẩn"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "Con số đáng kể"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "Danh sách đầy đủ"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "Hoa văn"
+
+#, fuzzy
+msgid "Percent"
+msgstr "Phần trăm"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Short tháng"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Mở rộng địa"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "Số mũ phân cách"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Tiền tệ"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "Decimal separator"
+
+#, fuzzy
+msgid "Contact"
+msgstr "Liên hệ"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "Nhóm phân cách"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "Pad thoát"
+
+#, fuzzy
+msgid "Eras"
+msgstr "Thời đại"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "Tiền tệ quốc tế"
+
+#, fuzzy
+msgid "Website:"
+msgstr "Website:"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "Zero chữ số"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "Vô cực"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Thảo luận là giá rẻ. Chỉ cho tôi mã."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Tiền tệ thập phân tách"
+
+#, fuzzy
+msgid "Total:"
+msgstr "Tổng số:"
+
+#, fuzzy
+msgid "Months"
+msgstr "Tháng"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Đơn giản (xx-XX) miền địa phương"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "Các ngày trong tuần"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Tổng cộng: {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "Kỷ nguyên tên"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "Chỉ trong {0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy
+msgid "Name:"
+msgstr "Tên:"
+
+#, fuzzy
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Danh sách quốc gia"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "Dấu cộng"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "ICU miền địa phương ở đất nước này"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "Ngắn ngày trong tuần"
+
+#, fuzzy
+msgid "File name"
+msgstr "Tên tập tin"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Tiêu chuẩn:"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "Tên địa phương"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Các thành phần quốc tế Unicode (ICU {0} {1}) dữ liệu"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "Mỗi nhà máy"
+
+#, fuzzy
+msgid "Message"
+msgstr "Thông báo"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "Dấu trừ"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "Lỗi thời:"
+
+#, fuzzy
+msgid "Field"
+msgstr "Field"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Cảm ơn phản hồi của bạn!"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "ICU miền địa phương sử dụng ngôn ngữ này"
+
+#, fuzzy
+msgid "Format"
+msgstr "Định dạng"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Đây là danh sách các ISO 639 ngôn ngữ qua <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "Các nước"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Đây là danh sách các quốc gia thông qua ISO 3166 <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "Danh sách ngôn ngữ ISO 639"
+
+#, fuzzy
+msgid "Description"
+msgstr "Mô tả"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Thời gian Khu"
+
+#, fuzzy
+msgid "Today"
+msgstr "Hôm nay"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Dịch"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "So sánh các mô hình ngày"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Dịch nạp!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "Các nước với các ngôn ngữ {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Ngày Hoa văn"
+
+#, fuzzy
+msgid "Result"
+msgstr "Kết quả"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Thập phân? Separator"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "So sánh các mẫu Ngày"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Ký hiệu chữ số thập phân"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Hiển thị phiên bản"
+
+#, fuzzy
+msgid "Call"
+msgstr "Call"
+
+#, fuzzy
+msgid "Details"
+msgstr "Thông tin chi tiết"
+
+#, fuzzy
+msgid "Function"
+msgstr "Chức năng"
+
+#, fuzzy
+msgid "Email:"
+msgstr "Email:"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Locale"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Mẫu"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Làm tròn"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "So sánh các mẫu tiền tệ"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Số nhiều"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Không có)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Ngày đặt hàng"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Tổng quan"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "Ngày mô hình"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Bổ sung các tiêu chuẩn liên quan"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "truy vấn của bạn xuất hiện {0} tập tin trong thư mục {1}."
+
+#, fuzzy
+msgid "File name"
+msgstr "Tập tin? Tên"
+
+#, fuzzy
+msgid "Input"
+msgstr "Đầu vào"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Biểu tượng"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Hôm nay là {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "So sánh:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Thư viện"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Nhóm? Separator"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "So sánh các mẫu Thời gian"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "mô hình tiền tệ"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "thời gian mô hình"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Địa phương hoá và Quốc tế cho JavaScript"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Trừ? Đăng ký"
+
+#, fuzzy
+msgid "Output"
+msgstr "Đầu ra"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Ví dụ"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Hoa văn Separator"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Thời gian Pattern"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Trả ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Đối số"
+
+#, fuzzy
+msgid "Country"
+msgstr "Quốc gia"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: l10n và I18N cho JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Hiển thị Tên"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Cách sử dụng"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Tên Long"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Bạn có {0} cuộc sống còn lại"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Đặt tay của bạn, nơi tôi có thể nhìn thấy họ!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Canonical ID"
+
+#, fuzzy
+msgid "Data"
+msgstr "Dữ liệu"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Short / Tiêu chuẩn"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Long / Tiêu chuẩn"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Short / Ánh sáng ban ngày"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Tên ngắn"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Long / Ánh sáng ban ngày"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Thập phân? Chữ số"
+
+#, fuzzy
+msgid "Home"
+msgstr "Trang chủ"
+
+#, fuzzy
+msgid "unknown"
+msgstr "chưa biết"

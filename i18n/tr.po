@@ -1,0 +1,903 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-11 12:38-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/com/localeplanet/ui/UI.java:63
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Hello world!"
+msgstr "Merhaba dünya!"
+
+#: ../src/com/localeplanet/ui/UI.java:64
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Toto, I've a feeling we're not in Kansas anymore"
+msgstr "Toto, Sanırım artık Kansas&#39;ta değilsin bir duygu var"
+
+#: ../src/com/localeplanet/ui/UI.java:65
+#, fuzzy
+msgid "E.T. phone home"
+msgstr "ET téléphone maison"
+
+#: ../src/com/localeplanet/ui/UI.java:66
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "There's no place like home"
+msgstr "Ev gibi bir yer var"
+
+#: ../src/com/localeplanet/ui/UI.java:67
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "What we've got here is failure to communicate"
+msgstr "Biz burada ne var iletişim başarısızlıktır"
+
+#: ../src/com/localeplanet/ui/UI.java:68
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Houston, we have a problem"
+msgstr "Houston, bir sorun var"
+
+#: ../src/com/localeplanet/ui/UI.java:69
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Keep off the grass"
+msgstr "Çimlere basmayın"
+
+#: ../src/com/localeplanet/ui/UI.java:70
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "All your base are belong to us"
+msgstr "Tüm temel bize aittir"
+
+#: ../src/com/localeplanet/ui/UI.java:71
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "In dreams you can see yourself without using mirrors"
+msgstr "Rüyalarımda seni ayna kullanmadan kendiniz görebilirsiniz"
+
+#: ../src/com/localeplanet/ui/UI.java:72
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Please may I have some lemons?"
+msgstr "Biraz limon olabilir lütfen?"
+
+#: ../src/com/localeplanet/ui/UI.java:73
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Help me!"
+msgstr "Bana yardım et!"
+
+#: ../src/com/localeplanet/ui/UI.java:74
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "No, you're not coming!"
+msgstr "Hayır, gelmiyorlar!"
+
+#: ../src/com/localeplanet/ui/UI.java:110
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "API"
+msgstr "API"
+
+#: ../src/com/localeplanet/ui/UI.java:116
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Compare"
+msgstr "Karşılaştırmak"
+
+#: ../src/com/localeplanet/ui/UI.java:146
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Support"
+msgstr "Destek"
+
+#: ../www/_google-translate/index_html.jsp:24
+#, java-format, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Google Translate Language “{0}”"
+msgstr "Google Language Çevir? {0}?"
+
+#: ../www/support/statistics_html.jsp:26 ../www/support/statistics_html.jsp:31
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Visitor Locale Statistics"
+msgstr "Ziyaretçi Yerel İstatistikleri"
+
+#: ../www/_icu/index_html.jsp:247
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "not a SimpleDateFormat"
+msgstr "değil SimpleDateFormat"
+
+#: ../www/_icu/index_html.jsp:257
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Related ICU Locales"
+msgstr "Ilgili YBÜ Yereller"
+
+#: ../www/_icu/index_html.jsp:263
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Parent:"
+msgstr "Parent:"
+
+#: ../www/_icu/index_html.jsp:278
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Siblings:"
+msgstr "Kardeşler:"
+
+#: ../www/_icu/index_html.jsp:299
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Children:"
+msgstr "Çocuklar:"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Java Locales"
+msgstr "Java Yereller"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Name"
+msgstr "Adı"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "ID"
+msgstr "ID"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "{0}Java{1} Locales"
+msgstr "{0} Java {1} Yerel"
+
+#, fuzzy, fuzzy, fuzzy, fuzzy
+msgid "Native name"
+msgstr "Yerli isim"
+
+#, fuzzy
+msgid "Compare two data sources and see which locales that are in one but not the other."
+msgstr "iki veri kaynakları karşılaştırın ve bakın hangi birisi olan ancak diğer yerel."
+
+#, fuzzy
+msgid "Languages"
+msgstr "Diller"
+
+#, fuzzy
+msgid "Languages with Countries"
+msgstr "Dil ile Ülkeler"
+
+#, fuzzy
+msgid "Translatable?"
+msgstr "Çevrilebilir?"
+
+#, fuzzy
+msgid "Non-Google name"
+msgstr "Google&#39;a ait olmayan isim"
+
+#, fuzzy
+msgid "Google Translate Languages"
+msgstr "Google Translate Diller"
+
+#, fuzzy
+msgid "You must pick two different data sources to compare"
+msgstr "Karşılaştırmak için iki farklı veri kaynakları almak gerekir"
+
+#, fuzzy
+msgid "Locales to check:"
+msgstr "Locales kontrol etmek için:"
+
+#, fuzzy
+msgid "In both"
+msgstr "Her iki"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Seçenekleri:"
+
+#, fuzzy
+msgid "Data Source {0}"
+msgstr "Veri Kaynağı {0}"
+
+#, fuzzy
+msgid "Options"
+msgstr "Seçenekleri"
+
+#, fuzzy
+msgid "All"
+msgstr "Tüm"
+
+#, fuzzy
+msgid "Show locales in common"
+msgstr "ortak Show yerel"
+
+#, fuzzy
+msgid "Missing Locales"
+msgstr "Eksik Yereller"
+
+#, fuzzy
+msgid "Compare again"
+msgstr "tekrar karşılaştır"
+
+#, fuzzy
+msgid "compare"
+msgstr "karşılaştırmak"
+
+#, fuzzy
+msgid "Basic Information"
+msgstr "Temel Bilgiler"
+
+#, fuzzy
+msgid "English"
+msgstr "İngilizce"
+
+#, fuzzy
+msgid "Code"
+msgstr "Kod"
+
+#, fuzzy
+msgid "Sample Translations"
+msgstr "Örnek Çeviriler"
+
+#, fuzzy
+msgid "Other data sources"
+msgstr "Diğer veri kaynakları"
+
+#, fuzzy
+msgid "Google Name"
+msgstr "Google Adı"
+
+#, fuzzy
+msgid "Supported?"
+msgstr "Destekleniyor mu?"
+
+#, fuzzy
+msgid "Name in data source"
+msgstr "veri isim kaynağı"
+
+#, fuzzy
+msgid "Character orientation"
+msgstr "Karakter oryantasyon"
+
+#, fuzzy
+msgid "Display name"
+msgstr "Ekran adı"
+
+#, fuzzy
+msgid "Line orientation"
+msgstr "Hat yönlendirme"
+
+#, fuzzy
+msgid "Data source"
+msgstr "Veri kaynağı"
+
+#, fuzzy
+msgid "Value"
+msgstr "Değer"
+
+#, fuzzy
+msgid "No"
+msgstr "Yok"
+
+#, fuzzy
+msgid "Base locale ID"
+msgstr "Baz yerel kimlik"
+
+#, fuzzy
+msgid "Property"
+msgstr "Mülk"
+
+#, fuzzy
+msgid "Display name with dialect"
+msgstr "lehçesi ile Görünen ad"
+
+#, fuzzy
+msgid "Data Source Comparison for {0}"
+msgstr "{0} için Veri Kaynağı Karşılaştırması"
+
+#, fuzzy
+msgid "Yes"
+msgstr "Evet"
+
+#, fuzzy
+msgid "Switch Language"
+msgstr "Dil Değiştir"
+
+#, fuzzy
+msgid "(no exact match)"
+msgstr "(Kesin maç)"
+
+#, fuzzy
+msgid "General Information"
+msgstr "Genel Bilgi"
+
+#, fuzzy
+msgid "Supported Languages"
+msgstr "Desteklenen diller"
+
+#, fuzzy
+msgid "Dates"
+msgstr "Tarih"
+
+#, fuzzy
+msgid "Number Formats"
+msgstr "Sayı Biçimleri"
+
+#, fuzzy
+msgid "Value(s)"
+msgstr "Değer (ler)"
+
+#, fuzzy
+msgid "(not found)"
+msgstr "(Bulunamadı)"
+
+#, fuzzy
+msgid "Switch language"
+msgstr "Şalter dil"
+
+#, fuzzy
+msgid "all"
+msgstr "tüm"
+
+#, fuzzy
+msgid "LocalePlanet Home Page"
+msgstr "LocalePlanet Ana Sayfa"
+
+#, fuzzy
+msgid "languages"
+msgstr "diller"
+
+#, fuzzy
+msgid "complex locales"
+msgstr "karmaşık yerel"
+
+#, fuzzy
+msgid "URL"
+msgstr "URL"
+
+#, fuzzy
+msgid "Lists:"
+msgstr "Listeleri:"
+
+#, fuzzy
+msgid "Select"
+msgstr "Seçin"
+
+#, fuzzy
+msgid "Compare Locale Data Sources"
+msgstr "Yerel Veri Kaynakları karşılaştır"
+
+#, fuzzy
+msgid "Numbers"
+msgstr "Sayılar"
+
+#, fuzzy
+msgid "Java Locale “{0}” ({1})"
+msgstr "Java Locale? {0}? ({1})"
+
+#, fuzzy
+msgid "Google Translate languages"
+msgstr "Google Translate diller"
+
+#, fuzzy
+msgid "Microsoft .NET CultureInfo “{0}” ({1})"
+msgstr "Microsoft. NET CultureInfo? {0}? ({1})"
+
+#, fuzzy
+msgid "Change language"
+msgstr "Dil değiştir"
+
+#, fuzzy
+msgid "More localization data than you can shake a stick at, and an API too!"
+msgstr "Senden daha fazla yerelleştirme verisi çok az bir sopa ve bir API sallamak olabilir!"
+
+#, fuzzy
+msgid "simple locales"
+msgstr "basit yerel"
+
+#, fuzzy
+msgid "LocalePlanet Sitemap"
+msgstr "LocalePlanet Site Haritası"
+
+#, fuzzy
+msgid "Change Language"
+msgstr "Dil"
+
+#, fuzzy
+msgid "This sitemap is meant for robots, not humans, but feel free to browse anyway! Or try the {0}raw XML view{1}."
+msgstr "Bu site haritası, robotlar değil insanlar içindir ama çekinmeyin göz zaten! Veya {0} ham XML görünüm {1} deneyin."
+
+#, fuzzy
+msgid "compare two data sources to see which locales are missing."
+msgstr "yerel eksik olduğunu görmek için iki veri kaynakları karşılaştırın."
+
+#, fuzzy
+msgid "Missing"
+msgstr "Eksik"
+
+#, fuzzy
+msgid "(not set)"
+msgstr "(Belirtilmedi)"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(Güncel)"
+
+#, fuzzy
+msgid "# of languages: {0}"
+msgstr "# Diller: {0}"
+
+#, fuzzy
+msgid "Welcome to LocalePlanet!"
+msgstr "LocalePlanet hoş geldiniz!"
+
+#, fuzzy
+msgid "Message:"
+msgstr "Mesaj:"
+
+#, fuzzy
+msgid "Local name"
+msgstr "Yerel adı"
+
+#, fuzzy
+msgid "Digit"
+msgstr "Hane"
+
+#, fuzzy
+msgid "AM/PM Strings"
+msgstr "AM / PM Strings"
+
+#, fuzzy
+msgid "{0}Google Translate{1} Languages"
+msgstr "{0} {1} Google Diller Çevir"
+
+#, fuzzy
+msgid "Standards"
+msgstr "Standartlar"
+
+#, fuzzy
+msgid "Significant digit"
+msgstr "Önemli basamak"
+
+#, fuzzy
+msgid "Complete List"
+msgstr "Tam listesi"
+
+#, fuzzy
+msgid "Pattern"
+msgstr "Model"
+
+#, fuzzy
+msgid "Percent"
+msgstr "Yüzde"
+
+#, fuzzy
+msgid "Short months"
+msgstr "Kısa ay"
+
+#, fuzzy
+msgid "Extended Locales"
+msgstr "Genişletilmiş Yerel"
+
+#, fuzzy
+msgid "Exponent separator"
+msgstr "Üs ayırıcı"
+
+#, fuzzy
+msgid "Currency symbol"
+msgstr "Para birimi simgesi"
+
+#, fuzzy
+msgid "Decimal separator"
+msgstr "Ondalık ayırıcı"
+
+#, fuzzy
+msgid "Contact"
+msgstr "İletişim"
+
+#, fuzzy
+msgid "Grouping separator"
+msgstr "ayırıcı Gruplandırma"
+
+#, fuzzy
+msgid "Pad escape"
+msgstr "Ped kaçış"
+
+#, fuzzy
+msgid "Eras"
+msgstr "Eras"
+
+#, fuzzy
+msgid "International currency symbol"
+msgstr "Uluslararası para birimi simgesi"
+
+#, fuzzy
+msgid "Website:"
+msgstr "Web sitesi:"
+
+#, fuzzy
+msgid "Zero digit"
+msgstr "Sıfır rakamı"
+
+#, fuzzy
+msgid "Infinity"
+msgstr "Sonsuzluk"
+
+#, fuzzy
+msgid "Talk is cheap. Show me the code."
+msgstr "Konuşma ucuz olur. Bana kodu göster."
+
+#, fuzzy
+msgid "Monetary decimal separator"
+msgstr "Parasal ondalık ayırıcı"
+
+#, fuzzy
+msgid "Total:"
+msgstr "Toplam:"
+
+#, fuzzy
+msgid "Months"
+msgstr "Ay"
+
+#, fuzzy
+msgid "Simple (xx-XX) Locales"
+msgstr "Basit (xx-XX) Yerel Ayarlar"
+
+#, fuzzy
+msgid "Weekdays"
+msgstr "Hafta içi"
+
+#, fuzzy
+msgid "Grand total: {0}"
+msgstr "Genel toplam: {0}"
+
+#, fuzzy
+msgid "Era names"
+msgstr "Dönemin isimleri"
+
+#, fuzzy
+msgid "Only in {0}"
+msgstr "Sadece {0}"
+
+#, fuzzy
+msgid "NaN"
+msgstr "NaN"
+
+#, fuzzy
+msgid "Name:"
+msgstr "Adı:"
+
+#, fuzzy
+msgid "Continue"
+msgstr "Devam"
+
+#, fuzzy
+msgid "ISO 3166 Country List"
+msgstr "ISO 3166 Ülke Listesi"
+
+#, fuzzy
+msgid "Plus sign"
+msgstr "Artı işareti"
+
+#, fuzzy
+msgid "ICU locales in this country"
+msgstr "Bu ülkede yoğun bakım yerel"
+
+#, fuzzy
+msgid "Short weekdays"
+msgstr "Kısa haftaiçi"
+
+#, fuzzy
+msgid "File name"
+msgstr "Dosya adı"
+
+#, fuzzy
+msgid "Standards:"
+msgstr "Standartları:"
+
+#, fuzzy
+msgid "Local Name"
+msgstr "Yerel Ad"
+
+#, fuzzy
+msgid "International Components for Unicode ({0}ICU{1}) Data"
+msgstr "Unicode Uluslararası Bileşenleri ({0} {1} YB) Veriler"
+
+#, fuzzy
+msgid "Per mill"
+msgstr "Başına değirmen"
+
+#, fuzzy
+msgid "Message"
+msgstr "Mesajı"
+
+#, fuzzy
+msgid "Minus sign"
+msgstr "Eksi işareti"
+
+#, fuzzy
+msgid "Obsolete:"
+msgstr "Eski:"
+
+#, fuzzy
+msgid "Field"
+msgstr "Alan"
+
+#, fuzzy
+msgid "Thanks for your feedback!"
+msgstr "Yorumunuz için teşekkürler!"
+
+#, fuzzy
+msgid "ICU locales using this language"
+msgstr "Bu dili kullanarak ICU yerel"
+
+#, fuzzy
+msgid "Format"
+msgstr "Format"
+
+#, fuzzy
+msgid "This is the list of ISO 639 languages via <code>ULocale.getISOLanguages()</code>."
+msgstr "Bu üzerinden 639 dilde ISO listesinin olduğu <code>ULocale.getISOLanguages()</code> ."
+
+#, fuzzy
+msgid "Countries"
+msgstr "Ülke"
+
+#, fuzzy
+msgid "This is the list of ISO 3166 countries via <code>ULocale.getISOCountries()</code>."
+msgstr "Bu üzerinden 3166 ülkelerde ISO listesinin olduğu <code>ULocale.getISOCountries()</code> ."
+
+#, fuzzy
+msgid "ISO 639 Language List"
+msgstr "ISO 639 Dil Listesi"
+
+#, fuzzy
+msgid "Description"
+msgstr "Açıklama"
+
+#, fuzzy
+msgid "Time Zones"
+msgstr "Zaman Bölgeleri"
+
+#, fuzzy
+msgid "Today"
+msgstr "Bugün"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Çeviri"
+
+#, fuzzy
+msgid "Compare date patterns"
+msgstr "tarih desen karşılaştır"
+
+#, fuzzy
+msgid "Translations loaded!"
+msgstr "Çeviriler yüklendi!"
+
+#, fuzzy
+msgid "Countries with language {0} ({1})"
+msgstr "dil ile Ülkeler {0} ({1})"
+
+#, fuzzy
+msgid "Date Pattern"
+msgstr "Tarih Desen"
+
+#, fuzzy
+msgid "Result"
+msgstr "Sonuç"
+
+#, fuzzy
+msgid "Decimal Separator"
+msgstr "Ondalık? Ayırıcı"
+
+#, fuzzy
+msgid "Compare Date Patterns"
+msgstr "Tarih Patterns karşılaştır"
+
+#, fuzzy
+msgid "Decimal Symbols"
+msgstr "Ondalık Semboller"
+
+#, fuzzy
+msgid "Display variant"
+msgstr "Ekran varyant"
+
+#, fuzzy
+msgid "Call"
+msgstr "Çağrı"
+
+#, fuzzy
+msgid "Details"
+msgstr "Ayrıntılar"
+
+#, fuzzy
+msgid "Function"
+msgstr "Fonksiyonu"
+
+#, fuzzy
+msgid "Email:"
+msgstr "E-posta:"
+
+#, fuzzy
+msgid "Locale"
+msgstr "Yerel"
+
+#, fuzzy
+msgid "Demo"
+msgstr "Demo"
+
+#, fuzzy
+msgid "Sample"
+msgstr "Örnek"
+
+#, fuzzy
+msgid "Rounding"
+msgstr "Yuvarlatma"
+
+#, fuzzy
+msgid "Compare Currency Patterns"
+msgstr "Para Patterns karşılaştır"
+
+#, fuzzy
+msgid "Plural"
+msgstr "Çoğul"
+
+#, fuzzy
+msgid "(none)"
+msgstr "(Yok)"
+
+#, fuzzy
+msgid "Date Order"
+msgstr "Tarih Sipariş"
+
+#, fuzzy
+msgid "Overview"
+msgstr "Genel bakış"
+
+#, fuzzy
+msgid "date patterns"
+msgstr "tarih desen"
+
+#, fuzzy
+msgid "Additional relevant standards"
+msgstr "Ek ilgili standartlara"
+
+#, fuzzy
+msgid "Your query matched {0} files in {1} directories."
+msgstr "Sorgunuzla {1} dizinlerde {0} dosya eşleştirdi."
+
+#, fuzzy
+msgid "File name"
+msgstr "Dosya? Adı"
+
+#, fuzzy
+msgid "Input"
+msgstr "Giriş"
+
+#, fuzzy
+msgid "Symbol"
+msgstr "Sembol"
+
+#, fuzzy
+msgid "Today is {0}"
+msgstr "Bugün {0}"
+
+#, fuzzy
+msgid "Compare:"
+msgstr "Karşılaştırın:"
+
+#, fuzzy
+msgid "Library"
+msgstr "Kütüphane"
+
+#, fuzzy
+msgid "Grouping Separator"
+msgstr "Gruplama? Ayırıcı"
+
+#, fuzzy
+msgid "Compare Time Patterns"
+msgstr "Zaman Patterns karşılaştır"
+
+#, fuzzy
+msgid "currency patterns"
+msgstr "para desen"
+
+#, fuzzy
+msgid "time patterns"
+msgstr "zaman kalıpları"
+
+#, fuzzy
+msgid "Localization and Internationalization for JavaScript"
+msgstr "Yerelleştirme ve JavaScript için Uluslararasılaşma"
+
+#, fuzzy
+msgid "Minus Sign"
+msgstr "Eksi? Kaydol"
+
+#, fuzzy
+msgid "Output"
+msgstr "Çıktı"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Örnekler"
+
+#, fuzzy
+msgid "Pattern Separator"
+msgstr "Desen Ayırıcı"
+
+#, fuzzy
+msgid "Time Pattern"
+msgstr "Zaman Desen"
+
+#, fuzzy
+msgid "Now ({0})"
+msgstr "Şimdi ({0})"
+
+#, fuzzy
+msgid "Language"
+msgstr "Dil"
+
+#, fuzzy
+msgid "Arguments"
+msgstr "Argümanlar"
+
+#, fuzzy
+msgid "Country"
+msgstr "Ülke"
+
+#, fuzzy
+msgid "LocalePlanet: L10N and I18N for JavaScript"
+msgstr "LocalePlanet: l10n ve i18n JavaScript"
+
+#, fuzzy
+msgid "Display Name"
+msgstr "Görünen Ad"
+
+#, fuzzy
+msgid "Usage"
+msgstr "Kullanımı"
+
+#, fuzzy
+msgid "Long Names"
+msgstr "Uzun İsim"
+
+#, fuzzy
+msgid "You have {0} lives remaining"
+msgstr "Var {0} kalan yaşıyor"
+
+#, fuzzy
+msgid "Put your hands where I can see them!"
+msgstr "Ben görmeden nereye Ellerini koy!"
+
+#, fuzzy
+msgid "Canonical ID"
+msgstr "Kanonik Kimliği"
+
+#, fuzzy
+msgid "Data"
+msgstr "Veri"
+
+#, fuzzy
+msgid "Short/Standard"
+msgstr "Kısa / Standart"
+
+#, fuzzy
+msgid "Long/Standard"
+msgstr "Uzun / Standart"
+
+#, fuzzy
+msgid "Short/Daylight"
+msgstr "Kısa / Günışığı"
+
+#, fuzzy
+msgid "Short Names"
+msgstr "Kısa İsim"
+
+#, fuzzy
+msgid "Long/Daylight"
+msgstr "Uzun / Günışığı"
+
+#, fuzzy
+msgid "Decimal Digits"
+msgstr "Ondalık? Basamakları"
+
+#, fuzzy
+msgid "Home"
+msgstr "Ev"
+
+#, fuzzy
+msgid "unknown"
+msgstr "bilinmeyen"
