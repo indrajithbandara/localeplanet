@@ -1,0 +1,236 @@
+package com.bluegolf.i18n;
+
+import java.text.DateFormat;
+import java.text.DateFormatSymbols;
+import java.text.FieldPosition;
+import java.text.SimpleDateFormat;
+import java.util.*;
+
+import com.wlcap.util.JavaScriptEncoder;
+
+public class PatternFunctionGenerator
+{
+    private static final long TICKS = 1217577661000L; // 1 Aug 2008 8:01:01 AM UTC
+
+    private static final Comparator<FieldPosition> POSITION_ORDER = new Comparator<FieldPosition>()
+    {
+        public int compare(FieldPosition a, FieldPosition b)
+        {
+            return a.getBeginIndex() - b.getBeginIndex();
+        }
+    };
+
+    public static String getFunction(String pattern)
+    {
+        StringBuffer buffer = new StringBuffer("undefined");
+        if (pattern != null)
+        {
+            FieldPosition[] fields = new FieldPosition[]
+            {
+                new FieldPosition(DateFormat.YEAR_FIELD),
+                new FieldPosition(DateFormat.MONTH_FIELD),
+                new FieldPosition(DateFormat.DATE_FIELD),
+                new FieldPosition(DateFormat.DAY_OF_WEEK_FIELD),
+                new FieldPosition(DateFormat.HOUR_OF_DAY0_FIELD),
+                new FieldPosition(DateFormat.HOUR_OF_DAY1_FIELD),
+                new FieldPosition(DateFormat.HOUR0_FIELD),
+                new FieldPosition(DateFormat.HOUR1_FIELD),
+                new FieldPosition(DateFormat.MINUTE_FIELD),
+                new FieldPosition(DateFormat.SECOND_FIELD),
+                new FieldPosition(DateFormat.AM_PM_FIELD),
+            };
+
+            SimpleDateFormat format = new SimpleDateFormat(pattern, Locale.US);
+            format.setTimeZone(TimeZone.getTimeZone("GMT"));
+            Calendar cal = format.getCalendar();
+            Date javaDate = cal.getTime();
+            javaDate.setTime(TICKS);
+            cal.setTime(javaDate);
+
+            for (FieldPosition field : fields)
+            {
+                buffer.setLength(0);
+                format.format(javaDate, buffer, field);
+            }
+            String formatted = buffer.toString();
+
+            Arrays.sort(fields, POSITION_ORDER);
+            buffer.setLength(0);
+            int offset = 0;
+            for (FieldPosition field : fields)
+            {
+                int length = field.getEndIndex() - field.getBeginIndex();
+                if (field.getBeginIndex() < 0 || length == 0)
+                {
+                    continue;
+                }
+                if (field.getBeginIndex() > offset)
+                {
+                    if (buffer.length() > 0)
+                    {
+                        buffer.append("+");
+                    }
+                    buffer.append(JavaScriptEncoder.encodeJsonString(formatted.substring(offset, field.getBeginIndex())));
+                }
+                offset = field.getEndIndex();
+                if (buffer.length() > 0)
+                {
+                    buffer.append("+");
+                }
+                switch (field.getField())
+                {
+                case DateFormat.YEAR_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("(d.getFullYear()+'').substring(2)");
+                        break;
+                    default:
+                        buffer.append("d.getFullYear()");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.MONTH_FIELD:
+                    switch (length)
+                    {
+                    case 1:
+                        buffer.append("(d.getMonth()+1)");
+                        break;
+                    case 2:
+                        buffer.append("((d.getMonth()+101)+'').substring(1)");
+                        break;
+                    case 3:
+                        buffer.append("i18nDictionary.monthNamesShort[d.getMonth()]");
+                        break;
+                    default:
+                        buffer.append("i18nDictionary.monthNamesLong[d.getMonth()]");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.DATE_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("((d.getDate()+100)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("d.getDate()");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.DAY_OF_WEEK_FIELD:
+                    switch (length)
+                    {
+                    case 1:
+                        buffer.append("(d.getDay()+1)");
+                        break;
+                    case 2:
+                        buffer.append("((d.getDay()+101)+'').substring(1)");
+                        break;
+                    case 3:
+                        buffer.append("i18nDictionary.dayNamesShort[d.getDay()+1]");
+                        break;
+                    default:
+                        buffer.append("i18nDictionary.dayNamesLong[d.getDay()+1]");
+                        break;
+                    }
+                    break;
+                case DateFormat.HOUR_OF_DAY0_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("((d.getHours()+100)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("d.getHours()");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.HOUR_OF_DAY1_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("((((d.getHours()+23)%24)+101)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("(((d.getHours()+23)%24)+1)");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.HOUR0_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("(((d.getHours()%12)+100)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("(d.getHours()%12)");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.HOUR1_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("((((d.getHours()+11)%12)+101)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("(((d.getHours()+11)%12)+1)");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.MINUTE_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("((d.getMinutes()+100)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("d.getMinutes()");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.SECOND_FIELD:
+                    switch (length)
+                    {
+                    case 2:
+                        buffer.append("((d.getSeconds()+100)+'').substring(1)");
+                        break;
+                    default:
+                        buffer.append("d.getSeconds()");
+                        break;
+                    }
+                    break;
+
+                case DateFormat.AM_PM_FIELD:
+                    buffer.append("i18nDictionary.amPmNames[0|(d.getHours()/12)]");
+                    break;
+
+                default:
+                    buffer.append("?");
+                    break;
+                }
+            }
+            if (offset < formatted.length())
+            {
+                if (buffer.length() > 0)
+                {
+                    buffer.append("+");
+                }
+                buffer.append(JavaScriptEncoder.encodeJsonString(formatted.substring(offset)));
+            }
+        }
+        buffer.append(");}");
+        buffer.insert(0, "function(d){if(d)if(d.getFullYear)return(");
+
+        return buffer.toString();
+    }
+}

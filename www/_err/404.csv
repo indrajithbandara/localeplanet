@@ -1,0 +1,11 @@
+#
+# mapping for files that have moved
+#
+#
+/standard/index.html,/support/standards.html,PERMANENT
+/support/standard.html,/support/standards.html,PERMANENT
+/iso/index.html,/support/standards.html,PERMANENT
+/iso/639/index.html,/icu/iso639.html,PERMANENT
+/iso/3166/index.html,/icu/iso3166.html,PERMANENT
+/_vti_bin(.*),http://www.microsoft.com/fix-frontpage-security-please,PERMANENT
+/api/([a-z]{2}[^/]*)/i18n(.*),/api/$1/icu$2,TEMPORARY

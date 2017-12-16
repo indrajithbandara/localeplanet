@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 3.2//EN" "http://tuckey.org/res/dtds/urlrewrite3.2.dtd">
+<urlrewrite>
+
+	<rule>
+	    <name>Home page</name>
+		<from>^/$</from>
+		<to last="true">/index_html.jsp</to>
+	</rule>
+
+	<rule>
+	    <name>Home page redirect</name>
+		<from>^/index\.html$</from>
+		<to last="true">/index_html.jsp</to>
+	</rule>
+	
+	<!--
+	<rule>
+	    <name>Welcome file redirect</name>
+		<from>^/(.*)/index\.html$</from>
+		<to last="true" type="redirect">/$1/</to>
+	</rule>
+	-->
+	
+	<rule>
+	    <name>Welcome file</name>
+		<from>^/(.*)/$</from>
+		<to>/$1/index.html</to>
+	</rule>
+	
+	<rule>
+		<name>Static files in the root directory</name>
+		<from>^/((favicon.ico)|(apple-touch-icon.png))$</from>
+		<to last="true">-</to>
+	</rule>
+	
+	<rule>
+	    <name>Root directory</name>
+		<from>^/([-a-z0-9]*)\.([a-z]*)$</from>
+		<to last="true">/$1_$2.jsp</to>
+	</rule>
+	
+	<rule>
+		<name>Static directories</name>
+		<from>^/((images)|(js)|(style))/(.*)$</from>
+		<to last="true">-</to>
+	</rule>
+	
+	<rule>
+		<name>Error handlers</name>
+		<from>^/_err/([0-9]{3})\.jsp$</from>
+		<to last="true">-</to>
+	</rule>
+	
+	<rule>
+		<name>UrlRewrite Info Page</name>
+		<from>^/support/rewrite.html$</from>
+		<to last="true">-</to>
+	</rule>
+	
+	<rule>
+	    <name>Redirect based on browser locale</name>
+		<from>^/redirect/(([-a-zA-Z0-9]*)\.js(on)?(\?.*)?)$</from>
+		<set type="request" name="target">$1</set>
+		<to last="true">/redirect/_go.jsp</to>
+	</rule>
+
+	<rule>
+	    <name>JSP's in level 1 directories</name>
+		<from>^/([-a-zA-Z0-9]*)/([-a-zA-Z0-9]*)\.([a-z]*)</from>
+		<to last="true">/$1/$2_$3.jsp</to>
+	</rule>
+
+	<rule>
+	    <name>JSP's in level 2 directories</name>
+		<from>^/([-a-zA-Z0-9]*)/([-a-zA-Z0-9+_ ]*)/([-a-zA-Z0-9_]*)\.([a-z]*)</from>
+		<set type="request" name="urlparam">$2</set>
+		<to last="true">/_$1/$3_$4.jsp</to>
+	</rule>
+
+	<rule>
+	    <name>Prevent direct access to JSP's</name>
+		<from>^/(.*)\.jsp$</from>
+		<set type="status">404</set>
+		<to last="true">null</to>
+	</rule>
+
+</urlrewrite>
+
