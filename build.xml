@@ -41,17 +41,6 @@
 
 	<target name="copy" description="Copy other src stuff to the application directory">
 		<mkdir dir="${war.dir}/WEB-INF"/>
-		<copy todir="${war.dir}/WEB-INF">
-			<fileset dir="src/WEB-INF">
-				<include name="*.xml"/>
-				<include name="*.properties"/>
-			</fileset>
-		</copy>
-		<copy todir="${war.dir}/WEB-INF/classes/META-INF">
-			<fileset dir="src/META-INF">
-				<include name="*.xml"/>
-			</fileset>
-		</copy>
 		<copy todir="${war.dir}/WEB-INF/classes/com">
 			<fileset dir="src/com">
 				<include name="**/*.csv"/>

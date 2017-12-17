@@ -13,7 +13,7 @@
 		<from>^/index\.html$</from>
 		<to last="true">/index_html.jsp</to>
 	</rule>
-	
+
 	<!--
 	<rule>
 	    <name>Welcome file redirect</name>
@@ -21,43 +21,49 @@
 		<to last="true" type="redirect">/$1/</to>
 	</rule>
 	-->
-	
+
 	<rule>
 	    <name>Welcome file</name>
 		<from>^/(.*)/$</from>
 		<to>/$1/index.html</to>
 	</rule>
-	
+
 	<rule>
 		<name>Static files in the root directory</name>
 		<from>^/((favicon.ico)|(apple-touch-icon.png))$</from>
 		<to last="true">-</to>
 	</rule>
-	
+
 	<rule>
 	    <name>Root directory</name>
 		<from>^/([-a-z0-9]*)\.([a-z]*)$</from>
 		<to last="true">/$1_$2.jsp</to>
 	</rule>
-	
+
 	<rule>
 		<name>Static directories</name>
-		<from>^/((images)|(js)|(style))/(.*)$</from>
+		<from>^/((images)|(js)|(css)|(font))/(.*)$</from>
 		<to last="true">-</to>
 	</rule>
-	
+
 	<rule>
 		<name>Error handlers</name>
 		<from>^/_err/([0-9]{3})\.jsp$</from>
 		<to last="true">-</to>
 	</rule>
-	
+
+	<rule>
+		<name>Google Admin Pages</name>
+		<from>^/_ah/.*</from>
+		<to last="true">-</to>
+	</rule>
+
 	<rule>
 		<name>UrlRewrite Info Page</name>
 		<from>^/support/rewrite.html$</from>
 		<to last="true">-</to>
 	</rule>
-	
+
 	<rule>
 	    <name>Redirect based on browser locale</name>
 		<from>^/redirect/(([-a-zA-Z0-9]*)\.js(on)?(\?.*)?)$</from>

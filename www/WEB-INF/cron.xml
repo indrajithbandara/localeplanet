@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+<!-- not needed since nodeping hits every minute
+  <cron>
+	<url>/support/keepalive.txt</url>
+	<description>Keep Alive</description>
+	<schedule>every 2 minutes</schedule>
+  </cron>
+-->
+</cronentries>

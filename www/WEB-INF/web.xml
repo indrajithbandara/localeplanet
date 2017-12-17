@@ -23,6 +23,11 @@
 	</error-page>
 
 	<filter>
+		<filter-name>LocaleFilter</filter-name>
+		<filter-class>com.localeplanet.i18n.LocaleFilter</filter-class>
+	</filter>
+	
+	<filter>
 		<filter-name>UrlRewriteFilter</filter-name>
 		<filter-class>org.tuckey.web.filters.urlrewrite.UrlRewriteFilter</filter-class>
 		<init-param>
@@ -31,7 +36,7 @@
 		</init-param>
 		<init-param>
             <param-name>statusEnabledOnHosts</param-name>
-            <param-value>localhost, www.labelmakr.com</param-value>
+            <param-value>localhost, www.localeplanet.com</param-value>
         </init-param>
         <init-param>
             <param-name>statusPath</param-name>
@@ -40,8 +45,24 @@
 	</filter>
 	
 	<filter-mapping>
-		<filter-name>UrlRewriteFilter</filter-name>
+		<filter-name>LocaleFilter</filter-name>
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
 
+	<filter-mapping>
+		<filter-name>UrlRewriteFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	<servlet>
+		<servlet-name>_ah_warmup</servlet-name>
+		<servlet-class>com.localeplanet.common.WarmupServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>_ah_warmup</servlet-name>
+		<url-pattern>/_ah/warmup</url-pattern>
+	</servlet-mapping>
+	
 </web-app>
